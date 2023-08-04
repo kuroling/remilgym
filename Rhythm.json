@@ -1,0 +1,4755 @@
+{
+"name": "Rhythm Girls Simulator 1st",
+"course": [
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl0",
+		"hash": [
+			{
+				"title": "intersection？！",
+				"genre": "Digi Rock",
+				"artist": "⑮",
+				"subartist": "BGA:えらる",
+				"md5": "9477d75b5a377cbdf5dfca0771df6d98",
+				"sha256": "3754aed494f3d2a49f83d837c02295e91780c5edbf94d2e28df5d4e3ca5cbd96",
+				"content": 3,
+				"banner": "banner.bmp",
+				"charthash": "e3ad07ed8852819f16094cfa1196949946b74ad0f94edf5728f3e9c6c174d63d"
+			},
+			{
+				"title": "Amethyst Moon [SP Another]",
+				"genre": "Immiscible",
+				"artist": "Rethisly",
+				"subartist": "BGA:るっかるか",
+				"md5": "697460a22f79651a3c1bce2bc3bb0667",
+				"sha256": "c04f1a406edff7288eda16c33770394c60973925750d434121ddb696e25d1dad",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"charthash": "c9d5aa4964e6cd92cc3ccc489b026dd878e54ec0387f137d0fa582677fcd7060"
+			},
+			{
+				"title": "Edge of bravery[VENGEANCE]",
+				"genre": "Rock-Core",
+				"artist": "みーに feat. 初音ミク",
+				"md5": "be75d2aa1742255f3fdaa94d11ba166f",
+				"sha256": "6c80304f22e16b9927e72a9e1f05381c3072e03100b9d55f35c852e2366cc485",
+				"content": 3,
+				"charthash": "be611da4008969474c8e90a5d51d4f4eea91cbc98c66bfe79ff17c38a1481f58"
+			},
+			{
+				"title": "Break Through The Barrier [HYPER]",
+				"genre": "HARDCORE",
+				"artist": "lixound",
+				"subartist": "mov:Xquid",
+				"md5": "448ccb9a5dfcd9a96d81123b53e1d29f",
+				"sha256": "ca105a6b956cae12a06e78c654bca9e9f2beaf250b790284958ce69af0e1714e",
+				"content": 2,
+				"stagefile": "Pic.jpg",
+				"charthash": "ab70864456480f31c16a226ec0b34d8ed9cbe1773a867675167ec18fd2540a09"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl0",
+		"hash": [
+			{
+				"title": "Dai-katsugeki(AMAZE Remix) [7ANOTHER]",
+				"genre": "BIG BEAT",
+				"artist": "minun♂ Remixed by AMAZE",
+				"md5": "c74942da2bb8599f726f10a6c8fd67a5",
+				"sha256": "1b171d2fe2d7eac55e2529d185061e882347e2af3a1cc59779412067d343b947",
+				"content": 3,
+				"stagefile": "Dai-katsugeki_640.jpg",
+				"charthash": "1811865cd255d47dada7b570964520e301bf5951d868debaedcd98133fc0dc6e"
+			},
+			{
+				"title": "織姫 -ANOTHER-",
+				"genre": "TRANCE",
+				"artist": "DJ TAKUAN 及び 佐倉アヤキ",
+				"md5": "f1db5347fcc14d0d753a4242c961f99e",
+				"sha256": "14670426527a1758e402afa37b2665c89d5a99df890a6e0265fb772d51884d0f",
+				"content": 3,
+				"charthash": "4d79f72f4f15dd825ded71e025498d148a09bedcd588472bd74acddb5f8a5b08"
+			},
+			{
+				"title": "Caffeine Overdose Girl",
+				"subtitle": "[Another]",
+				"genre": "Pop Rock",
+				"artist": "litmus* feat. Conyabata",
+				"md5": "dfd0e46b94c7bb62e72fb128a24f3d5e",
+				"sha256": "3101d144010f4d879b37da3cdb9647b0080bd0c15c5eb79f245bc340a0b41aeb",
+				"content": 2,
+				"stagefile": "caffeine_stagefile.png",
+				"charthash": "6361b9213fcea6a0409992931e39a885276a1f7e83b59cfbb06efbe1ca3f3224"
+			},
+			{
+				"title": "HealingFactor[SP HYPER]",
+				"genre": "Speed pathos",
+				"artist": "kyosei/Artwork:うまるつふり",
+				"md5": "722262f991053fb691b8d125cbd8f61f",
+				"sha256": "90fb22e66d16d234d02d37a871bdda2f29372a136b530c76462eb275a355033c",
+				"content": 3,
+				"charthash": "47f60493cc25a8a9878b7b693dddc23fc7303249c298bf73dc85589862ffc8e5"
+			},
+			{
+				"title": "intersection？！",
+				"genre": "Digi Rock",
+				"artist": "⑮",
+				"subartist": "BGA:えらる",
+				"md5": "9477d75b5a377cbdf5dfca0771df6d98",
+				"sha256": "3754aed494f3d2a49f83d837c02295e91780c5edbf94d2e28df5d4e3ca5cbd96",
+				"content": 3,
+				"banner": "banner.bmp",
+				"charthash": "e3ad07ed8852819f16094cfa1196949946b74ad0f94edf5728f3e9c6c174d63d"
+			},
+			{
+				"title": "Amethyst Moon [SP Another]",
+				"genre": "Immiscible",
+				"artist": "Rethisly",
+				"subartist": "BGA:るっかるか",
+				"md5": "697460a22f79651a3c1bce2bc3bb0667",
+				"sha256": "c04f1a406edff7288eda16c33770394c60973925750d434121ddb696e25d1dad",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"charthash": "c9d5aa4964e6cd92cc3ccc489b026dd878e54ec0387f137d0fa582677fcd7060"
+			},
+			{
+				"title": "Edge of bravery[VENGEANCE]",
+				"genre": "Rock-Core",
+				"artist": "みーに feat. 初音ミク",
+				"md5": "be75d2aa1742255f3fdaa94d11ba166f",
+				"sha256": "6c80304f22e16b9927e72a9e1f05381c3072e03100b9d55f35c852e2366cc485",
+				"content": 3,
+				"charthash": "be611da4008969474c8e90a5d51d4f4eea91cbc98c66bfe79ff17c38a1481f58"
+			},
+			{
+				"title": "Break Through The Barrier [HYPER]",
+				"genre": "HARDCORE",
+				"artist": "lixound",
+				"subartist": "mov:Xquid",
+				"md5": "448ccb9a5dfcd9a96d81123b53e1d29f",
+				"sha256": "ca105a6b956cae12a06e78c654bca9e9f2beaf250b790284958ce69af0e1714e",
+				"content": 2,
+				"stagefile": "Pic.jpg",
+				"charthash": "ab70864456480f31c16a226ec0b34d8ed9cbe1773a867675167ec18fd2540a09"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl0",
+		"hash": [
+			{
+				"title": "endemize[ANOTHER]",
+				"genre": "Nostalgic J-POP",
+				"artist": "あとぅす feat.つゆり花鈴",
+				"subartist": "BGI:りーふぱいザウルス",
+				"md5": "dfb188bcf9506f9f00626c5263a84366",
+				"sha256": "d6228c0bd343fbef055154d06913c130bf3e8de74f435fa7c351f8982500467f",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_Banner.png",
+				"charthash": "06c7c2aaf01c1d658066eec8e8bff138bcc9f5b23545718d65f8a7407a506150"
+			},
+			{
+				"title": "じゃぱりぱー",
+				"genre": "JAPARIPARK",
+				"artist": "どうぶつビスケッツ×PPP と セルリアン",
+				"md5": "ac6f43d502b675cf530b11823c6d8f8d",
+				"sha256": "615a4d246a161e113bd04848bb64581ba800ff1265468e4b522c21a2ae92c34b",
+				"content": 3,
+				"charthash": "4da4f62fca5807edfdbb7d886e8a303c17a885590b0697811ceb61960a348e8c"
+			},
+			{
+				"title": "プナイプナイたいそう",
+				"subtitle": "[SP ANOTHER]",
+				"genre": "プナイプナイPOP",
+				"artist": "立秋 feat.ちょこ",
+				"md5": "522ce11990d09b94e515b653705be4fd",
+				"sha256": "532a76cb5a42dfccb2fdabc06624c432dc930f1aa26a067e496818ae9d79dc36",
+				"content": 2,
+				"charthash": "23aec8800b1a86543623564501a479f1364cdd9e7a0f3cef73f356d33844affe"
+			},
+			{
+				"title": "アトロポスと最果の探求者",
+				"genre": "eschatology",
+				"artist": "しーけー",
+				"md5": "9498378a847b94b949d11a566a86d3c0",
+				"sha256": "a6abed17b086a2cf3a8cafde95a06062d6412025a6b6651d04c283217fa54e08",
+				"content": 3,
+				"charthash": "9de0cdc6a0a27a71a4e0686d7f8045dcbe57539bafc782d0c356f0c351ee0a4e"
+			},
+			{
+				"title": "Dai-katsugeki(AMAZE Remix) [7ANOTHER]",
+				"genre": "BIG BEAT",
+				"artist": "minun♂ Remixed by AMAZE",
+				"md5": "c74942da2bb8599f726f10a6c8fd67a5",
+				"sha256": "1b171d2fe2d7eac55e2529d185061e882347e2af3a1cc59779412067d343b947",
+				"content": 3,
+				"stagefile": "Dai-katsugeki_640.jpg",
+				"charthash": "1811865cd255d47dada7b570964520e301bf5951d868debaedcd98133fc0dc6e"
+			},
+			{
+				"title": "織姫 -ANOTHER-",
+				"genre": "TRANCE",
+				"artist": "DJ TAKUAN 及び 佐倉アヤキ",
+				"md5": "f1db5347fcc14d0d753a4242c961f99e",
+				"sha256": "14670426527a1758e402afa37b2665c89d5a99df890a6e0265fb772d51884d0f",
+				"content": 3,
+				"charthash": "4d79f72f4f15dd825ded71e025498d148a09bedcd588472bd74acddb5f8a5b08"
+			},
+			{
+				"title": "Caffeine Overdose Girl",
+				"subtitle": "[Another]",
+				"genre": "Pop Rock",
+				"artist": "litmus* feat. Conyabata",
+				"md5": "dfd0e46b94c7bb62e72fb128a24f3d5e",
+				"sha256": "3101d144010f4d879b37da3cdb9647b0080bd0c15c5eb79f245bc340a0b41aeb",
+				"content": 2,
+				"stagefile": "caffeine_stagefile.png",
+				"charthash": "6361b9213fcea6a0409992931e39a885276a1f7e83b59cfbb06efbe1ca3f3224"
+			},
+			{
+				"title": "HealingFactor[SP HYPER]",
+				"genre": "Speed pathos",
+				"artist": "kyosei/Artwork:うまるつふり",
+				"md5": "722262f991053fb691b8d125cbd8f61f",
+				"sha256": "90fb22e66d16d234d02d37a871bdda2f29372a136b530c76462eb275a355033c",
+				"content": 3,
+				"charthash": "47f60493cc25a8a9878b7b693dddc23fc7303249c298bf73dc85589862ffc8e5"
+			},
+			{
+				"title": "intersection？！",
+				"genre": "Digi Rock",
+				"artist": "⑮",
+				"subartist": "BGA:えらる",
+				"md5": "9477d75b5a377cbdf5dfca0771df6d98",
+				"sha256": "3754aed494f3d2a49f83d837c02295e91780c5edbf94d2e28df5d4e3ca5cbd96",
+				"content": 3,
+				"banner": "banner.bmp",
+				"charthash": "e3ad07ed8852819f16094cfa1196949946b74ad0f94edf5728f3e9c6c174d63d"
+			},
+			{
+				"title": "Amethyst Moon [SP Another]",
+				"genre": "Immiscible",
+				"artist": "Rethisly",
+				"subartist": "BGA:るっかるか",
+				"md5": "697460a22f79651a3c1bce2bc3bb0667",
+				"sha256": "c04f1a406edff7288eda16c33770394c60973925750d434121ddb696e25d1dad",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"charthash": "c9d5aa4964e6cd92cc3ccc489b026dd878e54ec0387f137d0fa582677fcd7060"
+			},
+			{
+				"title": "Edge of bravery[VENGEANCE]",
+				"genre": "Rock-Core",
+				"artist": "みーに feat. 初音ミク",
+				"md5": "be75d2aa1742255f3fdaa94d11ba166f",
+				"sha256": "6c80304f22e16b9927e72a9e1f05381c3072e03100b9d55f35c852e2366cc485",
+				"content": 3,
+				"charthash": "be611da4008969474c8e90a5d51d4f4eea91cbc98c66bfe79ff17c38a1481f58"
+			},
+			{
+				"title": "Break Through The Barrier [HYPER]",
+				"genre": "HARDCORE",
+				"artist": "lixound",
+				"subartist": "mov:Xquid",
+				"md5": "448ccb9a5dfcd9a96d81123b53e1d29f",
+				"sha256": "ca105a6b956cae12a06e78c654bca9e9f2beaf250b790284958ce69af0e1714e",
+				"content": 2,
+				"stagefile": "Pic.jpg",
+				"charthash": "ab70864456480f31c16a226ec0b34d8ed9cbe1773a867675167ec18fd2540a09"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl1",
+		"hash": [
+			{
+				"title": "Dog Ear",
+				"subtitle": "[ZOI]",
+				"genre": "Kawaii CORE",
+				"artist": "Est",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "50976fd0bddbdda58a72c0ad36a58f55",
+				"sha256": "4210ee877ccb52d56191ebf72c19c7bb84b615add34c39373f899f4235c0d13f",
+				"content": 3,
+				"stagefile": "dog_ear_bg.bmp",
+				"banner": "dog_ear_bn.bmp",
+				"charthash": "ceb65ea3aaac586f1206e1eb2b8191ab64f44c441b516154bdca46f30b43626a"
+			},
+			{
+				"title": "はるいろ こみち [春]",
+				"genre": "ポップリスニング",
+				"artist": "Y.W / A",
+				"md5": "34aa8b9d669442d347dfd42833b67d6a",
+				"sha256": "575146475195c0822ceafa712294b4728f66a3b7d8b17a260f6332f0d0ad5948",
+				"content": 3,
+				"stagefile": "haruiro_komichi_title.bmp",
+				"banner": "haruiro_komichi_bn_300.bmp",
+				"charthash": "c581599bf862f866dd224c899d53686c288b201f3be3b5d04001b74cf9ba9442"
+			},
+			{
+				"title": "Berry Go!!",
+				"subtitle": "[Esteem and Love]",
+				"genre": "HYBRID J-POP",
+				"artist": "Freezer feat. 妃苺",
+				"subartist": "obj: F.ananassa",
+				"md5": "d2d922aa6bcaeed61087d434b330c30e",
+				"sha256": "443da1fbca1e65fbae61d4cac98b2330ba5bea4b32991cfd7ce9b99caf7e5dfa",
+				"content": 3,
+				"charthash": "a20e294fce1d8be6f0b0be8d70d48f3d7f27cb0e96d7f89c88af267ece67e0e6"
+			},
+			{
+				"title": "現実をカットアップしてみた[現実逃避]",
+				"genre": "cut up",
+				"artist": "Yu^ta",
+				"md5": "dc2c1489c43a83738900e2fcbea4f39a",
+				"sha256": "f4412651f5fadfd8fb4955c3adc49397d7cea9035f95ee7f9835ca39aeaaa5db",
+				"content": 3,
+				"stagefile": "_back.png",
+				"banner": "_banner.png",
+				"charthash": "245a364f50b332f28a9253b2487032776b00fc038c4396f6d7c751c37bebc2ab"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl1",
+		"hash": [
+			{
+				"title": "東風谷早苗が悲しい顔をする理由。",
+				"genre": "RECOLLECTION",
+				"artist": "nmk feat.かなえゆめ",
+				"subartist": "BGA:SIGMA/ASTE Illust:かぜっと",
+				"md5": "4f24b7ffca9baf218b6daf3f5e363938",
+				"sha256": "c83b4c4bf9eda9456d12fa9e9f409db68006992b3a1a683b20b7337305bf3465",
+				"content": 3,
+				"banner": "Banner.png",
+				"charthash": "2b90e257863672676aab748528cdc95fe5020ffabd365c5063232c2d739893ad"
+			},
+			{
+				"title": "夢の地図と僕らの旅[departure]",
+				"genre": "Anisong",
+				"artist": "Kuwagata feat.つゆり花鈴",
+				"md5": "b67c0f0b5da347f94eae1119b1158ec9",
+				"sha256": "5715f120ad8b29ecbd21972a4f0c42fa67a1a76ff287f42766db063ff3831541",
+				"content": 2,
+				"stagefile": "stagefile.png",
+				"backbmp": "backbmp.png",
+				"charthash": "8d3627be540b53e203d64622d9e2658ae2dcde18626aae647f244ee8137a26e7"
+			},
+			{
+				"title": "Re:End of a Dream",
+				"genre": "Hard Renaissance",
+				"artist": "uma vs. モリモリあつし",
+				"md5": "8b02205f82ec29a0cdb97af2d84ce7d9",
+				"sha256": "096f255b86ac305540d5ef74d7a46c4ce27e7742b34e86b1bfc2ce4a1667179f",
+				"content": 3,
+				"charthash": "12b50df8831007502d600afd9cef46423b954c67bb3fb4e41ea28c08f6538757"
+			},
+			{
+				"title": "Brave My Soul",
+				"subtitle": "-Flareness Heart-",
+				"genre": "Eurobeat",
+				"artist": "uma feat. ましろ",
+				"subartist": "obj:monaka",
+				"md5": "a0f64c8af8621f4fdce97e24193a76cb",
+				"sha256": "5d4aed4499f7a9a574d72efdb998efdab20e566ae31e5ad331dd7fb040d6bcb8",
+				"content": 3,
+				"stagefile": "stagefile.jpg",
+				"charthash": "79136a16434d809b0e5f4fc185d51755ecf1a9f1602dc895a3e1c40a53a15ff3"
+			},
+			{
+				"title": "Dog Ear",
+				"subtitle": "[ZOI]",
+				"genre": "Kawaii CORE",
+				"artist": "Est",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "50976fd0bddbdda58a72c0ad36a58f55",
+				"sha256": "4210ee877ccb52d56191ebf72c19c7bb84b615add34c39373f899f4235c0d13f",
+				"content": 3,
+				"stagefile": "dog_ear_bg.bmp",
+				"banner": "dog_ear_bn.bmp",
+				"charthash": "ceb65ea3aaac586f1206e1eb2b8191ab64f44c441b516154bdca46f30b43626a"
+			},
+			{
+				"title": "はるいろ こみち [春]",
+				"genre": "ポップリスニング",
+				"artist": "Y.W / A",
+				"md5": "34aa8b9d669442d347dfd42833b67d6a",
+				"sha256": "575146475195c0822ceafa712294b4728f66a3b7d8b17a260f6332f0d0ad5948",
+				"content": 3,
+				"stagefile": "haruiro_komichi_title.bmp",
+				"banner": "haruiro_komichi_bn_300.bmp",
+				"charthash": "c581599bf862f866dd224c899d53686c288b201f3be3b5d04001b74cf9ba9442"
+			},
+			{
+				"title": "Berry Go!!",
+				"subtitle": "[Esteem and Love]",
+				"genre": "HYBRID J-POP",
+				"artist": "Freezer feat. 妃苺",
+				"subartist": "obj: F.ananassa",
+				"md5": "d2d922aa6bcaeed61087d434b330c30e",
+				"sha256": "443da1fbca1e65fbae61d4cac98b2330ba5bea4b32991cfd7ce9b99caf7e5dfa",
+				"content": 3,
+				"charthash": "a20e294fce1d8be6f0b0be8d70d48f3d7f27cb0e96d7f89c88af267ece67e0e6"
+			},
+			{
+				"title": "現実をカットアップしてみた[現実逃避]",
+				"genre": "cut up",
+				"artist": "Yu^ta",
+				"md5": "dc2c1489c43a83738900e2fcbea4f39a",
+				"sha256": "f4412651f5fadfd8fb4955c3adc49397d7cea9035f95ee7f9835ca39aeaaa5db",
+				"content": 3,
+				"stagefile": "_back.png",
+				"banner": "_banner.png",
+				"charthash": "245a364f50b332f28a9253b2487032776b00fc038c4396f6d7c751c37bebc2ab"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl1",
+		"hash": [
+			{
+				"title": "La souvenir",
+				"genre": "musette",
+				"artist": "しーけー",
+				"md5": "2a8367c798afb98a48de0473952937fb",
+				"sha256": "244a1e16d9b33500c5621433acb90d30e9550dc8a003e79a93353d53e0a6ef63",
+				"content": 2,
+				"stagefile": "La_souvenir_bgi.png",
+				"charthash": "e356723f1500b595f996c6313d3fc0b87668690ec0727a6703ef570f883acf94"
+			},
+			{
+				"title": "Strawberry Mint Chocolate [ice cream]",
+				"genre": "Happy Hardcore",
+				"artist": "Yu^ta feat. みずにんじん",
+				"md5": "b9c7bc62daea8f9ccd4502328d624486",
+				"sha256": "dfdb88f1035e27630598f31fc14f534efc619a19bb2f78a103128509c482cf6a",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"backbmp": "_logo.png",
+				"banner": "_banner.png",
+				"charthash": "1e80ec6b2ee35fa9e701e443c9e4a7cbdd1d15b28737eda29ef5627d1569667b"
+			},
+			{
+				"title": "Shooting Silver Bullet [ANOTHER]",
+				"genre": "MUSIC GAME TRANCE",
+				"artist": "おみー",
+				"subartist": "obj:れもんるり",
+				"md5": "77dd6afb7bfb291774fbdcf5aa0db282",
+				"sha256": "ef46c028b64d469c7d19172e955cb58ca2c7e6572c71baecdb12cca4289ccd68",
+				"content": 3,
+				"stagefile": "stage.png",
+				"charthash": "cea577143a906fd96a27fd04ba5c0037e2f282046dd51940120c60f7b94022b7"
+			},
+			{
+				"title": "Rechronize",
+				"subtitle": "[ABNORMAL]",
+				"genre": "Nostalgic J-POP",
+				"artist": "あとぅす feat.咲良ゆの",
+				"subartist": "BGI:りーふぱいザウルス obj.ノゾミ",
+				"md5": "d822f7e546e307f231edff73400737d1",
+				"sha256": "1f1060d84808722ca9d2b3756a7e9ff99d16156fdc7548eea51ec17c13d60089",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_Banner.png",
+				"charthash": "e43ac9c1c4eac97877bd6526ce26ae02c8c444726e2385863db9262430aa93c4"
+			},
+			{
+				"title": "東風谷早苗が悲しい顔をする理由。",
+				"genre": "RECOLLECTION",
+				"artist": "nmk feat.かなえゆめ",
+				"subartist": "BGA:SIGMA/ASTE Illust:かぜっと",
+				"md5": "4f24b7ffca9baf218b6daf3f5e363938",
+				"sha256": "c83b4c4bf9eda9456d12fa9e9f409db68006992b3a1a683b20b7337305bf3465",
+				"content": 3,
+				"banner": "Banner.png",
+				"charthash": "2b90e257863672676aab748528cdc95fe5020ffabd365c5063232c2d739893ad"
+			},
+			{
+				"title": "夢の地図と僕らの旅[departure]",
+				"genre": "Anisong",
+				"artist": "Kuwagata feat.つゆり花鈴",
+				"md5": "b67c0f0b5da347f94eae1119b1158ec9",
+				"sha256": "5715f120ad8b29ecbd21972a4f0c42fa67a1a76ff287f42766db063ff3831541",
+				"content": 2,
+				"stagefile": "stagefile.png",
+				"backbmp": "backbmp.png",
+				"charthash": "8d3627be540b53e203d64622d9e2658ae2dcde18626aae647f244ee8137a26e7"
+			},
+			{
+				"title": "Re:End of a Dream",
+				"genre": "Hard Renaissance",
+				"artist": "uma vs. モリモリあつし",
+				"md5": "8b02205f82ec29a0cdb97af2d84ce7d9",
+				"sha256": "096f255b86ac305540d5ef74d7a46c4ce27e7742b34e86b1bfc2ce4a1667179f",
+				"content": 3,
+				"charthash": "12b50df8831007502d600afd9cef46423b954c67bb3fb4e41ea28c08f6538757"
+			},
+			{
+				"title": "Brave My Soul",
+				"subtitle": "-Flareness Heart-",
+				"genre": "Eurobeat",
+				"artist": "uma feat. ましろ",
+				"subartist": "obj:monaka",
+				"md5": "a0f64c8af8621f4fdce97e24193a76cb",
+				"sha256": "5d4aed4499f7a9a574d72efdb998efdab20e566ae31e5ad331dd7fb040d6bcb8",
+				"content": 3,
+				"stagefile": "stagefile.jpg",
+				"charthash": "79136a16434d809b0e5f4fc185d51755ecf1a9f1602dc895a3e1c40a53a15ff3"
+			},
+			{
+				"title": "Dog Ear",
+				"subtitle": "[ZOI]",
+				"genre": "Kawaii CORE",
+				"artist": "Est",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "50976fd0bddbdda58a72c0ad36a58f55",
+				"sha256": "4210ee877ccb52d56191ebf72c19c7bb84b615add34c39373f899f4235c0d13f",
+				"content": 3,
+				"stagefile": "dog_ear_bg.bmp",
+				"banner": "dog_ear_bn.bmp",
+				"charthash": "ceb65ea3aaac586f1206e1eb2b8191ab64f44c441b516154bdca46f30b43626a"
+			},
+			{
+				"title": "はるいろ こみち [春]",
+				"genre": "ポップリスニング",
+				"artist": "Y.W / A",
+				"md5": "34aa8b9d669442d347dfd42833b67d6a",
+				"sha256": "575146475195c0822ceafa712294b4728f66a3b7d8b17a260f6332f0d0ad5948",
+				"content": 3,
+				"stagefile": "haruiro_komichi_title.bmp",
+				"banner": "haruiro_komichi_bn_300.bmp",
+				"charthash": "c581599bf862f866dd224c899d53686c288b201f3be3b5d04001b74cf9ba9442"
+			},
+			{
+				"title": "Berry Go!!",
+				"subtitle": "[Esteem and Love]",
+				"genre": "HYBRID J-POP",
+				"artist": "Freezer feat. 妃苺",
+				"subartist": "obj: F.ananassa",
+				"md5": "d2d922aa6bcaeed61087d434b330c30e",
+				"sha256": "443da1fbca1e65fbae61d4cac98b2330ba5bea4b32991cfd7ce9b99caf7e5dfa",
+				"content": 3,
+				"charthash": "a20e294fce1d8be6f0b0be8d70d48f3d7f27cb0e96d7f89c88af267ece67e0e6"
+			},
+			{
+				"title": "現実をカットアップしてみた[現実逃避]",
+				"genre": "cut up",
+				"artist": "Yu^ta",
+				"md5": "dc2c1489c43a83738900e2fcbea4f39a",
+				"sha256": "f4412651f5fadfd8fb4955c3adc49397d7cea9035f95ee7f9835ca39aeaaa5db",
+				"content": 3,
+				"stagefile": "_back.png",
+				"banner": "_banner.png",
+				"charthash": "245a364f50b332f28a9253b2487032776b00fc038c4396f6d7c751c37bebc2ab"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl2",
+		"hash": [
+			{
+				"title": "Anzu no Kakkoi Ongaku",
+				"subtitle": "[SP EXTRA]",
+				"genre": "Drumstep",
+				"artist": "Futaba Anzu",
+				"subartist": "Visual.Deliciousdog / obj.MineC24",
+				"md5": "91dc7d0c5d3ccf39804fcac66bf2424c",
+				"sha256": "6775c621b4ae6ced181bf60437417446c27b097b41eae3d02c7e249a3e3630f9",
+				"content": 3,
+				"stagefile": "az.png",
+				"charthash": "8fed0007d4e842b4d37376506526b9c468bd7252edfdd066d4372afb44158f9e"
+			},
+			{
+				"title": "Like an Orange -Hope-",
+				"genre": "SYNTH POP",
+				"artist": "Est / obj:七海千秋",
+				"md5": "3a10aef50c5bedf5dde0653bc44b1ac6",
+				"sha256": "4622742d3069b81675a548aef3b41216b8c06f6dde38775bb4b993fe34325bcb",
+				"content": 3,
+				"stagefile": "bg.bmp",
+				"banner": "bn.bmp",
+				"charthash": "37748ed29851e7870cbafdc1375a31cdff3729a39bf23784daff7d5b537daed3"
+			},
+			{
+				"title": "-if-扉のその向こう側へ[HARD]",
+				"genre": "Parallel Story",
+				"artist": "暁美ほむら /差分 赤い人",
+				"md5": "8cb8c32c1f06fdfc5b11d22de0731539",
+				"sha256": "1a974f70951355157cc67f73b45ed7d27da6e0d475ac666129579a64896467d7",
+				"content": 3,
+				"stagefile": "back.png",
+				"charthash": "7e4cc2a3f63413ea92f7f2b9581427c7b1b18d67c207e07fcc7061463ded34a9"
+			},
+			{
+				"title": "After Burner",
+				"genre": "BRAVE",
+				"artist": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+				"md5": "197053ba0681ba82bbbb7ec07572de90",
+				"sha256": "81b56419e74439303e1aa18af66b1e7d8d16f5ee16b799a1b4b9ed25506b8a8c",
+				"content": 3,
+				"stagefile": "_AB_stage.jpg",
+				"backbmp": "_AB_titlemap.bmp",
+				"banner": "_AB_banner.png",
+				"charthash": "231d168f3017cd2ff26d21301e192e4b86a1e2e3de54f9056ecf5cf796935840"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl2",
+		"hash": [
+			{
+				"title": "Bittersweet Magic",
+				"subtitle": "[Chocolate]",
+				"genre": "Bittersweet Pop",
+				"artist": "Kuwagata",
+				"subartist": "obj:monaka",
+				"md5": "4ec68568d9ddec8132b7bfce1ac9fdce",
+				"sha256": "110ebe0dbaf14031e4a02539743889a8a421bbb879fd39ef172e7ee8d481817f",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"backbmp": "jacket.png",
+				"banner": "banner.png",
+				"charthash": "bb63bbd2c7947085661dd4689cfb6a768c08e678df81330a6c610258879dbde7"
+			},
+			{
+				"title": "リリカと魔法の言葉",
+				"subtitle": "[ZOI]",
+				"genre": "Magical Waltzstep",
+				"artist": "Nameless14 Sound Team \"alfear vs crim\"",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "4dae609e5f8eca718e30110d582fe268",
+				"sha256": "a224d7ff4ba8eb56e7aa72ad5e37b2d1be6f8e85d0b17d1db951519ce6f6e059",
+				"content": 3,
+				"charthash": "cc604189ca70c52ee2ab1a07aa8be1689d3cf8cf79c429ee357b8c9bf08835c5"
+			},
+			{
+				"title": "Loli Plaza (pms edit) [MANIAQ]",
+				"genre": "House pop",
+				"artist": "wigen_ / obj.siokaze",
+				"md5": "732c0cf3b603a6d9fd62b21ca96c9894",
+				"sha256": "69bfca1c0260e043d2111106da907dc0dd038a87fc024a1b94e3c385a756d303",
+				"content": 2,
+				"stagefile": "lp_title.bmp",
+				"backbmp": "lp_title.bmp",
+				"banner": "lp_banner.bmp",
+				"charthash": "abe9b46c0c1b604935a49e35dec00b8b93fb368d0c0944d0bec2332387a8aa2b"
+			},
+			{
+				"title": "★So SweeT LittlE HearT★[HARD]",
+				"genre": "ハッピーポップコーン",
+				"artist": "kbwnk max /差分 赤い人",
+				"md5": "aa9e4c9302be23f3f2c47841f1f32dfb",
+				"sha256": "9e5efb623f790bbb4dfcf268038ed6dd65f99d87274df03f5e1f2f62c9bf4e8f",
+				"content": 3,
+				"stagefile": "sosweetlittleheart.bmp",
+				"backbmp": "sosweetlittleheart.bmp",
+				"banner": "banner.bmp",
+				"charthash": "2943e1e34c286d11ae4bd1b97446700bf273c2933316ca9b68f6414f92f3f911"
+			},
+			{
+				"title": "Anzu no Kakkoi Ongaku",
+				"subtitle": "[SP EXTRA]",
+				"genre": "Drumstep",
+				"artist": "Futaba Anzu",
+				"subartist": "Visual.Deliciousdog / obj.MineC24",
+				"md5": "91dc7d0c5d3ccf39804fcac66bf2424c",
+				"sha256": "6775c621b4ae6ced181bf60437417446c27b097b41eae3d02c7e249a3e3630f9",
+				"content": 3,
+				"stagefile": "az.png",
+				"charthash": "8fed0007d4e842b4d37376506526b9c468bd7252edfdd066d4372afb44158f9e"
+			},
+			{
+				"title": "Like an Orange -Hope-",
+				"genre": "SYNTH POP",
+				"artist": "Est / obj:七海千秋",
+				"md5": "3a10aef50c5bedf5dde0653bc44b1ac6",
+				"sha256": "4622742d3069b81675a548aef3b41216b8c06f6dde38775bb4b993fe34325bcb",
+				"content": 3,
+				"stagefile": "bg.bmp",
+				"banner": "bn.bmp",
+				"charthash": "37748ed29851e7870cbafdc1375a31cdff3729a39bf23784daff7d5b537daed3"
+			},
+			{
+				"title": "-if-扉のその向こう側へ[HARD]",
+				"genre": "Parallel Story",
+				"artist": "暁美ほむら /差分 赤い人",
+				"md5": "8cb8c32c1f06fdfc5b11d22de0731539",
+				"sha256": "1a974f70951355157cc67f73b45ed7d27da6e0d475ac666129579a64896467d7",
+				"content": 3,
+				"stagefile": "back.png",
+				"charthash": "7e4cc2a3f63413ea92f7f2b9581427c7b1b18d67c207e07fcc7061463ded34a9"
+			},
+			{
+				"title": "After Burner",
+				"genre": "BRAVE",
+				"artist": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+				"md5": "197053ba0681ba82bbbb7ec07572de90",
+				"sha256": "81b56419e74439303e1aa18af66b1e7d8d16f5ee16b799a1b4b9ed25506b8a8c",
+				"content": 3,
+				"stagefile": "_AB_stage.jpg",
+				"backbmp": "_AB_titlemap.bmp",
+				"banner": "_AB_banner.png",
+				"charthash": "231d168f3017cd2ff26d21301e192e4b86a1e2e3de54f9056ecf5cf796935840"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl2",
+		"hash": [
+			{
+				"title": "花たちに希望を [あの花]",
+				"genre": "FINALE",
+				"artist": "Sound piercer feat.DAZBEE",
+				"subartist": "NeLiME / CHERISH / fxxh / Feyrlin / obj. DK",
+				"md5": "5b2aebb05235958a3b1caceea6d812f8",
+				"sha256": "9008d2714c0a7dccfd2cebacfa164a4bc4dfb4e14ef6928634861318b41bd121",
+				"content": 3,
+				"stagefile": "__title.jpg",
+				"charthash": "2ecae99b292390f606ea11ddbc2c76c8f81636147d2f2b3f6fc4aa92c18c84e6"
+			},
+			{
+				"title": "Sparkling☆Sunshine!!",
+				"subtitle": "[ANOTHER]",
+				"genre": "EMOTIONAL HAPPYCORE",
+				"artist": "otoshi.b BGI:はしたかさん",
+				"md5": "96341b5c5a5f73cf06ffc8e46226dbe2",
+				"sha256": "1114513b922a52f2e9532470d0a7fe96cf27a7630bfd6ebde5620a22ab706f31",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"banner": "_banner.png",
+				"charthash": "20c40028db31991cb01f1ae5ce128ac6192d3d11bcdf433a965c569ee88cfa0a"
+			},
+			{
+				"title": "サカサマの空に在ったのは",
+				"subtitle": "[ZOI]",
+				"genre": "Electronic Fusion Pop",
+				"artist": "qfeileadh feat. レゾナンスもえこ",
+				"subartist": "Movie : 浪漫映像制作倶楽部 / obj:SUZUKAZEΛ",
+				"md5": "74a92836eed3e92f6782b1627f80e9f4",
+				"sha256": "a5bf428c27a0d3155f1eed1411600a8ad9cc6adc133ff8c3db348a16a7917721",
+				"content": 3,
+				"stagefile": "title.jpg",
+				"banner": "bannar.jpg",
+				"charthash": "3f3b71e90c5722901ba65c783e652758f22fd9525c321e86e028c759e9670f02"
+			},
+			{
+				"title": "友情＞＞＞(越えられない壁)＞＞＞恋愛 [La Senorita]",
+				"genre": "JK-POP",
+				"artist": "yassu feat. ちな / D",
+				"subartist": "Movie:Milk_tya / Illust:おまる氏",
+				"md5": "0496e348a2253430658af85f410cda4b",
+				"sha256": "0a3e0caea550bd326b99d2198d0308a35205ce521592fc475e39fb2094b8dd9d",
+				"content": 3,
+				"stagefile": "title.bmp",
+				"banner": "banner.png",
+				"charthash": "ac8c761e542cfbd44d19d770c0ac8d1226a696b22f0776e5cb81e022930270f2"
+			},
+			{
+				"title": "Bittersweet Magic",
+				"subtitle": "[Chocolate]",
+				"genre": "Bittersweet Pop",
+				"artist": "Kuwagata",
+				"subartist": "obj:monaka",
+				"md5": "4ec68568d9ddec8132b7bfce1ac9fdce",
+				"sha256": "110ebe0dbaf14031e4a02539743889a8a421bbb879fd39ef172e7ee8d481817f",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"backbmp": "jacket.png",
+				"banner": "banner.png",
+				"charthash": "bb63bbd2c7947085661dd4689cfb6a768c08e678df81330a6c610258879dbde7"
+			},
+			{
+				"title": "リリカと魔法の言葉",
+				"subtitle": "[ZOI]",
+				"genre": "Magical Waltzstep",
+				"artist": "Nameless14 Sound Team \"alfear vs crim\"",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "4dae609e5f8eca718e30110d582fe268",
+				"sha256": "a224d7ff4ba8eb56e7aa72ad5e37b2d1be6f8e85d0b17d1db951519ce6f6e059",
+				"content": 3,
+				"charthash": "cc604189ca70c52ee2ab1a07aa8be1689d3cf8cf79c429ee357b8c9bf08835c5"
+			},
+			{
+				"title": "Loli Plaza (pms edit) [MANIAQ]",
+				"genre": "House pop",
+				"artist": "wigen_ / obj.siokaze",
+				"md5": "732c0cf3b603a6d9fd62b21ca96c9894",
+				"sha256": "69bfca1c0260e043d2111106da907dc0dd038a87fc024a1b94e3c385a756d303",
+				"content": 2,
+				"stagefile": "lp_title.bmp",
+				"backbmp": "lp_title.bmp",
+				"banner": "lp_banner.bmp",
+				"charthash": "abe9b46c0c1b604935a49e35dec00b8b93fb368d0c0944d0bec2332387a8aa2b"
+			},
+			{
+				"title": "★So SweeT LittlE HearT★[HARD]",
+				"genre": "ハッピーポップコーン",
+				"artist": "kbwnk max /差分 赤い人",
+				"md5": "aa9e4c9302be23f3f2c47841f1f32dfb",
+				"sha256": "9e5efb623f790bbb4dfcf268038ed6dd65f99d87274df03f5e1f2f62c9bf4e8f",
+				"content": 3,
+				"stagefile": "sosweetlittleheart.bmp",
+				"backbmp": "sosweetlittleheart.bmp",
+				"banner": "banner.bmp",
+				"charthash": "2943e1e34c286d11ae4bd1b97446700bf273c2933316ca9b68f6414f92f3f911"
+			},
+			{
+				"title": "Anzu no Kakkoi Ongaku",
+				"subtitle": "[SP EXTRA]",
+				"genre": "Drumstep",
+				"artist": "Futaba Anzu",
+				"subartist": "Visual.Deliciousdog / obj.MineC24",
+				"md5": "91dc7d0c5d3ccf39804fcac66bf2424c",
+				"sha256": "6775c621b4ae6ced181bf60437417446c27b097b41eae3d02c7e249a3e3630f9",
+				"content": 3,
+				"stagefile": "az.png",
+				"charthash": "8fed0007d4e842b4d37376506526b9c468bd7252edfdd066d4372afb44158f9e"
+			},
+			{
+				"title": "Like an Orange -Hope-",
+				"genre": "SYNTH POP",
+				"artist": "Est / obj:七海千秋",
+				"md5": "3a10aef50c5bedf5dde0653bc44b1ac6",
+				"sha256": "4622742d3069b81675a548aef3b41216b8c06f6dde38775bb4b993fe34325bcb",
+				"content": 3,
+				"stagefile": "bg.bmp",
+				"banner": "bn.bmp",
+				"charthash": "37748ed29851e7870cbafdc1375a31cdff3729a39bf23784daff7d5b537daed3"
+			},
+			{
+				"title": "-if-扉のその向こう側へ[HARD]",
+				"genre": "Parallel Story",
+				"artist": "暁美ほむら /差分 赤い人",
+				"md5": "8cb8c32c1f06fdfc5b11d22de0731539",
+				"sha256": "1a974f70951355157cc67f73b45ed7d27da6e0d475ac666129579a64896467d7",
+				"content": 3,
+				"stagefile": "back.png",
+				"charthash": "7e4cc2a3f63413ea92f7f2b9581427c7b1b18d67c207e07fcc7061463ded34a9"
+			},
+			{
+				"title": "After Burner",
+				"genre": "BRAVE",
+				"artist": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+				"md5": "197053ba0681ba82bbbb7ec07572de90",
+				"sha256": "81b56419e74439303e1aa18af66b1e7d8d16f5ee16b799a1b4b9ed25506b8a8c",
+				"content": 3,
+				"stagefile": "_AB_stage.jpg",
+				"backbmp": "_AB_titlemap.bmp",
+				"banner": "_AB_banner.png",
+				"charthash": "231d168f3017cd2ff26d21301e192e4b86a1e2e3de54f9056ecf5cf796935840"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl3",
+		"hash": [
+			{
+				"title": "ただいま、Bar“BOOMY” [Cocktail]",
+				"genre": "エレクトロスイング電波歌謡",
+				"artist": "dawn-system",
+				"subartist": "Vo: もちこまめ / BGA: うまるつふり＆わっふゑ / A",
+				"md5": "b656db5f627112967adb999968591435",
+				"sha256": "bdbd7ddd67706a9683d05f0ef6af207253ba250e5a2c662dfb63a089fdad26a3",
+				"content": 3,
+				"charthash": "0ab89d47afa382b1c6363a391c07fe5e3c5b3d3cd67b28180c281b9905148f75"
+			},
+			{
+				"title": "Precious!!!",
+				"subtitle": "[ANOTHER+]",
+				"genre": "FUSION",
+				"artist": "mommy / obj:nono22",
+				"md5": "6b1d939c32e49543b500f47ac20fda0f",
+				"sha256": "1efae6068576951f2f131ed6a1ba57dc21c4304844bde917ad75edf6d0a35c68",
+				"content": 2,
+				"stagefile": "stagefile.JPG",
+				"charthash": "27e71e2ac6824d2b83253239c85a78bcca3060c75179c213a006868c5aaac330"
+			},
+			{
+				"title": "Love☆Spellcard",
+				"subtitle": "[ZOI]",
+				"genre": "Vocal Hardcore",
+				"artist": "uma feat. ましろ",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "bb51e06228e7279b47120b9a5c527421",
+				"sha256": "1f288fcbed1b275be16e5e27f81ad6d4fa67fae68078d6cbfd43c37956648612",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"charthash": "1e2c28e6ab92a40cf9332745c222751fa9c7c26f5fd631edfcd0a06b164781b0"
+			},
+			{
+				"title": "To the restored sunflower garden [White Another]",
+				"genre": "Trance",
+				"artist": "shimizushi",
+				"subartist": "illust:a.a / obj:DJ.END",
+				"md5": "8d6cb28cd80ab924c41f5141ed852326",
+				"sha256": "75fe46e735ff45f9c4158af248e41dd5fdd309aa59ee9f3868056829151168ab",
+				"content": 3,
+				"backbmp": "RSG_backbmp.png",
+				"banner": "RSG_banner.png",
+				"charthash": "9e6529e728f0a5b8c782a0346023394221cab75f5be9bea0dada266ec3498b00"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl3",
+		"hash": [
+			{
+				"title": "天海原～あまみはら～[水平線]",
+				"genre": "極浦",
+				"artist": "うまるつふり",
+				"subartist": "obj.rat",
+				"md5": "2809912c0673309d5a3e1b5d2e5eabc8",
+				"sha256": "bb9d879d2aa0187475e9539fa837dfa871188bf1ab5e3d81b6f1c139710a9325",
+				"content": 3,
+				"charthash": "6e13ede7592ffeab11cedb456731e21043827a24ada6cf8e14065fdf8e5cca91"
+			},
+			{
+				"title": "スピカ",
+				"subtitle": "-In your heart-",
+				"genre": "Energetic Dream Pop",
+				"artist": "qfeileadh",
+				"subartist": "mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー // obj.Lapis",
+				"md5": "2ce3889184f67a1edeaef56f436ce530",
+				"sha256": "6a6535c9a9c1f377ecfb4e4dfc18517156198c103c1a73a31ef363dcd6b2ad1d",
+				"content": 3,
+				"stagefile": "title.jpg",
+				"banner": "banner.jpg",
+				"charthash": "94396c4df238e7c13a862bc88720a282a1eaac039445a0ddc24067a600d47753"
+			},
+			{
+				"title": "空",
+				"subtitle": "[ZOI]",
+				"genre": "Digital-J-Pop",
+				"artist": "Sakamiya feat.toz",
+				"subartist": "img:ぬけみち Lyrics:uoru obj:SUZUKAZEΛ",
+				"md5": "9fcd8ed5738eeafee02f4261a29c2b58",
+				"sha256": "542c5a6c19ed4adbb4f2eee24bd9d5af25936e933cbbad45c1144ac7825c49a8",
+				"content": 3,
+				"stagefile": "_STAGE_.png",
+				"charthash": "b82bdb65420b30c681aa090d6401c47dc3550885f3bb8de22d28afc6b40fc422"
+			},
+			{
+				"title": "Luca [ABNORMAL]",
+				"genre": "Her Story",
+				"artist": "eicateve / obj:Restia",
+				"subartist": "hrchem,Takamatsu,Sennzai,Yamaguchi,eoll",
+				"md5": "edf3b5d7f64ea23cf04f70443632b782",
+				"sha256": "c48101836126ce9296a0ed018563979cd949e9ee967a591019bdc6ceb7dfd103",
+				"content": 2,
+				"stagefile": "Luca_title.bmp",
+				"backbmp": "Luca_backbmp.bmp",
+				"charthash": "c5f8dffa79c2a3a1c8aa360faee5b424baf21686ae3bca154788a0028651d14d"
+			},
+			{
+				"title": "ただいま、Bar“BOOMY” [Cocktail]",
+				"genre": "エレクトロスイング電波歌謡",
+				"artist": "dawn-system",
+				"subartist": "Vo: もちこまめ / BGA: うまるつふり＆わっふゑ / A",
+				"md5": "b656db5f627112967adb999968591435",
+				"sha256": "bdbd7ddd67706a9683d05f0ef6af207253ba250e5a2c662dfb63a089fdad26a3",
+				"content": 3,
+				"charthash": "0ab89d47afa382b1c6363a391c07fe5e3c5b3d3cd67b28180c281b9905148f75"
+			},
+			{
+				"title": "Precious!!!",
+				"subtitle": "[ANOTHER+]",
+				"genre": "FUSION",
+				"artist": "mommy / obj:nono22",
+				"md5": "6b1d939c32e49543b500f47ac20fda0f",
+				"sha256": "1efae6068576951f2f131ed6a1ba57dc21c4304844bde917ad75edf6d0a35c68",
+				"content": 2,
+				"stagefile": "stagefile.JPG",
+				"charthash": "27e71e2ac6824d2b83253239c85a78bcca3060c75179c213a006868c5aaac330"
+			},
+			{
+				"title": "Love☆Spellcard",
+				"subtitle": "[ZOI]",
+				"genre": "Vocal Hardcore",
+				"artist": "uma feat. ましろ",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "bb51e06228e7279b47120b9a5c527421",
+				"sha256": "1f288fcbed1b275be16e5e27f81ad6d4fa67fae68078d6cbfd43c37956648612",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"charthash": "1e2c28e6ab92a40cf9332745c222751fa9c7c26f5fd631edfcd0a06b164781b0"
+			},
+			{
+				"title": "To the restored sunflower garden [White Another]",
+				"genre": "Trance",
+				"artist": "shimizushi",
+				"subartist": "illust:a.a / obj:DJ.END",
+				"md5": "8d6cb28cd80ab924c41f5141ed852326",
+				"sha256": "75fe46e735ff45f9c4158af248e41dd5fdd309aa59ee9f3868056829151168ab",
+				"content": 3,
+				"backbmp": "RSG_backbmp.png",
+				"banner": "RSG_banner.png",
+				"charthash": "9e6529e728f0a5b8c782a0346023394221cab75f5be9bea0dada266ec3498b00"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl3",
+		"hash": [
+			{
+				"title": "わがまま×マニフェスト",
+				"subtitle": "[EX]",
+				"genre": "shuffle pop'n",
+				"artist": "ああああ",
+				"subartist": "obj : sak & BAECON",
+				"md5": "00fe8868d0c7c88aaa1c76152cd73ce3",
+				"sha256": "2503cb23cb9ffd3e9e25ad806c7cc39053b4928023fb159ad4647b49853f09d4",
+				"content": 2,
+				"charthash": "6e8f16d13b6be70670d391b49f984b3ce76c15415811ff1cb75c3c529a288514"
+			},
+			{
+				"title": "甘でラッシュ！",
+				"subtitle": "[W]",
+				"genre": "J-Variety CORE",
+				"artist": "YuuSaKi",
+				"subartist": "obj. w",
+				"md5": "fda1247db40358dc797e3cd05ee9c634",
+				"sha256": "6e7dd4cbf53b5864841322b889b837a5c9a23b8f95299af267bb817974f7694e",
+				"content": 2,
+				"stagefile": "stagefile.jpg",
+				"banner": "banner.jpg",
+				"charthash": "45d4822e84fe34ba04746064973da8c9ed3be017ba25f75c604589a15394a23d"
+			},
+			{
+				"title": "あきいろ アルバム [秋]",
+				"genre": "ポップリスニング3",
+				"artist": "Y.W / A",
+				"md5": "578cf24b6064631eb94e02d21db498e9",
+				"sha256": "ccab01cb66be1d573666c134218fcbdabab479701455d9dc8229e23425c8a319",
+				"content": 2,
+				"backbmp": "akiiro_album.png",
+				"banner": "akiiro_album_banner.bmp",
+				"charthash": "d15e127ac8f75c259a13d21b07ec61af7b7766f86b5b99e229e5ccbba612f7a7"
+			},
+			{
+				"title": "★LittlE HearTs★",
+				"subtitle": "[ZOI]",
+				"genre": "HappY PoPcorN",
+				"artist": "ねこみみ魔法使い",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "7cb92a0c0bcc322064f038cb9722b818",
+				"sha256": "511c91c5f527832574bbedcf41eab970cc282d32c4ff559ff2a71f40d0fc56f6",
+				"content": 3,
+				"stagefile": "_suzukaze_stage.png",
+				"backbmp": "_suzukaze_back.png",
+				"banner": "_suzukaze_bana.png",
+				"charthash": "45f281fc76dff367d6dd4077d6914bdb4f5a3d7283e4774af93777aad5e67de3"
+			},
+			{
+				"title": "天海原～あまみはら～[水平線]",
+				"genre": "極浦",
+				"artist": "うまるつふり",
+				"subartist": "obj.rat",
+				"md5": "2809912c0673309d5a3e1b5d2e5eabc8",
+				"sha256": "bb9d879d2aa0187475e9539fa837dfa871188bf1ab5e3d81b6f1c139710a9325",
+				"content": 3,
+				"charthash": "6e13ede7592ffeab11cedb456731e21043827a24ada6cf8e14065fdf8e5cca91"
+			},
+			{
+				"title": "スピカ",
+				"subtitle": "-In your heart-",
+				"genre": "Energetic Dream Pop",
+				"artist": "qfeileadh",
+				"subartist": "mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー // obj.Lapis",
+				"md5": "2ce3889184f67a1edeaef56f436ce530",
+				"sha256": "6a6535c9a9c1f377ecfb4e4dfc18517156198c103c1a73a31ef363dcd6b2ad1d",
+				"content": 3,
+				"stagefile": "title.jpg",
+				"banner": "banner.jpg",
+				"charthash": "94396c4df238e7c13a862bc88720a282a1eaac039445a0ddc24067a600d47753"
+			},
+			{
+				"title": "空",
+				"subtitle": "[ZOI]",
+				"genre": "Digital-J-Pop",
+				"artist": "Sakamiya feat.toz",
+				"subartist": "img:ぬけみち Lyrics:uoru obj:SUZUKAZEΛ",
+				"md5": "9fcd8ed5738eeafee02f4261a29c2b58",
+				"sha256": "542c5a6c19ed4adbb4f2eee24bd9d5af25936e933cbbad45c1144ac7825c49a8",
+				"content": 3,
+				"stagefile": "_STAGE_.png",
+				"charthash": "b82bdb65420b30c681aa090d6401c47dc3550885f3bb8de22d28afc6b40fc422"
+			},
+			{
+				"title": "Luca [ABNORMAL]",
+				"genre": "Her Story",
+				"artist": "eicateve / obj:Restia",
+				"subartist": "hrchem,Takamatsu,Sennzai,Yamaguchi,eoll",
+				"md5": "edf3b5d7f64ea23cf04f70443632b782",
+				"sha256": "c48101836126ce9296a0ed018563979cd949e9ee967a591019bdc6ceb7dfd103",
+				"content": 2,
+				"stagefile": "Luca_title.bmp",
+				"backbmp": "Luca_backbmp.bmp",
+				"charthash": "c5f8dffa79c2a3a1c8aa360faee5b424baf21686ae3bca154788a0028651d14d"
+			},
+			{
+				"title": "ただいま、Bar“BOOMY” [Cocktail]",
+				"genre": "エレクトロスイング電波歌謡",
+				"artist": "dawn-system",
+				"subartist": "Vo: もちこまめ / BGA: うまるつふり＆わっふゑ / A",
+				"md5": "b656db5f627112967adb999968591435",
+				"sha256": "bdbd7ddd67706a9683d05f0ef6af207253ba250e5a2c662dfb63a089fdad26a3",
+				"content": 3,
+				"charthash": "0ab89d47afa382b1c6363a391c07fe5e3c5b3d3cd67b28180c281b9905148f75"
+			},
+			{
+				"title": "Precious!!!",
+				"subtitle": "[ANOTHER+]",
+				"genre": "FUSION",
+				"artist": "mommy / obj:nono22",
+				"md5": "6b1d939c32e49543b500f47ac20fda0f",
+				"sha256": "1efae6068576951f2f131ed6a1ba57dc21c4304844bde917ad75edf6d0a35c68",
+				"content": 2,
+				"stagefile": "stagefile.JPG",
+				"charthash": "27e71e2ac6824d2b83253239c85a78bcca3060c75179c213a006868c5aaac330"
+			},
+			{
+				"title": "Love☆Spellcard",
+				"subtitle": "[ZOI]",
+				"genre": "Vocal Hardcore",
+				"artist": "uma feat. ましろ",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "bb51e06228e7279b47120b9a5c527421",
+				"sha256": "1f288fcbed1b275be16e5e27f81ad6d4fa67fae68078d6cbfd43c37956648612",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"charthash": "1e2c28e6ab92a40cf9332745c222751fa9c7c26f5fd631edfcd0a06b164781b0"
+			},
+			{
+				"title": "To the restored sunflower garden [White Another]",
+				"genre": "Trance",
+				"artist": "shimizushi",
+				"subartist": "illust:a.a / obj:DJ.END",
+				"md5": "8d6cb28cd80ab924c41f5141ed852326",
+				"sha256": "75fe46e735ff45f9c4158af248e41dd5fdd309aa59ee9f3868056829151168ab",
+				"content": 3,
+				"backbmp": "RSG_backbmp.png",
+				"banner": "RSG_banner.png",
+				"charthash": "9e6529e728f0a5b8c782a0346023394221cab75f5be9bea0dada266ec3498b00"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl4",
+		"hash": [
+			{
+				"title": "Spiritoso Killer[SP INSANE]",
+				"genre": "Medieval Xross Hardcore",
+				"artist": "MALVA. vs. Venstant",
+				"subartist": "Illustration:Mare.S",
+				"md5": "a8a6926a8d01f2df55de52babd59c7ad",
+				"sha256": "e3e740765f9d1f424be4e8cf516ea9af77ee7b99dc50be64db68a7e3e305073d",
+				"content": 3,
+				"stagefile": "_stagefile.jpg",
+				"backbmp": "_backbmp.png",
+				"banner": "banner.png",
+				"charthash": "ab9e315196b138d04c7ce2e60b3872e32b823a026da19c35c487ec210fb06480"
+			},
+			{
+				"title": "MANHATTAN  [SP BLACK ANOTHER]",
+				"genre": "Parfait Amour*",
+				"artist": "ゆんゆん",
+				"md5": "f3bd0ccd5e8522b887d97ea31ede4177",
+				"sha256": "e04b19399607b6e10a03842fe85ab3557dadb2404bf1f6d281a052fcde6395eb",
+				"content": 3,
+				"stagefile": "zz-mht-stagefile.png",
+				"banner": "zz-mht-banner.png",
+				"charthash": "51fe5f9bf58de397d0b65e8e3ac30e1388dc3a10c99fd065f89342e2adc431c6"
+			},
+			{
+				"title": "ハニエルのうた",
+				"subtitle": "[ZOI]",
+				"genre": "ANGELIC FUTURE POP",
+				"artist": "sak feat.みゅい",
+				"subartist": "BGI:球根 / obj:SUZUKAZEΛ",
+				"md5": "b7c510d564e6abdc8fb3a0495663ce4a",
+				"sha256": "aa7dd39c1a0dedca64d06ea6ed8676eec50c5b24b65773d2323e6ec14decfa33",
+				"content": 3,
+				"charthash": "fb6995954390b7d794a129e0118988fdcf00ff13cf6e9653262a39d725a27a70"
+			},
+			{
+				"title": "夜明けの少女たち [Delay]",
+				"genre": "Sepia chant",
+				"artist": "Lubinn / obj.siokaze",
+				"md5": "35e9b7c25bf77a239c7aa4160d79336f",
+				"sha256": "fcfcd3c3600c91e846a18429d55159e7f4d9366344376c9f915110647ec040aa",
+				"content": 2,
+				"stagefile": "G_7_HD_title.bmp",
+				"charthash": "c70abceeea916e91d35f895f679e4bb003caa9012aba00c27a8e92826f7f74dd"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl4",
+		"hash": [
+			{
+				"title": "温泉大作戦",
+				"subtitle": "[ZOI]",
+				"genre": "ONSEN POP",
+				"artist": "Freezer feat. 妃苺",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "e44166113b52b63f9330d435761ce52f",
+				"sha256": "64737f4510e109bff1804bf9b245bb5d80087754b53a3ac3a78c68844e9a8c6e",
+				"content": 3,
+				"charthash": "9f33efab962fa4e8df5e543404ed9c2aff4686a68b2631fb4eeec66e6ca3bd9a"
+			},
+			{
+				"title": "EOS [女神]",
+				"genre": "DAYBREAK HARDCORE",
+				"artist": "ginkiha / obj : Lampades",
+				"md5": "0fcca00f177808e921078208e4a94527",
+				"sha256": "84e81c4286edeaf9b917176d8c752eb12242832f16870fd1a94d8cf98ad9bc98",
+				"content": 3,
+				"backbmp": "back.png",
+				"charthash": "b0178510b6aa2468514a953144581325a28432beabbb317da0361b2dd5cf3799"
+			},
+			{
+				"title": "Astraia[Another]",
+				"genre": "Happy Anthem Core",
+				"artist": "Azel",
+				"md5": "9a50774c08d159c7732a15b1a1b03ecd",
+				"sha256": "9d2efe8b4a1dc8897c712d32a45650469f6876174ed3c0ef1f9fd0feff588257",
+				"content": 3,
+				"stagefile": "_im_jacket.bmp",
+				"banner": "_im_banner.bmp",
+				"charthash": "40d13c099430988f13dc3e9d874f6924b3c8c225b6f1198f5e82b5ab88274cff"
+			},
+			{
+				"title": "未来のコピヌ -Hope-",
+				"genre": "Girls Pop",
+				"artist": "yoayua (yoa + yuayua)",
+				"subartist": "Movie:自動車 原付 & うまるつふり / obj:七海",
+				"md5": "354377ae29357e0151283946c831cdb5",
+				"sha256": "f18fb95e1d8850dbe930d3c28bb420f300b21dccfd37d21dcd7993afb8f53420",
+				"content": 3,
+				"stagefile": "copine_BG.png",
+				"banner": "copine_banner.png",
+				"charthash": "ce9d25a23a8fdc3ba7210a31a3e083c048a869d6a83e1b40f3a8334b819b717f"
+			},
+			{
+				"title": "Spiritoso Killer[SP INSANE]",
+				"genre": "Medieval Xross Hardcore",
+				"artist": "MALVA. vs. Venstant",
+				"subartist": "Illustration:Mare.S",
+				"md5": "a8a6926a8d01f2df55de52babd59c7ad",
+				"sha256": "e3e740765f9d1f424be4e8cf516ea9af77ee7b99dc50be64db68a7e3e305073d",
+				"content": 3,
+				"stagefile": "_stagefile.jpg",
+				"backbmp": "_backbmp.png",
+				"banner": "banner.png",
+				"charthash": "ab9e315196b138d04c7ce2e60b3872e32b823a026da19c35c487ec210fb06480"
+			},
+			{
+				"title": "MANHATTAN  [SP BLACK ANOTHER]",
+				"genre": "Parfait Amour*",
+				"artist": "ゆんゆん",
+				"md5": "f3bd0ccd5e8522b887d97ea31ede4177",
+				"sha256": "e04b19399607b6e10a03842fe85ab3557dadb2404bf1f6d281a052fcde6395eb",
+				"content": 3,
+				"stagefile": "zz-mht-stagefile.png",
+				"banner": "zz-mht-banner.png",
+				"charthash": "51fe5f9bf58de397d0b65e8e3ac30e1388dc3a10c99fd065f89342e2adc431c6"
+			},
+			{
+				"title": "ハニエルのうた",
+				"subtitle": "[ZOI]",
+				"genre": "ANGELIC FUTURE POP",
+				"artist": "sak feat.みゅい",
+				"subartist": "BGI:球根 / obj:SUZUKAZEΛ",
+				"md5": "b7c510d564e6abdc8fb3a0495663ce4a",
+				"sha256": "aa7dd39c1a0dedca64d06ea6ed8676eec50c5b24b65773d2323e6ec14decfa33",
+				"content": 3,
+				"charthash": "fb6995954390b7d794a129e0118988fdcf00ff13cf6e9653262a39d725a27a70"
+			},
+			{
+				"title": "夜明けの少女たち [Delay]",
+				"genre": "Sepia chant",
+				"artist": "Lubinn / obj.siokaze",
+				"md5": "35e9b7c25bf77a239c7aa4160d79336f",
+				"sha256": "fcfcd3c3600c91e846a18429d55159e7f4d9366344376c9f915110647ec040aa",
+				"content": 2,
+				"stagefile": "G_7_HD_title.bmp",
+				"charthash": "c70abceeea916e91d35f895f679e4bb003caa9012aba00c27a8e92826f7f74dd"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl4",
+		"hash": [
+			{
+				"title": "sweet pop [7key EX]",
+				"genre": "J-Happy Pop Core",
+				"artist": "Ym1024 feat. lamie*",
+				"subartist": "Illustration : 恋々 / obj:BAECON",
+				"md5": "9c5f82051198679dba5dde98b9cd90b4",
+				"sha256": "71fb8191758e07d4d72fac558947c93018be62164041ea2c7d59c969141c3b05",
+				"content": 3,
+				"stagefile": "title.png",
+				"banner": "banner.png",
+				"charthash": "f6c0054478ec0009a318dffb3de11d32101751b34c28ce34ca0f9f658ec24878"
+			},
+			{
+				"title": "suffruti",
+				"subtitle": "[ZOI]",
+				"genre": "Suffrutic Requiem",
+				"artist": "Black Lotus",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "bfc85e0964ffca13a5162543df1563f3",
+				"sha256": "6a698dfe00422e753eb124b2644f65e08b35a1197f1964379cac8a6a33243c0f",
+				"content": 3,
+				"stagefile": "Title.bmp",
+				"backbmp": "bgtitle.bmp",
+				"charthash": "3b5f96bd7824cc5b10aba09b80c3526a2a733840981252779a455d1ba7938b29"
+			},
+			{
+				"title": "Cutee☆NeverLand",
+				"subtitle": "[EXTRA]",
+				"genre": "Kawaii FUTURE POP",
+				"artist": "sak with.ごくごくプリン",
+				"subartist": "Movie: げ～むばか",
+				"md5": "1b3a69ba41f4755f0b566a348c2eb4b0",
+				"sha256": "7c8fe2ba63c0d613eee0d18351ad65f55103ed65729e39d5e7c3c88022e30c96",
+				"content": 3,
+				"stagefile": "__StageFile.png",
+				"backbmp": "__backbmp.png",
+				"banner": "__banner.png",
+				"charthash": "5b779c9e4007aa7a74cbcd467bfba504dd3de314b720ff9da22104f40cb721eb"
+			},
+			{
+				"title": "Romantic Children [SP ANOTHER2]",
+				"genre": "幺樂団の歴史2・東方怪綺談",
+				"artist": "ZUN / BMS:average BGA:のりろー",
+				"md5": "f51c0d0df34f3bb9894336e031d150dd",
+				"sha256": "0f1333db477f38614b87a1ade4293c7489de2cd2c70a0e7e7acbb11e3af0f5d0",
+				"content": 3,
+				"charthash": "1680c11ec17a3bbbcb00366a5ffe64f9f2032d30fe30ca24f179ff67ce2d0b4a"
+			},
+			{
+				"title": "温泉大作戦",
+				"subtitle": "[ZOI]",
+				"genre": "ONSEN POP",
+				"artist": "Freezer feat. 妃苺",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "e44166113b52b63f9330d435761ce52f",
+				"sha256": "64737f4510e109bff1804bf9b245bb5d80087754b53a3ac3a78c68844e9a8c6e",
+				"content": 3,
+				"charthash": "9f33efab962fa4e8df5e543404ed9c2aff4686a68b2631fb4eeec66e6ca3bd9a"
+			},
+			{
+				"title": "EOS [女神]",
+				"genre": "DAYBREAK HARDCORE",
+				"artist": "ginkiha / obj : Lampades",
+				"md5": "0fcca00f177808e921078208e4a94527",
+				"sha256": "84e81c4286edeaf9b917176d8c752eb12242832f16870fd1a94d8cf98ad9bc98",
+				"content": 3,
+				"backbmp": "back.png",
+				"charthash": "b0178510b6aa2468514a953144581325a28432beabbb317da0361b2dd5cf3799"
+			},
+			{
+				"title": "未来のコピヌ -Hope-",
+				"genre": "Girls Pop",
+				"artist": "yoayua (yoa + yuayua)",
+				"subartist": "Movie:自動車 原付 & うまるつふり / obj:七海",
+				"md5": "354377ae29357e0151283946c831cdb5",
+				"sha256": "f18fb95e1d8850dbe930d3c28bb420f300b21dccfd37d21dcd7993afb8f53420",
+				"content": 3,
+				"stagefile": "copine_BG.png",
+				"banner": "copine_banner.png",
+				"charthash": "ce9d25a23a8fdc3ba7210a31a3e083c048a869d6a83e1b40f3a8334b819b717f"
+			},
+			{
+				"title": "Astraia[Another]",
+				"genre": "Happy Anthem Core",
+				"artist": "Azel",
+				"md5": "9a50774c08d159c7732a15b1a1b03ecd",
+				"sha256": "9d2efe8b4a1dc8897c712d32a45650469f6876174ed3c0ef1f9fd0feff588257",
+				"content": 3,
+				"stagefile": "_im_jacket.bmp",
+				"banner": "_im_banner.bmp",
+				"charthash": "40d13c099430988f13dc3e9d874f6924b3c8c225b6f1198f5e82b5ab88274cff"
+			},
+			{
+				"title": "Spiritoso Killer[SP INSANE]",
+				"genre": "Medieval Xross Hardcore",
+				"artist": "MALVA. vs. Venstant",
+				"subartist": "Illustration:Mare.S",
+				"md5": "a8a6926a8d01f2df55de52babd59c7ad",
+				"sha256": "e3e740765f9d1f424be4e8cf516ea9af77ee7b99dc50be64db68a7e3e305073d",
+				"content": 3,
+				"stagefile": "_stagefile.jpg",
+				"backbmp": "_backbmp.png",
+				"banner": "banner.png",
+				"charthash": "ab9e315196b138d04c7ce2e60b3872e32b823a026da19c35c487ec210fb06480"
+			},
+			{
+				"title": "MANHATTAN  [SP BLACK ANOTHER]",
+				"genre": "Parfait Amour*",
+				"artist": "ゆんゆん",
+				"md5": "f3bd0ccd5e8522b887d97ea31ede4177",
+				"sha256": "e04b19399607b6e10a03842fe85ab3557dadb2404bf1f6d281a052fcde6395eb",
+				"content": 3,
+				"stagefile": "zz-mht-stagefile.png",
+				"banner": "zz-mht-banner.png",
+				"charthash": "51fe5f9bf58de397d0b65e8e3ac30e1388dc3a10c99fd065f89342e2adc431c6"
+			},
+			{
+				"title": "ハニエルのうた",
+				"subtitle": "[ZOI]",
+				"genre": "ANGELIC FUTURE POP",
+				"artist": "sak feat.みゅい",
+				"subartist": "BGI:球根 / obj:SUZUKAZEΛ",
+				"md5": "b7c510d564e6abdc8fb3a0495663ce4a",
+				"sha256": "aa7dd39c1a0dedca64d06ea6ed8676eec50c5b24b65773d2323e6ec14decfa33",
+				"content": 3,
+				"charthash": "fb6995954390b7d794a129e0118988fdcf00ff13cf6e9653262a39d725a27a70"
+			},
+			{
+				"title": "夜明けの少女たち [Delay]",
+				"genre": "Sepia chant",
+				"artist": "Lubinn / obj.siokaze",
+				"md5": "35e9b7c25bf77a239c7aa4160d79336f",
+				"sha256": "fcfcd3c3600c91e846a18429d55159e7f4d9366344376c9f915110647ec040aa",
+				"content": 2,
+				"stagefile": "G_7_HD_title.bmp",
+				"charthash": "c70abceeea916e91d35f895f679e4bb003caa9012aba00c27a8e92826f7f74dd"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		]
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl5",
+		"hash": [
+			{
+				"title": "XIII Charlotte-BLACK ANOTHER-",
+				"genre": "NEO EPIC TRANCECORE",
+				"artist": "m108",
+				"subartist": "BGA:メツヤ Illust:flap Notes:夢瑠",
+				"md5": "29b0684e44c96d385748fca44f5533b9",
+				"sha256": "b47be767b4960005383ea4458ecfee4849c164be8e87f0c167805f6aedeb0858",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_banner.png",
+				"charthash": "ab77290fb256d3e503ec9bd72f3edb62295fa03a3e6f4edc271b9a4ffe6e724f"
+			},
+			{
+				"title": "Alice in Misanthrope -厭世アリス- [rejection]",
+				"genre": "GOTHIC CHOIR",
+				"artist": "LeaF",
+				"subartist": "Movie:想起 / Illust:セシル◇タイト / obj:eclair et fleur",
+				"md5": "1e4cf6ab1e453a9cc009753b3b69e341",
+				"sha256": "5d9b8b26326dbc0ccd98d0d2801c724ccab13ae209ee6c6f29d3d32dde2196f2",
+				"content": 3,
+				"stagefile": "_title.png",
+				"backbmp": "_backbmp.png",
+				"banner": "_banner.png",
+				"charthash": "ff85e97ed2b1218f6208f89d2115183651b85d85a52f9010ae4de01847a7813a"
+			},
+			{
+				"title": "VENUS INVADER [for A.]",
+				"genre": "METAL TRANCE",
+				"artist": "STARSTREAK CHAOS-TL12",
+				"subartist": "Illustration by Neru / obj: Lennon",
+				"md5": "bde6e746250d86e04619a5d7f527c4be",
+				"sha256": "2934692936c9c1db6f38d34eeda9244adfd702faf9bc7b453a12652bff357486",
+				"content": 3,
+				"stagefile": "vi_eyecatch.jpg",
+				"banner": "vi_banner.jpg",
+				"charthash": "6347f08bb1be193bb0f3f3bd5d4d527c2bf93a1323369c8a50dba07dc1a8ff35"
+			},
+			{
+				"title": "Ultimate Weapon",
+				"subtitle": "[ZOI]",
+				"genre": "EMOTIONAL TRANCECORE",
+				"artist": "TetraElemental",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "493f012b3b095b1a9958e7da49152e8e",
+				"sha256": "ece3edbfdb6719b56feb47b092647ccaa204405d6c7d689eeb52b134b06138ef",
+				"content": 3,
+				"stagefile": "_UW_stege.png",
+				"backbmp": "_UW_back.png",
+				"banner": "_UW_bana.png",
+				"charthash": "281f2811f2c41c472f7ed3a085e9d0f11f1e6c9b86b2b5dce276918819b6ee73"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl5",
+		"hash": [
+			{
+				"title": "Fading Star",
+				"subtitle": "-Canopus-",
+				"genre": "TRANCE",
+				"artist": "ginkiha",
+				"subartist": "あ",
+				"md5": "e38b9f0a8f66d25966207f24f7b030f5",
+				"sha256": "97594450691341139346828afb1a8d2d48a76a287309b3cb46d46d3d378b5e67",
+				"content": 3,
+				"charthash": "27e7fe630f0e61817cd38a5b64f3c4aa7d2dea2d5da734b4ba3371f933a6445b"
+			},
+			{
+				"title": "貴女と秘密の… [Lilie]",
+				"genre": "SECRET SONG",
+				"artist": "髭姫 feat. えみゅう。/obj:comet",
+				"md5": "8b286419155fb0e901f8fc52225acf1d",
+				"sha256": "5e3d040cfd763edfc7d3f46dccabaf28bcbddadc29d363dc762122d3154248e7",
+				"content": 3,
+				"charthash": "ab47cf2ddbc324916ff4b1280c0f330d1233923821f70c795ca133cc6d21e23f"
+			},
+			{
+				"title": "EVERLASTING HAPPiNESS↑",
+				"subtitle": "[ZOI]",
+				"genre": "HAPPY HARDCORE",
+				"artist": "psi",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "d72477a3cbf5f2c096039a4685b4929f",
+				"sha256": "256e41ca27680baaba9b01f31d17c57789a8a9a8c5aa77206efce9d2ee11552e",
+				"content": 3,
+				"charthash": "6e571600fa63b42c741a40ddb09e34f311468985ae8286b359235cba6dfd38ae"
+			},
+			{
+				"title": "squartatrice[HARD]",
+				"genre": "HARD RENAISSAYAKA",
+				"artist": "美樹さやか vs. 美樹さやか (fw. 美樹さやか)/差分　赤い人",
+				"subartist": "BGA ： 美樹さやか",
+				"md5": "d5414294b120d5f2dbfec4eb6cd59f38",
+				"sha256": "d4b1cdfe0c24b39bca2c540a70a111192dd004dcb2d5ed5722d6d054c09bdc28",
+				"content": 3,
+				"stagefile": "_squartarice_bg.png",
+				"backbmp": "_sayather.png",
+				"banner": "_squartarice_banner.png",
+				"charthash": "4f1c0c98a37c71a09e78000560ec16a6d00878d37365485a30b596fdd716c3f0"
+			},
+			{
+				"title": "XIII Charlotte-BLACK ANOTHER-",
+				"genre": "NEO EPIC TRANCECORE",
+				"artist": "m108",
+				"subartist": "BGA:メツヤ Illust:flap Notes:夢瑠",
+				"md5": "29b0684e44c96d385748fca44f5533b9",
+				"sha256": "b47be767b4960005383ea4458ecfee4849c164be8e87f0c167805f6aedeb0858",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_banner.png",
+				"charthash": "ab77290fb256d3e503ec9bd72f3edb62295fa03a3e6f4edc271b9a4ffe6e724f"
+			},
+			{
+				"title": "Alice in Misanthrope -厭世アリス- [rejection]",
+				"genre": "GOTHIC CHOIR",
+				"artist": "LeaF",
+				"subartist": "Movie:想起 / Illust:セシル◇タイト / obj:eclair et fleur",
+				"md5": "1e4cf6ab1e453a9cc009753b3b69e341",
+				"sha256": "5d9b8b26326dbc0ccd98d0d2801c724ccab13ae209ee6c6f29d3d32dde2196f2",
+				"content": 3,
+				"stagefile": "_title.png",
+				"backbmp": "_backbmp.png",
+				"banner": "_banner.png",
+				"charthash": "ff85e97ed2b1218f6208f89d2115183651b85d85a52f9010ae4de01847a7813a"
+			},
+			{
+				"title": "VENUS INVADER [for A.]",
+				"genre": "METAL TRANCE",
+				"artist": "STARSTREAK CHAOS-TL12",
+				"subartist": "Illustration by Neru / obj: Lennon",
+				"md5": "bde6e746250d86e04619a5d7f527c4be",
+				"sha256": "2934692936c9c1db6f38d34eeda9244adfd702faf9bc7b453a12652bff357486",
+				"content": 3,
+				"stagefile": "vi_eyecatch.jpg",
+				"banner": "vi_banner.jpg",
+				"charthash": "6347f08bb1be193bb0f3f3bd5d4d527c2bf93a1323369c8a50dba07dc1a8ff35"
+			},
+			{
+				"title": "Ultimate Weapon",
+				"subtitle": "[ZOI]",
+				"genre": "EMOTIONAL TRANCECORE",
+				"artist": "TetraElemental",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "493f012b3b095b1a9958e7da49152e8e",
+				"sha256": "ece3edbfdb6719b56feb47b092647ccaa204405d6c7d689eeb52b134b06138ef",
+				"content": 3,
+				"stagefile": "_UW_stege.png",
+				"backbmp": "_UW_back.png",
+				"banner": "_UW_bana.png",
+				"charthash": "281f2811f2c41c472f7ed3a085e9d0f11f1e6c9b86b2b5dce276918819b6ee73"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl5",
+		"hash": [
+			{
+				"title": "でじたるふぁじー！ -Radio Edit- [EX]",
+				"genre": "AKIBA TECHNO POP",
+				"artist": "ねこみりん / 小宮真央 / わんびぃ  /obj:BAECON",
+				"md5": "deeab620fa445e115fb4039155dad665",
+				"sha256": "7d1f9fc64fe53a4f503617ca3a749644dfa3dead86b307c8ba1a1adbab0f0ac0",
+				"content": 3,
+				"stagefile": "title.bmp",
+				"banner": "banner.bmp",
+				"charthash": "4d7adfb30463cbd9b88a15606331e67a12c2c1462f37e7f7845581469525a8c4"
+			},
+			{
+				"title": "Little \"Sister\" Bitch",
+				"subtitle": "-Hope-",
+				"genre": "Happy Hardcore",
+				"artist": "t+pazolite / obj:七海",
+				"md5": "acaaa0aaa4e8a3de3cbf8041f4891d72",
+				"sha256": "9c7ee0185e44fb649637a332e5c02ec038c241fcb3040b06f34b075067e324ce",
+				"content": 3,
+				"stagefile": "Title.jpg",
+				"charthash": "59464dbb7f9d33c182b40c0af8c9a1239fbf35a7a6f74e625d5c46b9e5df9f0d"
+			},
+			{
+				"title": "なついろ アーチ [夏]",
+				"genre": "ポップリスニング2",
+				"artist": "Y.W / A",
+				"md5": "e2b18a7ee3def34b287660af32527da3",
+				"sha256": "54e02db9c77ab790503ccf54ad6fa75be864bc529a4ea96dcfa28cdbf3a89624",
+				"content": 3,
+				"backbmp": "natsuiro_arch.png",
+				"banner": "natsuiro_arch_banner.bmp",
+				"charthash": "849f5b5c7758c90e1706b4e0277679f64141275a4c9371415634acf92a1bc663"
+			},
+			{
+				"title": "My Little Sweet Kitty [Append]",
+				"genre": "UK Sweetcore",
+				"artist": "Yu^ta / obj:Azel",
+				"md5": "5dda8688e245ec4dfd377a44fe6cc6c5",
+				"sha256": "ac4b09a60e0eb5c2fc9ef53cf4aba58b8ccce57a37e9e60f5b25ec60fc4acd3d",
+				"content": 3,
+				"stagefile": "_back.png",
+				"banner": "_banner.png",
+				"charthash": "beb23681d85b2b24a6f7e7db5f9eaff96a6c45232f802a46ae4ebfae6155f1ce"
+			},
+			{
+				"title": "Fading Star",
+				"subtitle": "-Canopus-",
+				"genre": "TRANCE",
+				"artist": "ginkiha",
+				"subartist": "あ",
+				"md5": "e38b9f0a8f66d25966207f24f7b030f5",
+				"sha256": "97594450691341139346828afb1a8d2d48a76a287309b3cb46d46d3d378b5e67",
+				"content": 3,
+				"charthash": "27e7fe630f0e61817cd38a5b64f3c4aa7d2dea2d5da734b4ba3371f933a6445b"
+			},
+			{
+				"title": "貴女と秘密の… [Lilie]",
+				"genre": "SECRET SONG",
+				"artist": "髭姫 feat. えみゅう。/obj:comet",
+				"md5": "8b286419155fb0e901f8fc52225acf1d",
+				"sha256": "5e3d040cfd763edfc7d3f46dccabaf28bcbddadc29d363dc762122d3154248e7",
+				"content": 3,
+				"charthash": "ab47cf2ddbc324916ff4b1280c0f330d1233923821f70c795ca133cc6d21e23f"
+			},
+			{
+				"title": "EVERLASTING HAPPiNESS↑",
+				"subtitle": "[ZOI]",
+				"genre": "HAPPY HARDCORE",
+				"artist": "psi",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "d72477a3cbf5f2c096039a4685b4929f",
+				"sha256": "256e41ca27680baaba9b01f31d17c57789a8a9a8c5aa77206efce9d2ee11552e",
+				"content": 3,
+				"charthash": "6e571600fa63b42c741a40ddb09e34f311468985ae8286b359235cba6dfd38ae"
+			},
+			{
+				"title": "squartatrice[HARD]",
+				"genre": "HARD RENAISSAYAKA",
+				"artist": "美樹さやか vs. 美樹さやか (fw. 美樹さやか)/差分　赤い人",
+				"subartist": "BGA ： 美樹さやか",
+				"md5": "d5414294b120d5f2dbfec4eb6cd59f38",
+				"sha256": "d4b1cdfe0c24b39bca2c540a70a111192dd004dcb2d5ed5722d6d054c09bdc28",
+				"content": 3,
+				"stagefile": "_squartarice_bg.png",
+				"backbmp": "_sayather.png",
+				"banner": "_squartarice_banner.png",
+				"charthash": "4f1c0c98a37c71a09e78000560ec16a6d00878d37365485a30b596fdd716c3f0"
+			},
+			{
+				"title": "XIII Charlotte-BLACK ANOTHER-",
+				"genre": "NEO EPIC TRANCECORE",
+				"artist": "m108",
+				"subartist": "BGA:メツヤ Illust:flap Notes:夢瑠",
+				"md5": "29b0684e44c96d385748fca44f5533b9",
+				"sha256": "b47be767b4960005383ea4458ecfee4849c164be8e87f0c167805f6aedeb0858",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_banner.png",
+				"charthash": "ab77290fb256d3e503ec9bd72f3edb62295fa03a3e6f4edc271b9a4ffe6e724f"
+			},
+			{
+				"title": "Alice in Misanthrope -厭世アリス- [rejection]",
+				"genre": "GOTHIC CHOIR",
+				"artist": "LeaF",
+				"subartist": "Movie:想起 / Illust:セシル◇タイト / obj:eclair et fleur",
+				"md5": "1e4cf6ab1e453a9cc009753b3b69e341",
+				"sha256": "5d9b8b26326dbc0ccd98d0d2801c724ccab13ae209ee6c6f29d3d32dde2196f2",
+				"content": 3,
+				"stagefile": "_title.png",
+				"backbmp": "_backbmp.png",
+				"banner": "_banner.png",
+				"charthash": "ff85e97ed2b1218f6208f89d2115183651b85d85a52f9010ae4de01847a7813a"
+			},
+			{
+				"title": "VENUS INVADER [for A.]",
+				"genre": "METAL TRANCE",
+				"artist": "STARSTREAK CHAOS-TL12",
+				"subartist": "Illustration by Neru / obj: Lennon",
+				"md5": "bde6e746250d86e04619a5d7f527c4be",
+				"sha256": "2934692936c9c1db6f38d34eeda9244adfd702faf9bc7b453a12652bff357486",
+				"content": 3,
+				"stagefile": "vi_eyecatch.jpg",
+				"banner": "vi_banner.jpg",
+				"charthash": "6347f08bb1be193bb0f3f3bd5d4d527c2bf93a1323369c8a50dba07dc1a8ff35"
+			},
+			{
+				"title": "Ultimate Weapon",
+				"subtitle": "[ZOI]",
+				"genre": "EMOTIONAL TRANCECORE",
+				"artist": "TetraElemental",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "493f012b3b095b1a9958e7da49152e8e",
+				"sha256": "ece3edbfdb6719b56feb47b092647ccaa204405d6c7d689eeb52b134b06138ef",
+				"content": 3,
+				"stagefile": "_UW_stege.png",
+				"backbmp": "_UW_back.png",
+				"banner": "_UW_bana.png",
+				"charthash": "281f2811f2c41c472f7ed3a085e9d0f11f1e6c9b86b2b5dce276918819b6ee73"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl6",
+		"hash": [
+			{
+				"title": "88D[大きい]",
+				"genre": "HOUSE",
+				"artist": "mommy",
+				"md5": "e443fe8369b6141e5f2dc758adf1d6da",
+				"sha256": "72faa17c1215de45408de493795b40918d2158487f6d4dee9592d3f4a01c8ac0",
+				"content": 3,
+				"stagefile": "stage.bmp",
+				"charthash": "e4c8e23afcdb19b0f8b76a19999b03fa3844c0e6f3d173608b06c2b582dbb207"
+			},
+			{
+				"title": "+84",
+				"subtitle": "[摩天楼]",
+				"genre": "Drumnbass",
+				"artist": "はがね",
+				"subartist": "obj. 0samil0 vs Lapis",
+				"md5": "46b798b33aba4db80689df79f0cbf339",
+				"sha256": "946104d37d930a085375e4e26a5d9cf590653366b074a59bf62730292d12f4fd",
+				"content": 3,
+				"stagefile": "_bms_title.png",
+				"backbmp": "_bms_titlemap.png",
+				"banner": "_bms_bnr.png",
+				"charthash": "55d45e75d8c9a8fa70751b78449ac90c1093f74b7d1d5915a0422ad8ca48f4f3"
+			},
+			{
+				"title": "Trick or Treat? [Extra]",
+				"genre": "Gothic Dance",
+				"artist": "Lime / aui /obj;vertigo",
+				"md5": "93b312dfa1860a001b620d2a4e3d8e5c",
+				"sha256": "7cf84099975653d02857496e4e0197b68976ca638e415a5f9c895e7d6b45fb41",
+				"content": 3,
+				"stagefile": "title.jpg",
+				"charthash": "d4ba71e1cc9ab7d11050d257e1c15d2548822ca4a2c7a190ac21528410747974"
+			},
+			{
+				"title": "To you [Affection]",
+				"genre": "Pop Rock",
+				"artist": "Chocolate Powder / Lucy",
+				"subartist": "ChocoPow Graphic team x jaSMINe Aroma",
+				"md5": "eebf5db925bf70226162ee90cea00646",
+				"sha256": "381856ceae0decb5f363332b6517e18331858d82eed8b4be3155c16f96c1d558",
+				"content": 3,
+				"stagefile": "title2.png",
+				"backbmp": "back.png",
+				"banner": "banner.png",
+				"charthash": "8337bf29844a2bdbb62c2e38f28e01eead41c1ffebd51ca3c5aca652f3aa9e72"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl6",
+		"hash": [
+			{
+				"title": "オトゲラヴ！ [男の娘ラヴ！]",
+				"genre": "A-POP",
+				"artist": "ねこみりん feat.小宮真央×みゆ×えみゅう。",
+				"subartist": "Movie:kkkfff2 / Illust:永山ゆうのん / obj. BK_LAPIS",
+				"md5": "cab2ba456434dfa111b4acb76a391496",
+				"sha256": "2a76e7941f4e0f38b091a316fdccc5d7f264aefb57046d8f5b2690099027f31a",
+				"content": 3,
+				"stagefile": "otogelove_title.png",
+				"banner": "otogelove_banner.png",
+				"charthash": "7479a294798b1661026abb5ab0cdadfd53f4bc522343eccac100d9357d38073e"
+			},
+			{
+				"title": "BlythE:ExtenD -SemicoloN-",
+				"genre": "trance hi-speed",
+				"artist": "remixed celas feat.ARU",
+				"subartist": "obj : LindBlum彡☆",
+				"md5": "f8dd029100b14f226a482480903efa48",
+				"sha256": "4f3440d1399887ad95d5f00c9ec4f77c12d2d427ae796843bb42833f6525d191",
+				"content": 3,
+				"stagefile": "_blythe_r_title.jpg",
+				"backbmp": "_blythe_r_backbmp.jpg",
+				"charthash": "02144347b514518ec28cff6fc0724421ae6753510d9909c2b4b96cba6bfe0e3a"
+			},
+			{
+				"title": "地獄の業火で焼肉大会！？",
+				"subtitle": "[ZOI]",
+				"genre": "超地獄式歌葬曲",
+				"artist": "さかみりと",
+				"subartist": "img:しぐれぷに子 / obj:SUZUKAZEΛ",
+				"md5": "54b5c1308567fd9d175482abada00fa7",
+				"sha256": "05cb0eb9ec7a77212cafbe187c484657bc96825ac8bece4d6883dffd48c30635",
+				"content": 3,
+				"stagefile": "_STAGE_.png",
+				"charthash": "5aa9d9faf38b40b0e8fb4fb2434cd1ec1cbd356f823fce77471672d9eddaa82a"
+			},
+			{
+				"title": "Lollipop☆driveR[HARDEST]",
+				"genre": "chipstyle_lollipop",
+				"artist": "梅干茶漬け/ obj:赤い人",
+				"md5": "f6298076c6f7b8661c6c72575fca1ec6",
+				"sha256": "d9ae5d752b3a4edaf7268c4dfcbf535360d07340a1f5eefe01dc76f064875c1e",
+				"content": 3,
+				"charthash": "3e35841d1b2ba67a9038d72896a6bc4c9aca7ca24c7b07e4fe70e2ba08b2feaf"
+			},
+			{
+				"title": "88D[大きい]",
+				"genre": "HOUSE",
+				"artist": "mommy",
+				"md5": "e443fe8369b6141e5f2dc758adf1d6da",
+				"sha256": "72faa17c1215de45408de493795b40918d2158487f6d4dee9592d3f4a01c8ac0",
+				"content": 3,
+				"stagefile": "stage.bmp",
+				"charthash": "e4c8e23afcdb19b0f8b76a19999b03fa3844c0e6f3d173608b06c2b582dbb207"
+			},
+			{
+				"title": "+84",
+				"subtitle": "[摩天楼]",
+				"genre": "Drumnbass",
+				"artist": "はがね",
+				"subartist": "obj. 0samil0 vs Lapis",
+				"md5": "46b798b33aba4db80689df79f0cbf339",
+				"sha256": "946104d37d930a085375e4e26a5d9cf590653366b074a59bf62730292d12f4fd",
+				"content": 3,
+				"stagefile": "_bms_title.png",
+				"backbmp": "_bms_titlemap.png",
+				"banner": "_bms_bnr.png",
+				"charthash": "55d45e75d8c9a8fa70751b78449ac90c1093f74b7d1d5915a0422ad8ca48f4f3"
+			},
+			{
+				"title": "Trick or Treat? [Extra]",
+				"genre": "Gothic Dance",
+				"artist": "Lime / aui /obj;vertigo",
+				"md5": "93b312dfa1860a001b620d2a4e3d8e5c",
+				"sha256": "7cf84099975653d02857496e4e0197b68976ca638e415a5f9c895e7d6b45fb41",
+				"content": 3,
+				"stagefile": "title.jpg",
+				"charthash": "d4ba71e1cc9ab7d11050d257e1c15d2548822ca4a2c7a190ac21528410747974"
+			},
+			{
+				"title": "To you [Affection]",
+				"genre": "Pop Rock",
+				"artist": "Chocolate Powder / Lucy",
+				"subartist": "ChocoPow Graphic team x jaSMINe Aroma",
+				"md5": "eebf5db925bf70226162ee90cea00646",
+				"sha256": "381856ceae0decb5f363332b6517e18331858d82eed8b4be3155c16f96c1d558",
+				"content": 3,
+				"stagefile": "title2.png",
+				"backbmp": "back.png",
+				"banner": "banner.png",
+				"charthash": "8337bf29844a2bdbb62c2e38f28e01eead41c1ffebd51ca3c5aca652f3aa9e72"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl6",
+		"hash": [
+			{
+				"title": "ブラーブルー",
+				"subtitle": "-Eternal-",
+				"genre": "ART EMOTION",
+				"artist": "Caerula",
+				"subartist": "obj:monaka",
+				"md5": "f735b2d7e027cc20f10453b1abed1cfe",
+				"sha256": "8785d0cb4a1ec537a88a193f76e88e332fdad72aac9a571121c839e7fbb8b57b",
+				"content": 3,
+				"charthash": "274edf804c5bb9b486bc1cb4723df68b992f0f4d2f98d1d2d1a0d8611e75c593"
+			},
+			{
+				"title": "星の器～STAR OF ANDROMEDA",
+				"subtitle": "-Re:NORMAL-EX-",
+				"genre": "GOA TRANCE",
+				"artist": "ZUN (Arr.sun3) / obj.OXYGEN",
+				"md5": "3f8ff37170adf73759a6954b32c1b581",
+				"sha256": "011bc56700223282e19916c7bb2e52bb55b478838575114b5392990e972d79de",
+				"content": 3,
+				"charthash": "2139f963e93c1f24f2124120c570a29fb74fa2512a453bd132406966c7f3bc16"
+			},
+			{
+				"title": "Rechronize[BRAVER]",
+				"genre": "Nostalgic J-POP",
+				"artist": "あとぅす feat.咲良ゆの",
+				"subartist": "BGI:りーふぱいザウルス obj:Lian",
+				"md5": "7c619937f0448c48e4b7de0c5da8940c",
+				"sha256": "7659b4944ffb01db2ffd9d018fb28731c6ace42edf0737204d8feda3070da8ff",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_Banner.png",
+				"charthash": "bf701499e8a8c83c5577892b065b6360f6c99db504fea93771453e9f23280175"
+			},
+			{
+				"title": "桜シロガネ妖狐伝説",
+				"subtitle": "[ZOI]",
+				"genre": "ORIENTAL GAMEROCK",
+				"artist": "LiA",
+				"subartist": "obj:SUZUKAZEΛ",
+				"md5": "808c6bbaf7b78b8b2a50187d950ad7b0",
+				"sha256": "3345181b7ef58fce1bfbc48f4230666df19f31374937ebd0a18ea6000cea27bb",
+				"content": 3,
+				"stagefile": "title.bmp",
+				"backbmp": "titlemap.bmp",
+				"banner": "banner.bmp",
+				"charthash": "0fd5ea8b2f83312cc4fab5254603eab379501676d7b071512c4c1ba694d4a1f8"
+			},
+			{
+				"title": "オトゲラヴ！ [男の娘ラヴ！]",
+				"genre": "A-POP",
+				"artist": "ねこみりん feat.小宮真央×みゆ×えみゅう。",
+				"subartist": "Movie:kkkfff2 / Illust:永山ゆうのん / obj. BK_LAPIS",
+				"md5": "cab2ba456434dfa111b4acb76a391496",
+				"sha256": "2a76e7941f4e0f38b091a316fdccc5d7f264aefb57046d8f5b2690099027f31a",
+				"content": 3,
+				"stagefile": "otogelove_title.png",
+				"banner": "otogelove_banner.png",
+				"charthash": "7479a294798b1661026abb5ab0cdadfd53f4bc522343eccac100d9357d38073e"
+			},
+			{
+				"title": "BlythE:ExtenD -SemicoloN-",
+				"genre": "trance hi-speed",
+				"artist": "remixed celas feat.ARU",
+				"subartist": "obj : LindBlum彡☆",
+				"md5": "f8dd029100b14f226a482480903efa48",
+				"sha256": "4f3440d1399887ad95d5f00c9ec4f77c12d2d427ae796843bb42833f6525d191",
+				"content": 3,
+				"stagefile": "_blythe_r_title.jpg",
+				"backbmp": "_blythe_r_backbmp.jpg",
+				"charthash": "02144347b514518ec28cff6fc0724421ae6753510d9909c2b4b96cba6bfe0e3a"
+			},
+			{
+				"title": "地獄の業火で焼肉大会！？",
+				"subtitle": "[ZOI]",
+				"genre": "超地獄式歌葬曲",
+				"artist": "さかみりと",
+				"subartist": "img:しぐれぷに子 / obj:SUZUKAZEΛ",
+				"md5": "54b5c1308567fd9d175482abada00fa7",
+				"sha256": "05cb0eb9ec7a77212cafbe187c484657bc96825ac8bece4d6883dffd48c30635",
+				"content": 3,
+				"stagefile": "_STAGE_.png",
+				"charthash": "5aa9d9faf38b40b0e8fb4fb2434cd1ec1cbd356f823fce77471672d9eddaa82a"
+			},
+			{
+				"title": "Lollipop☆driveR[HARDEST]",
+				"genre": "chipstyle_lollipop",
+				"artist": "梅干茶漬け/ obj:赤い人",
+				"md5": "f6298076c6f7b8661c6c72575fca1ec6",
+				"sha256": "d9ae5d752b3a4edaf7268c4dfcbf535360d07340a1f5eefe01dc76f064875c1e",
+				"content": 3,
+				"charthash": "3e35841d1b2ba67a9038d72896a6bc4c9aca7ca24c7b07e4fe70e2ba08b2feaf"
+			},
+			{
+				"title": "88D[大きい]",
+				"genre": "HOUSE",
+				"artist": "mommy",
+				"md5": "e443fe8369b6141e5f2dc758adf1d6da",
+				"sha256": "72faa17c1215de45408de493795b40918d2158487f6d4dee9592d3f4a01c8ac0",
+				"content": 3,
+				"stagefile": "stage.bmp",
+				"charthash": "e4c8e23afcdb19b0f8b76a19999b03fa3844c0e6f3d173608b06c2b582dbb207"
+			},
+			{
+				"title": "+84",
+				"subtitle": "[摩天楼]",
+				"genre": "Drumnbass",
+				"artist": "はがね",
+				"subartist": "obj. 0samil0 vs Lapis",
+				"md5": "46b798b33aba4db80689df79f0cbf339",
+				"sha256": "946104d37d930a085375e4e26a5d9cf590653366b074a59bf62730292d12f4fd",
+				"content": 3,
+				"stagefile": "_bms_title.png",
+				"backbmp": "_bms_titlemap.png",
+				"banner": "_bms_bnr.png",
+				"charthash": "55d45e75d8c9a8fa70751b78449ac90c1093f74b7d1d5915a0422ad8ca48f4f3"
+			},
+			{
+				"title": "Trick or Treat? [Extra]",
+				"genre": "Gothic Dance",
+				"artist": "Lime / aui /obj;vertigo",
+				"md5": "93b312dfa1860a001b620d2a4e3d8e5c",
+				"sha256": "7cf84099975653d02857496e4e0197b68976ca638e415a5f9c895e7d6b45fb41",
+				"content": 3,
+				"stagefile": "title.jpg",
+				"charthash": "d4ba71e1cc9ab7d11050d257e1c15d2548822ca4a2c7a190ac21528410747974"
+			},
+			{
+				"title": "To you [Affection]",
+				"genre": "Pop Rock",
+				"artist": "Chocolate Powder / Lucy",
+				"subartist": "ChocoPow Graphic team x jaSMINe Aroma",
+				"md5": "eebf5db925bf70226162ee90cea00646",
+				"sha256": "381856ceae0decb5f363332b6517e18331858d82eed8b4be3155c16f96c1d558",
+				"content": 3,
+				"stagefile": "title2.png",
+				"backbmp": "back.png",
+				"banner": "banner.png",
+				"charthash": "8337bf29844a2bdbb62c2e38f28e01eead41c1ffebd51ca3c5aca652f3aa9e72"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl7",
+		"hash": [
+			{
+				"title": "WHIRLWIND",
+				"subtitle": "[EXTRA]",
+				"genre": "Piano Trance",
+				"artist": "Linne X SCTL",
+				"subartist": "Visualized by Keiyuu & RED-FOX / obj:monaka",
+				"md5": "c4bb75ec414177e4c1d9f5bafae4cca2",
+				"sha256": "a8c664e28919904687b48443034744dfeab1b5bff96657db9415db0ef5a23f96",
+				"content": 3,
+				"stagefile": "eyecatch_extra.jpg",
+				"backbmp": "backbmp.bmp",
+				"banner": "banner.jpg",
+				"charthash": "590b21b7c51cf1f9e41e1c0f1154b109b140ae96c44e92825276af82b7466cd3"
+			},
+			{
+				"title": "Amusing Reflection Rag. [F]",
+				"genre": "Polka / Ragtime Core",
+				"artist": "yukitani / DKN",
+				"subartist": "obj:Fender",
+				"md5": "9ffd7ddd5a9d16077eeee206e3dc7ab3",
+				"sha256": "dc6d57b1205feaa47758e9a81630b5076b85d5e99ff9297e0f57d164edb98587",
+				"content": 3,
+				"stagefile": "stage.png",
+				"charthash": "80d7450282add140f22cb98c5fb669d4f49c074b63cb17ac86079a2e69967690"
+			},
+			{
+				"title": "Exploring the blue sky",
+				"subtitle": "[Li]",
+				"genre": "Trance",
+				"artist": "sukuramu42",
+				"subartist": "Illust:恋々 / obj:LIEF",
+				"md5": "f0d3bb233a3dad1f469c1130ca5b7118",
+				"sha256": "55395cfef182e491d5a133ff47f5864a24f9e704535b1d66695a2abb8d84c917",
+				"content": 3,
+				"charthash": "c2b4b68351a37e0510ee0f66f3117eefa003ad6e04590d21ef099e268eca6aa9"
+			},
+			{
+				"title": "cotton39% (EX)",
+				"genre": "DRUM'N'BOSSA",
+				"artist": "Est/さ",
+				"md5": "8ff8f7dca521b31d3097066e97874540",
+				"sha256": "3e4eba81f1877f56365821f26ae140c48a7da016fc06ab2c13300577503f86f5",
+				"content": 3,
+				"stagefile": "title.bmp",
+				"backbmp": "back.bmp",
+				"charthash": "2efe9a06f993fc3a359cca2b9bff1ac7b475f677bd2d02373de5219638d8b0c0"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl7",
+		"hash": [
+			{
+				"title": "プナイプナイせんそう[LITTLE DAEMON]",
+				"genre": "プナイプナイWAR",
+				"artist": "立秋 feat.ちょこ/obj:wak",
+				"md5": "9d70d0f80d97d0143f86dec260216f8b",
+				"sha256": "0005d24b3b94c2bd6af580fe6e46f4fa5ee38a49149875b008fcd31f74899c74",
+				"content": 3,
+				"stagefile": "punai_bg.bmp",
+				"backbmp": "punai_bk.bmp",
+				"banner": "punai_bn.png",
+				"charthash": "cae40b95abe065ce2428d4d68ae56a1a9a6c2b25ebb5c46b614c4cb3d643e774"
+			},
+			{
+				"title": "シオカラ節 (Club & FM Remix) [S+30]",
+				"genre": "Splatoon",
+				"artist": "Yu^ta",
+				"md5": "e318552be7647f44014dea14989af536",
+				"sha256": "52507233eaa744e1fde5ad6fb32092ae548e4ff546d90dcc90cfe1a188935dd6",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"banner": "_banner.png",
+				"charthash": "2523be23833fe029a5084f0560d401a4a61ceeff38fd2cf29252ed033e05929b"
+			},
+			{
+				"title": "energy night",
+				"subtitle": "[JOY]",
+				"genre": "rave tech",
+				"artist": "KAH (BGA:自動車原付　イラスト:手鞠鈴)",
+				"subartist": "obj:涼風改",
+				"md5": "489ddffa0c8d458530d93da6b0354cae",
+				"sha256": "64498f57ac09080b7d57505cb9cc54ea2b16868f43f084ca5b226bc9d8f11909",
+				"content": 3,
+				"charthash": "61c2539225b63586dac3b9e1acc01b4798351dd5159898725abb44d6feb3ec9e"
+			},
+			{
+				"title": "スーパーイザナギオブジェクト [yumether]",
+				"genre": "Neo traditionalism",
+				"artist": "er / obj:夢瑠",
+				"md5": "502f2e31b37878df952c8bcd54b4e1b3",
+				"sha256": "0a55f8f493f9a1429f6eb8f94683cccbf94506e656fde3141c5d2afadaabc753",
+				"content": 3,
+				"charthash": "6db01524a243c1109904b96499100a9f726cbb2c8c1cd4f6d5647e59795d162f"
+			},
+			{
+				"title": "WHIRLWIND",
+				"subtitle": "[EXTRA]",
+				"genre": "Piano Trance",
+				"artist": "Linne X SCTL",
+				"subartist": "Visualized by Keiyuu & RED-FOX / obj:monaka",
+				"md5": "c4bb75ec414177e4c1d9f5bafae4cca2",
+				"sha256": "a8c664e28919904687b48443034744dfeab1b5bff96657db9415db0ef5a23f96",
+				"content": 3,
+				"stagefile": "eyecatch_extra.jpg",
+				"backbmp": "backbmp.bmp",
+				"banner": "banner.jpg",
+				"charthash": "590b21b7c51cf1f9e41e1c0f1154b109b140ae96c44e92825276af82b7466cd3"
+			},
+			{
+				"title": "Amusing Reflection Rag. [F]",
+				"genre": "Polka / Ragtime Core",
+				"artist": "yukitani / DKN",
+				"subartist": "obj:Fender",
+				"md5": "9ffd7ddd5a9d16077eeee206e3dc7ab3",
+				"sha256": "dc6d57b1205feaa47758e9a81630b5076b85d5e99ff9297e0f57d164edb98587",
+				"content": 3,
+				"stagefile": "stage.png",
+				"charthash": "80d7450282add140f22cb98c5fb669d4f49c074b63cb17ac86079a2e69967690"
+			},
+			{
+				"title": "Exploring the blue sky",
+				"subtitle": "[Li]",
+				"genre": "Trance",
+				"artist": "sukuramu42",
+				"subartist": "Illust:恋々 / obj:LIEF",
+				"md5": "f0d3bb233a3dad1f469c1130ca5b7118",
+				"sha256": "55395cfef182e491d5a133ff47f5864a24f9e704535b1d66695a2abb8d84c917",
+				"content": 3,
+				"charthash": "c2b4b68351a37e0510ee0f66f3117eefa003ad6e04590d21ef099e268eca6aa9"
+			},
+			{
+				"title": "cotton39% (EX)",
+				"genre": "DRUM'N'BOSSA",
+				"artist": "Est/さ",
+				"md5": "8ff8f7dca521b31d3097066e97874540",
+				"sha256": "3e4eba81f1877f56365821f26ae140c48a7da016fc06ab2c13300577503f86f5",
+				"content": 3,
+				"stagefile": "title.bmp",
+				"backbmp": "back.bmp",
+				"charthash": "2efe9a06f993fc3a359cca2b9bff1ac7b475f677bd2d02373de5219638d8b0c0"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl7",
+		"hash": [
+			{
+				"title": "Singing of Night birds [SKY]",
+				"genre": "Hard Mystic",
+				"artist": "Ark-Z  Illustration by 春雨 / obj:BAECON",
+				"md5": "c00300d042dd1c5b145f02106c81cb20",
+				"sha256": "6a65a59e00c3cef7edb15bebd0e5bf9e1d67c1fdfd4e408db0a30f4e7cce1891",
+				"content": 3,
+				"charthash": "bc02881eef8c2da8658ad20da1783b0dc3b35c16dde4ab89989414bf8f2f050d"
+			},
+			{
+				"title": "あなた [Delay24]",
+				"genre": "Piano Shuffle",
+				"artist": "mitssi feat. SeeU obj:goe",
+				"subartist": "Movie: Sabhwa",
+				"md5": "eeff3a9a7cd557a05308ba1296752db2",
+				"sha256": "bc1462814a47c6a0e2d6a6779014f78e8f6f94c3b49ab6ecb9a5752d18137e16",
+				"content": 2,
+				"stagefile": "anata_title.bmp",
+				"charthash": "2df915a53aa0cd4a5514aa426c57c4e7f0c4e20c50db7da749c908b1fc1d03e9"
+			},
+			{
+				"title": "Funny Funky Freaky[HARD+]",
+				"genre": "FUNK",
+				"artist": "mommy /差分 赤い人/reobj : ??",
+				"md5": "0749104be4e059e275928ea5c463f36d",
+				"sha256": "2962ea5aa98be9cb7cfa97bfe437bffaeb331917c4d478cd18dbae39c41852fe",
+				"content": 3,
+				"stagefile": "stage.bmp",
+				"charthash": "25ce3287914102e9116e58e87395769daf3be4fc7cf2ae81151033aef86b29e2"
+			},
+			{
+				"title": "IDOLL",
+				"subtitle": "[DOLLISH]",
+				"genre": "Bass House",
+				"artist": "七草くりむ mov.都森れん obj.Mary_Sue",
+				"md5": "0083f9de62f737c85c99e962074fb07a",
+				"sha256": "ebf4e332aeaabfaed2862ba8dcceaca46009c3678d0114f4d98f2a31bc2acbc8",
+				"content": 3,
+				"stagefile": "98_stagefile.bmp",
+				"charthash": "d099de02288e8f52000069c25fdcebedbd71b6bbdd569ee19bea1dcfc8c757bb"
+			},
+			{
+				"title": "プナイプナイせんそう[LITTLE DAEMON]",
+				"genre": "プナイプナイWAR",
+				"artist": "立秋 feat.ちょこ/obj:wak",
+				"md5": "9d70d0f80d97d0143f86dec260216f8b",
+				"sha256": "0005d24b3b94c2bd6af580fe6e46f4fa5ee38a49149875b008fcd31f74899c74",
+				"content": 3,
+				"stagefile": "punai_bg.bmp",
+				"backbmp": "punai_bk.bmp",
+				"banner": "punai_bn.png",
+				"charthash": "cae40b95abe065ce2428d4d68ae56a1a9a6c2b25ebb5c46b614c4cb3d643e774"
+			},
+			{
+				"title": "シオカラ節 (Club & FM Remix) [S+30]",
+				"genre": "Splatoon",
+				"artist": "Yu^ta",
+				"md5": "e318552be7647f44014dea14989af536",
+				"sha256": "52507233eaa744e1fde5ad6fb32092ae548e4ff546d90dcc90cfe1a188935dd6",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"banner": "_banner.png",
+				"charthash": "2523be23833fe029a5084f0560d401a4a61ceeff38fd2cf29252ed033e05929b"
+			},
+			{
+				"title": "energy night",
+				"subtitle": "[JOY]",
+				"genre": "rave tech",
+				"artist": "KAH (BGA:自動車原付　イラスト:手鞠鈴)",
+				"subartist": "obj:涼風改",
+				"md5": "489ddffa0c8d458530d93da6b0354cae",
+				"sha256": "64498f57ac09080b7d57505cb9cc54ea2b16868f43f084ca5b226bc9d8f11909",
+				"content": 3,
+				"charthash": "61c2539225b63586dac3b9e1acc01b4798351dd5159898725abb44d6feb3ec9e"
+			},
+			{
+				"title": "スーパーイザナギオブジェクト [yumether]",
+				"genre": "Neo traditionalism",
+				"artist": "er / obj:夢瑠",
+				"md5": "502f2e31b37878df952c8bcd54b4e1b3",
+				"sha256": "0a55f8f493f9a1429f6eb8f94683cccbf94506e656fde3141c5d2afadaabc753",
+				"content": 3,
+				"charthash": "6db01524a243c1109904b96499100a9f726cbb2c8c1cd4f6d5647e59795d162f"
+			},
+			{
+				"title": "WHIRLWIND",
+				"subtitle": "[EXTRA]",
+				"genre": "Piano Trance",
+				"artist": "Linne X SCTL",
+				"subartist": "Visualized by Keiyuu & RED-FOX / obj:monaka",
+				"md5": "c4bb75ec414177e4c1d9f5bafae4cca2",
+				"sha256": "a8c664e28919904687b48443034744dfeab1b5bff96657db9415db0ef5a23f96",
+				"content": 3,
+				"stagefile": "eyecatch_extra.jpg",
+				"backbmp": "backbmp.bmp",
+				"banner": "banner.jpg",
+				"charthash": "590b21b7c51cf1f9e41e1c0f1154b109b140ae96c44e92825276af82b7466cd3"
+			},
+			{
+				"title": "Amusing Reflection Rag. [F]",
+				"genre": "Polka / Ragtime Core",
+				"artist": "yukitani / DKN",
+				"subartist": "obj:Fender",
+				"md5": "9ffd7ddd5a9d16077eeee206e3dc7ab3",
+				"sha256": "dc6d57b1205feaa47758e9a81630b5076b85d5e99ff9297e0f57d164edb98587",
+				"content": 3,
+				"stagefile": "stage.png",
+				"charthash": "80d7450282add140f22cb98c5fb669d4f49c074b63cb17ac86079a2e69967690"
+			},
+			{
+				"title": "Exploring the blue sky",
+				"subtitle": "[Li]",
+				"genre": "Trance",
+				"artist": "sukuramu42",
+				"subartist": "Illust:恋々 / obj:LIEF",
+				"md5": "f0d3bb233a3dad1f469c1130ca5b7118",
+				"sha256": "55395cfef182e491d5a133ff47f5864a24f9e704535b1d66695a2abb8d84c917",
+				"content": 3,
+				"charthash": "c2b4b68351a37e0510ee0f66f3117eefa003ad6e04590d21ef099e268eca6aa9"
+			},
+			{
+				"title": "cotton39% (EX)",
+				"genre": "DRUM'N'BOSSA",
+				"artist": "Est/さ",
+				"md5": "8ff8f7dca521b31d3097066e97874540",
+				"sha256": "3e4eba81f1877f56365821f26ae140c48a7da016fc06ab2c13300577503f86f5",
+				"content": 3,
+				"stagefile": "title.bmp",
+				"backbmp": "back.bmp",
+				"charthash": "2efe9a06f993fc3a359cca2b9bff1ac7b475f677bd2d02373de5219638d8b0c0"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl8",
+		"hash": [
+			{
+				"title": "Trane",
+				"subtitle": "[SP ELIXIR]",
+				"genre": "ALCHEMIST -V-(Neo Pagan Folk)",
+				"artist": "MALVA.",
+				"subartist": "BGA : 焼き鳥　Illustration : しえろ。+ 萬田  Obj : BAECON",
+				"md5": "86c1799a5b2bcf6eeda15c1b0854d814",
+				"sha256": "23c8f63a8768bf423dfdf87aa162539ed725e7f93b2e8ade601d21b648d256fb",
+				"content": 3,
+				"stagefile": "_stagefile.jpg",
+				"backbmp": "_backbmp.png",
+				"banner": "_banner.png",
+				"charthash": "5d6712693741b4434d6352caaef225ca9b5834386b88549098e397d464a238a2"
+			},
+			{
+				"title": "和鸞",
+				"subtitle": "[紅翼鳥]",
+				"genre": "神鳥",
+				"artist": "うまるつふり/obj.sitoras",
+				"md5": "c1b9047c9f8bc75fae5a20edeb6dbddd",
+				"sha256": "30a2db8e9691c9d910db1328edc736e8db1e5ea149d1d813ec43e7da8bcc2ce8",
+				"content": 3,
+				"backbmp": "_suzuran_back.jpg",
+				"charthash": "b0efcd8236d737105d3086d9a5337be90b8c2046acf29eeda8cb6f426ee091d8"
+			},
+			{
+				"title": "Poppin' Shower[ANOTHER+]",
+				"genre": "HAPPY SWEETS CORE",
+				"artist": "P*Light / po",
+				"md5": "9978fa59025a74eb897495c0695d0199",
+				"sha256": "33eab3f7df1a45f35aff85d632e0a25b090133bb899d42269deae163016871d3",
+				"content": 3,
+				"stagefile": "stage.png",
+				"charthash": "d2724c61eaa25a555e7b285e7cb9420a62ab29c4233d4c2818103a59702399ab"
+			},
+			{
+				"title": "月時計　Last・Dial(morither+)",
+				"genre": "Trance core",
+				"artist": "ZUN(Arr.sun3) /obj morio",
+				"md5": "41afa5d52dd92d121718a047f155c33b",
+				"sha256": "04b21b3553da1f9ef5b7dd651f46b0345f2cffc209f73ab17b2c44335d7d5a55",
+				"content": 3,
+				"charthash": "7021e7141ceb082580aed7d8939f7053d687e0e2d3ae1e72b730f6dfc6f2c0ff"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl8",
+		"hash": [
+			{
+				"title": "年中夢中な好奇心",
+				"subtitle": "[ManiaK]",
+				"genre": "やるきファンク",
+				"artist": "er",
+				"subartist": "obj:krg",
+				"md5": "9dd34100b83d5e091dcb76c5af65f4bc",
+				"sha256": "26516c6c3c0b46fbf1ccba8b187fb7e46ac0479832781b14e09b31dc32825bde",
+				"content": 3,
+				"charthash": "3519839897edbaafeb2384d110b24f424094713d8600ab31ce121ad5e59c59eb"
+			},
+			{
+				"title": "ラケシスと永遠の祈祷者",
+				"subtitle": "[Sanctuary]",
+				"genre": "eschatology",
+				"artist": "しーけー",
+				"subartist": "Obj. Lapis vs Triforce",
+				"md5": "4ca647a61e781803b2d7bf54f0d582c2",
+				"sha256": "e483ad6f4aec9069ae8eab093b7ea71fe9804f2659cb49c9e11397a50774fe15",
+				"content": 3,
+				"charthash": "7c09ba3f1515d8470278f5b7d61f146fee8f9220a980abbfc894eb75e23f23a0"
+			},
+			{
+				"title": "Trahison [F]",
+				"genre": "betrayer",
+				"artist": "be5moti / うまるつふり",
+				"subartist": "obj:Fender",
+				"md5": "ed2bf0415324f3903c64f44ae0b22f7c",
+				"sha256": "cfbe1e2fa9c74306db2bea67eaf00447169588bb922a70f7b19313d7a8f7cc20",
+				"content": 3,
+				"charthash": "764139702c7a431e6f351ab12dbc6be2e0f6d5799a79c1e7bf8e4d8ff9335e99"
+			},
+			{
+				"title": "レトロモダンの玩具工場 [INSANE]",
+				"genre": "Retrogressive",
+				"artist": "38k",
+				"md5": "3e40449140978a7124ba7ef29c3d4a18",
+				"sha256": "63fda6d84d1f33b19b314f5e7ff8217b7e6e0b593a7cd38c64f820a638f7cd3e",
+				"content": 3,
+				"banner": "banner.bmp",
+				"charthash": "2940343630130cd31c30debe691a100ed311be5e2d8c67994ef66dfa1ae0b3e6"
+			},
+			{
+				"title": "Trane",
+				"subtitle": "[SP ELIXIR]",
+				"genre": "ALCHEMIST -V-(Neo Pagan Folk)",
+				"artist": "MALVA.",
+				"subartist": "BGA : 焼き鳥　Illustration : しえろ。+ 萬田  Obj : BAECON",
+				"md5": "86c1799a5b2bcf6eeda15c1b0854d814",
+				"sha256": "23c8f63a8768bf423dfdf87aa162539ed725e7f93b2e8ade601d21b648d256fb",
+				"content": 3,
+				"stagefile": "_stagefile.jpg",
+				"backbmp": "_backbmp.png",
+				"banner": "_banner.png",
+				"charthash": "5d6712693741b4434d6352caaef225ca9b5834386b88549098e397d464a238a2"
+			},
+			{
+				"title": "和鸞",
+				"subtitle": "[紅翼鳥]",
+				"genre": "神鳥",
+				"artist": "うまるつふり/obj.sitoras",
+				"md5": "c1b9047c9f8bc75fae5a20edeb6dbddd",
+				"sha256": "30a2db8e9691c9d910db1328edc736e8db1e5ea149d1d813ec43e7da8bcc2ce8",
+				"content": 3,
+				"backbmp": "_suzuran_back.jpg",
+				"charthash": "b0efcd8236d737105d3086d9a5337be90b8c2046acf29eeda8cb6f426ee091d8"
+			},
+			{
+				"title": "Poppin' Shower[ANOTHER+]",
+				"genre": "HAPPY SWEETS CORE",
+				"artist": "P*Light / po",
+				"md5": "9978fa59025a74eb897495c0695d0199",
+				"sha256": "33eab3f7df1a45f35aff85d632e0a25b090133bb899d42269deae163016871d3",
+				"content": 3,
+				"stagefile": "stage.png",
+				"charthash": "d2724c61eaa25a555e7b285e7cb9420a62ab29c4233d4c2818103a59702399ab"
+			},
+			{
+				"title": "月時計　Last・Dial(morither+)",
+				"genre": "Trance core",
+				"artist": "ZUN(Arr.sun3) /obj morio",
+				"md5": "41afa5d52dd92d121718a047f155c33b",
+				"sha256": "04b21b3553da1f9ef5b7dd651f46b0345f2cffc209f73ab17b2c44335d7d5a55",
+				"content": 3,
+				"charthash": "7021e7141ceb082580aed7d8939f7053d687e0e2d3ae1e72b730f6dfc6f2c0ff"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl8",
+		"hash": [
+			{
+				"title": "サンシュート・シーサイド",
+				"subtitle": "[HVY-NRG]",
+				"genre": "TROPICAL BASS",
+				"artist": "KAH",
+				"subartist": "BGA:自動車 原付  Illust:榊原またぎ  obj:3830",
+				"md5": "c18e2c5a8d7d45e7a9b83afc97697c17",
+				"sha256": "e31e7cf5668598fca682f2cddfb81d8b96857076914771393ba976313b119c80",
+				"content": 3,
+				"charthash": "e5e8c817ac13cb3f512a402f8064521981b6bfc9b87b4092bf45dc844051f9c9"
+			},
+			{
+				"title": "Stokesia [NEXT]",
+				"genre": "piano",
+				"artist": "lazward / BGI:ミロ飲め夫 / obj:Sar",
+				"md5": "1922023d01ef953493c15342a4c418ca",
+				"sha256": "5caeb9291269000cf72c5d3b6baa88659ac5a3bb9731b08c2846f82527973729",
+				"content": 3,
+				"charthash": "af46faa5c442690ee0d4b31a9e97da6a3d1e8bdea831c68c69196db76c8787bc"
+			},
+			{
+				"title": "recollect [失われた思い出]",
+				"genre": "ELECTRONICA",
+				"artist": "るり / A",
+				"md5": "4ad963fdd1be8cdb511e5dbe476b61e2",
+				"sha256": "5fe6d01889eaf33d9890d4b4b80e21e37befc1f180841794e70789a690d12256",
+				"content": 2,
+				"charthash": "3a10491635282ee1eb5cd10d80675298957f5068ca9eddc63a5fc0884216eae6"
+			},
+			{
+				"title": "RE:START [純]",
+				"genre": "VOCALOID-TRANCEPOP",
+				"artist": "結月ゆかり and Ark-Z obj:音ゲーマーゆかり",
+				"md5": "a456e04f3052977d22151df29bf79406",
+				"sha256": "cfe8cb4cf02076c33c7c0aa898cea7a3d89a091ccdc16618cb6c2decefba8f4b",
+				"content": 3,
+				"stagefile": "RE_START_stage.png",
+				"charthash": "2902152677488c3b7d47e66662f1ebb5ce55f94f70bf4dbdab382a5349b44761"
+			},
+			{
+				"title": "年中夢中な好奇心",
+				"subtitle": "[ManiaK]",
+				"genre": "やるきファンク",
+				"artist": "er",
+				"subartist": "obj:krg",
+				"md5": "9dd34100b83d5e091dcb76c5af65f4bc",
+				"sha256": "26516c6c3c0b46fbf1ccba8b187fb7e46ac0479832781b14e09b31dc32825bde",
+				"content": 3,
+				"charthash": "3519839897edbaafeb2384d110b24f424094713d8600ab31ce121ad5e59c59eb"
+			},
+			{
+				"title": "ラケシスと永遠の祈祷者",
+				"subtitle": "[Sanctuary]",
+				"genre": "eschatology",
+				"artist": "しーけー",
+				"subartist": "Obj. Lapis vs Triforce",
+				"md5": "4ca647a61e781803b2d7bf54f0d582c2",
+				"sha256": "e483ad6f4aec9069ae8eab093b7ea71fe9804f2659cb49c9e11397a50774fe15",
+				"content": 3,
+				"charthash": "7c09ba3f1515d8470278f5b7d61f146fee8f9220a980abbfc894eb75e23f23a0"
+			},
+			{
+				"title": "Trahison [F]",
+				"genre": "betrayer",
+				"artist": "be5moti / うまるつふり",
+				"subartist": "obj:Fender",
+				"md5": "ed2bf0415324f3903c64f44ae0b22f7c",
+				"sha256": "cfbe1e2fa9c74306db2bea67eaf00447169588bb922a70f7b19313d7a8f7cc20",
+				"content": 3,
+				"charthash": "764139702c7a431e6f351ab12dbc6be2e0f6d5799a79c1e7bf8e4d8ff9335e99"
+			},
+			{
+				"title": "レトロモダンの玩具工場 [INSANE]",
+				"genre": "Retrogressive",
+				"artist": "38k",
+				"md5": "3e40449140978a7124ba7ef29c3d4a18",
+				"sha256": "63fda6d84d1f33b19b314f5e7ff8217b7e6e0b593a7cd38c64f820a638f7cd3e",
+				"content": 3,
+				"banner": "banner.bmp",
+				"charthash": "2940343630130cd31c30debe691a100ed311be5e2d8c67994ef66dfa1ae0b3e6"
+			},
+			{
+				"title": "Trane",
+				"subtitle": "[SP ELIXIR]",
+				"genre": "ALCHEMIST -V-(Neo Pagan Folk)",
+				"artist": "MALVA.",
+				"subartist": "BGA : 焼き鳥　Illustration : しえろ。+ 萬田  Obj : BAECON",
+				"md5": "86c1799a5b2bcf6eeda15c1b0854d814",
+				"sha256": "23c8f63a8768bf423dfdf87aa162539ed725e7f93b2e8ade601d21b648d256fb",
+				"content": 3,
+				"stagefile": "_stagefile.jpg",
+				"backbmp": "_backbmp.png",
+				"banner": "_banner.png",
+				"charthash": "5d6712693741b4434d6352caaef225ca9b5834386b88549098e397d464a238a2"
+			},
+			{
+				"title": "和鸞",
+				"subtitle": "[紅翼鳥]",
+				"genre": "神鳥",
+				"artist": "うまるつふり/obj.sitoras",
+				"md5": "c1b9047c9f8bc75fae5a20edeb6dbddd",
+				"sha256": "30a2db8e9691c9d910db1328edc736e8db1e5ea149d1d813ec43e7da8bcc2ce8",
+				"content": 3,
+				"backbmp": "_suzuran_back.jpg",
+				"charthash": "b0efcd8236d737105d3086d9a5337be90b8c2046acf29eeda8cb6f426ee091d8"
+			},
+			{
+				"title": "Poppin' Shower[ANOTHER+]",
+				"genre": "HAPPY SWEETS CORE",
+				"artist": "P*Light / po",
+				"md5": "9978fa59025a74eb897495c0695d0199",
+				"sha256": "33eab3f7df1a45f35aff85d632e0a25b090133bb899d42269deae163016871d3",
+				"content": 3,
+				"stagefile": "stage.png",
+				"charthash": "d2724c61eaa25a555e7b285e7cb9420a62ab29c4233d4c2818103a59702399ab"
+			},
+			{
+				"title": "月時計　Last・Dial(morither+)",
+				"genre": "Trance core",
+				"artist": "ZUN(Arr.sun3) /obj morio",
+				"md5": "41afa5d52dd92d121718a047f155c33b",
+				"sha256": "04b21b3553da1f9ef5b7dd651f46b0345f2cffc209f73ab17b2c44335d7d5a55",
+				"content": 3,
+				"charthash": "7021e7141ceb082580aed7d8939f7053d687e0e2d3ae1e72b730f6dfc6f2c0ff"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl9",
+		"hash": [
+			{
+				"title": "LOVE★BEAM (orange summer mix)-MANIAC-",
+				"genre": "H.H.P(one more mix)",
+				"artist": "honey princess / obj:BAECON",
+				"md5": "307f026a9ff63f3ea8ee4d9b150630c4",
+				"sha256": "ecb854d1b26212411eefc42acd10cd2cb2bd2bc6414c0cb7a75130ac8d5c4d0e",
+				"content": 3,
+				"charthash": "511e8c400f4b1f60e798b25242fb287c7bece83150e5b0ec8cfa32e2ff2fa595"
+			},
+			{
+				"title": "ニニ",
+				"subtitle": "- ニサシゴ -",
+				"genre": "ORIENTAL CORE",
+				"artist": "テヅカ × Qayo",
+				"subartist": "BGI: MUSH.T × PHage / OBJ: swa",
+				"md5": "1bc98542eaf7f0cccfb4026bb3c25f49",
+				"sha256": "92a62a24588968de566b56fceb6c8b761401ea1de31ce7bad5dadee14a26bd35",
+				"content": 3,
+				"stagefile": "nini_title.png",
+				"backbmp": "nini_backbmp.png",
+				"banner": "nini_banner.png",
+				"charthash": "59b7e18628fe59d6335f507146c7e8fcf3d2fcb20c85124104a72b82555c4e78"
+			},
+			{
+				"title": "Dark Sky",
+				"subtitle": "[ManiaK]",
+				"genre": "Euro battle",
+				"artist": "tanacoro/BGA:musao,wars,M.Takezaki",
+				"subartist": "obj:krg",
+				"md5": "7715a81444846a4e456e21c8cc783db0",
+				"sha256": "e947d856d262867909d68638c0e7f038fe031c61ff38f479086131654e726110",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"banner": "banaba-na.png",
+				"charthash": "1bc0e663e569e8972fc64d8f9ca9b9556aab23f8658dc42f7b22377b79b7dc06"
+			},
+			{
+				"title": "Valedict -SA-",
+				"genre": "Sci-fi",
+				"artist": "void",
+				"subartist": "Momomi Aoyama / obj: ランダマイザ",
+				"md5": "602cc5ef40df734beb381fb348e75b83",
+				"sha256": "5c9d6fbb00f62d7483523a847908cc1f11dfb5a9a0bb274d20b3d5b84b42e2aa",
+				"content": 3,
+				"stagefile": "title.png",
+				"charthash": "34d3b6b11122acd6045163bc6653ece33244da983027a6912532a2ab5ced7109"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl9",
+		"hash": [
+			{
+				"title": "Daybreak",
+				"subtitle": "[AM 6:00]",
+				"genre": "Jersey Club",
+				"artist": "DusK / И",
+				"md5": "bd4f6c35383bb1425da385ba12acfd5a",
+				"sha256": "8ab8094b60b1072701cff09b346699cde70c75888b5136198188163757671fbf",
+				"content": 3,
+				"charthash": "890274be174f5612576f4b6be8fec9bf149dd9c08336e8762cf6fbe317196671"
+			},
+			{
+				"title": "八大地獄邪魂転生狂葬散火歌",
+				"subtitle": "[乃憂魔流]",
+				"genre": "地獄愛弩瑠歌妖曲",
+				"artist": "さかみりと",
+				"subartist": "img:しぐれぷに子",
+				"md5": "7c58f39a3c257c585e52fc9820c0070c",
+				"sha256": "5b17d60230dde920b19d3d1c35622f78c9cf25ca3ca90d9eb57bdb08a653d9bc",
+				"content": 3,
+				"stagefile": "_STAGE_.png",
+				"charthash": "c6e6edf099dbd08906d375fddef99ca9ed41f40a120b85e2156b217c41b27f08"
+			},
+			{
+				"title": "永劫綺譚の純潔葬花 -Red Lily-",
+				"genre": "FANTASIC EUROBEAT",
+				"artist": "nmk feat.橘花音",
+				"subartist": "Guitar:はらたま BGA:わっふゑ / selene.",
+				"md5": "cf7c4f006cd571da3b83e355bc64f314",
+				"sha256": "baa8c777729230bb861f4b61f6e0949bf6fa6652a7e95b4c17dfa9122086d472",
+				"content": 3,
+				"charthash": "ae28a29f2725418de35b1c47ee567c89a7a722338ae4a01e93f8d12ebdca6436"
+			},
+			{
+				"title": "Aeventyr [HARDEST]",
+				"genre": "Neo Pagan Folk",
+				"artist": "Grand Thaw/差分 赤い人",
+				"md5": "ad82fe9f05165777f03bcc7b93766caa",
+				"sha256": "0577c4e211addadc2f859dfb5407e264f87f76f74b1b1fdbffebc2d8982bdf67",
+				"content": 3,
+				"stagefile": "_title.jpg",
+				"backbmp": "_logo.png",
+				"charthash": "07eeec879bbcb72a06cd00c443ae9731f6c1387c7c5d5e8c565d4426e6d114b7"
+			},
+			{
+				"title": "LOVE★BEAM (orange summer mix)-MANIAC-",
+				"genre": "H.H.P(one more mix)",
+				"artist": "honey princess / obj:BAECON",
+				"md5": "307f026a9ff63f3ea8ee4d9b150630c4",
+				"sha256": "ecb854d1b26212411eefc42acd10cd2cb2bd2bc6414c0cb7a75130ac8d5c4d0e",
+				"content": 3,
+				"charthash": "511e8c400f4b1f60e798b25242fb287c7bece83150e5b0ec8cfa32e2ff2fa595"
+			},
+			{
+				"title": "ニニ",
+				"subtitle": "- ニサシゴ -",
+				"genre": "ORIENTAL CORE",
+				"artist": "テヅカ × Qayo",
+				"subartist": "BGI: MUSH.T × PHage / OBJ: swa",
+				"md5": "1bc98542eaf7f0cccfb4026bb3c25f49",
+				"sha256": "92a62a24588968de566b56fceb6c8b761401ea1de31ce7bad5dadee14a26bd35",
+				"content": 3,
+				"stagefile": "nini_title.png",
+				"backbmp": "nini_backbmp.png",
+				"banner": "nini_banner.png",
+				"charthash": "59b7e18628fe59d6335f507146c7e8fcf3d2fcb20c85124104a72b82555c4e78"
+			},
+			{
+				"title": "Dark Sky",
+				"subtitle": "[ManiaK]",
+				"genre": "Euro battle",
+				"artist": "tanacoro/BGA:musao,wars,M.Takezaki",
+				"subartist": "obj:krg",
+				"md5": "7715a81444846a4e456e21c8cc783db0",
+				"sha256": "e947d856d262867909d68638c0e7f038fe031c61ff38f479086131654e726110",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"banner": "banaba-na.png",
+				"charthash": "1bc0e663e569e8972fc64d8f9ca9b9556aab23f8658dc42f7b22377b79b7dc06"
+			},
+			{
+				"title": "Valedict -SA-",
+				"genre": "Sci-fi",
+				"artist": "void",
+				"subartist": "Momomi Aoyama / obj: ランダマイザ",
+				"md5": "602cc5ef40df734beb381fb348e75b83",
+				"sha256": "5c9d6fbb00f62d7483523a847908cc1f11dfb5a9a0bb274d20b3d5b84b42e2aa",
+				"content": 3,
+				"stagefile": "title.png",
+				"charthash": "34d3b6b11122acd6045163bc6653ece33244da983027a6912532a2ab5ced7109"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl9",
+		"hash": [
+			{
+				"title": "Happycore☆Tightcore[ょぅι゛ょっょぃ]",
+				"genre": "ぴたっとコア",
+				"artist": "Yu^ta",
+				"md5": "2b165f91c34c170e1cfea80a044b392a",
+				"sha256": "9b41636516a528d89ff1fa886b746a5df33d45a3b45c198c0fdc41d2b93bc424",
+				"content": 3,
+				"stagefile": "_back.png",
+				"banner": "_banner.png",
+				"charthash": "1f8bd722f91509049f4a775839da75952e382f2f01dd927fd61441b9242e3122"
+			},
+			{
+				"title": "Justitia",
+				"subtitle": "[Redemption]",
+				"genre": "Intelligent meets GABBA",
+				"artist": "kanoryo feat.Hanon",
+				"subartist": "U",
+				"md5": "001003eb7179ba8a1c169175fd1aa0f0",
+				"sha256": "1334a43c53c2efa83051b0bb21ec303d2a07557e98153f69405822e63f7861fc",
+				"content": 2,
+				"charthash": "6f5f6af718676a62fd25e488c4cd80f7d843aedf5a7193bf2d7c1ea14034903b"
+			},
+			{
+				"title": "Sunset Toybox [yumether]",
+				"genre": "FUTURE CORE",
+				"artist": "テヅカ x Aoi feat.桃雛なの / obj:夢瑠",
+				"md5": "e385b553488a23c440c776ba18649803",
+				"sha256": "74cc251b0fb07297e9e5791ec28d136aab53fef66121a0c957e752316b1500ed",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"banner": "_banner.png",
+				"charthash": "e9092c559227fcb285efea44528f384a99c18dcff12a44f2978cba74ac870b43"
+			},
+			{
+				"title": "Chasing Stars",
+				"subtitle": "[LIMITLESS]",
+				"genre": "UK HARDCORE",
+				"artist": "lixound",
+				"subartist": "mov:Xquid",
+				"md5": "658844178430ee6b1ce80431c23c2bf9",
+				"sha256": "468cd8ec03174940587f827efb1297505999d7eddfee470190ffc5e26622fc61",
+				"content": 2,
+				"stagefile": "pic.jpg",
+				"charthash": "6337b36a72998146984663b89a5d840c4a419913dcb8fd6d6c4dbbd44b9a4914"
+			},
+			{
+				"title": "Daybreak",
+				"subtitle": "[AM 6:00]",
+				"genre": "Jersey Club",
+				"artist": "DusK / И",
+				"md5": "bd4f6c35383bb1425da385ba12acfd5a",
+				"sha256": "8ab8094b60b1072701cff09b346699cde70c75888b5136198188163757671fbf",
+				"content": 3,
+				"charthash": "890274be174f5612576f4b6be8fec9bf149dd9c08336e8762cf6fbe317196671"
+			},
+			{
+				"title": "八大地獄邪魂転生狂葬散火歌",
+				"subtitle": "[乃憂魔流]",
+				"genre": "地獄愛弩瑠歌妖曲",
+				"artist": "さかみりと",
+				"subartist": "img:しぐれぷに子",
+				"md5": "7c58f39a3c257c585e52fc9820c0070c",
+				"sha256": "5b17d60230dde920b19d3d1c35622f78c9cf25ca3ca90d9eb57bdb08a653d9bc",
+				"content": 3,
+				"stagefile": "_STAGE_.png",
+				"charthash": "c6e6edf099dbd08906d375fddef99ca9ed41f40a120b85e2156b217c41b27f08"
+			},
+			{
+				"title": "永劫綺譚の純潔葬花 -Red Lily-",
+				"genre": "FANTASIC EUROBEAT",
+				"artist": "nmk feat.橘花音",
+				"subartist": "Guitar:はらたま BGA:わっふゑ / selene.",
+				"md5": "cf7c4f006cd571da3b83e355bc64f314",
+				"sha256": "baa8c777729230bb861f4b61f6e0949bf6fa6652a7e95b4c17dfa9122086d472",
+				"content": 3,
+				"charthash": "ae28a29f2725418de35b1c47ee567c89a7a722338ae4a01e93f8d12ebdca6436"
+			},
+			{
+				"title": "Aeventyr [HARDEST]",
+				"genre": "Neo Pagan Folk",
+				"artist": "Grand Thaw/差分 赤い人",
+				"md5": "ad82fe9f05165777f03bcc7b93766caa",
+				"sha256": "0577c4e211addadc2f859dfb5407e264f87f76f74b1b1fdbffebc2d8982bdf67",
+				"content": 3,
+				"stagefile": "_title.jpg",
+				"backbmp": "_logo.png",
+				"charthash": "07eeec879bbcb72a06cd00c443ae9731f6c1387c7c5d5e8c565d4426e6d114b7"
+			},
+			{
+				"title": "LOVE★BEAM (orange summer mix)-MANIAC-",
+				"genre": "H.H.P(one more mix)",
+				"artist": "honey princess / obj:BAECON",
+				"md5": "307f026a9ff63f3ea8ee4d9b150630c4",
+				"sha256": "ecb854d1b26212411eefc42acd10cd2cb2bd2bc6414c0cb7a75130ac8d5c4d0e",
+				"content": 3,
+				"charthash": "511e8c400f4b1f60e798b25242fb287c7bece83150e5b0ec8cfa32e2ff2fa595"
+			},
+			{
+				"title": "ニニ",
+				"subtitle": "- ニサシゴ -",
+				"genre": "ORIENTAL CORE",
+				"artist": "テヅカ × Qayo",
+				"subartist": "BGI: MUSH.T × PHage / OBJ: swa",
+				"md5": "1bc98542eaf7f0cccfb4026bb3c25f49",
+				"sha256": "92a62a24588968de566b56fceb6c8b761401ea1de31ce7bad5dadee14a26bd35",
+				"content": 3,
+				"stagefile": "nini_title.png",
+				"backbmp": "nini_backbmp.png",
+				"banner": "nini_banner.png",
+				"charthash": "59b7e18628fe59d6335f507146c7e8fcf3d2fcb20c85124104a72b82555c4e78"
+			},
+			{
+				"title": "Dark Sky",
+				"subtitle": "[ManiaK]",
+				"genre": "Euro battle",
+				"artist": "tanacoro/BGA:musao,wars,M.Takezaki",
+				"subartist": "obj:krg",
+				"md5": "7715a81444846a4e456e21c8cc783db0",
+				"sha256": "e947d856d262867909d68638c0e7f038fe031c61ff38f479086131654e726110",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"banner": "banaba-na.png",
+				"charthash": "1bc0e663e569e8972fc64d8f9ca9b9556aab23f8658dc42f7b22377b79b7dc06"
+			},
+			{
+				"title": "Valedict -SA-",
+				"genre": "Sci-fi",
+				"artist": "void",
+				"subartist": "Momomi Aoyama / obj: ランダマイザ",
+				"md5": "602cc5ef40df734beb381fb348e75b83",
+				"sha256": "5c9d6fbb00f62d7483523a847908cc1f11dfb5a9a0bb274d20b3d5b84b42e2aa",
+				"content": 3,
+				"stagefile": "title.png",
+				"charthash": "34d3b6b11122acd6045163bc6653ece33244da983027a6912532a2ab5ced7109"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl10",
+		"hash": [
+			{
+				"title": "REZIDUAL MiND[CONNECT]",
+				"genre": "Nostalgic J-POP",
+				"artist": "あとぅす feat.つゆり花鈴",
+				"subartist": "BGI:りーふぱいザウルス",
+				"md5": "39451b7b2ef9310b5d9685c07fb2fd42",
+				"sha256": "3ff806be6e29eb11641b2a9ebcaf6051c64eb470dd1c5b62fb111060b88ed29b",
+				"content": 3,
+				"stagefile": "_title.png",
+				"charthash": "467852efe42c36ca5e1c3c9cfd205e18fb09b3d63711fb1c5211b9a6ef253f7b"
+			},
+			{
+				"title": "* Crow Solace * [yumether]",
+				"genre": "EPIC TRANCECORE",
+				"artist": "m108 / obj:夢瑠",
+				"subartist": "BGA : 砂糖天麩羅 / シキイチル",
+				"md5": "7edf5588eb581544a1796dec1580a363",
+				"sha256": "7d72291d457ac1ba2dce23c635f8f72cde0e33c821894f8686e2126b934c1e08",
+				"content": 3,
+				"stagefile": "_title.jpg",
+				"charthash": "6ad65023a1c277dc95aeb031cb00b04e04043235f639f104be12472cf50a94cd"
+			},
+			{
+				"title": "sitosoym -lyra- [Verus amor]",
+				"genre": "Digital-J-Trance",
+				"artist": "Sakamiya feat.mirina",
+				"subartist": "img:hrchem lyrics:girlsaid / obj:ELIGOS",
+				"md5": "e4bd04876d01ea9103f62c8fe5e94bb6",
+				"sha256": "a0ca626977a64a60df271c87d541c8f810c8a4c1008fdcf24533d2b74416824d",
+				"content": 3,
+				"stagefile": "_STAGE_.bmp",
+				"charthash": "0df34443d8816454b5f27b583b49c32278fd75547e92f9a13a0c16807878cb55"
+			},
+			{
+				"title": "Say A Vengeance [HARDEST]",
+				"genre": "J-CORE",
+				"artist": "ETIA. feat.Jenga/ 差分 赤い人",
+				"subartist": "deadblue238 / 篠乃ちよ",
+				"md5": "89e87af0a7df4a284abfbd6860194498",
+				"sha256": "94b5d8cec26bdbb40eef0c80613efc9fd1207601c51b7cb5b348eef52047bcc3",
+				"content": 3,
+				"stagefile": "_title.png",
+				"charthash": "1083b073b7f64436fbfc3ce66059f86fd0b86b28671bc6276c0bb5ac518b1cf3"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl10",
+		"hash": [
+			{
+				"title": "シレノ [CATACLYSM]",
+				"genre": "Kawaisou Electronica",
+				"artist": "qfeileadh",
+				"subartist": "mov:むらたむうた",
+				"md5": "4c1a2f2f102e89153e73342fd7af1c96",
+				"sha256": "eaf17ffb54c40968a655e4c1a72e9606455dbd2a5d2e0174499cbc4b6ee48851",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_banner.png",
+				"charthash": "473629e4c4b55c95c1d8659b2c2c6a32bf7585d6c8241d44699d6c433a2402e4"
+			},
+			{
+				"title": "ヒュブリスの頂に聳えるのは",
+				"subtitle": "[SP INSANE]",
+				"genre": "Progressive Electro Fusion",
+				"artist": "qfeileadh feat.のあ",
+				"subartist": "Movie:Maeus / Illust:linglvz",
+				"md5": "b22f2eb89fa8924dededeb6d6a4d8c7d",
+				"sha256": "9556f672885db5b987da7d20a071d22fc9e05f574cec45de428bf48be79d40e6",
+				"content": 3,
+				"stagefile": "_title5.png",
+				"banner": "_banner.png",
+				"charthash": "d8d4bb380cdba5f483bc7b4d8e3bd58cbcecdcb4b1f938a6d4a30452d0f8cd43"
+			},
+			{
+				"title": "Grayed Out -Antifront- [Luna]",
+				"genre": "Pumpcore",
+				"artist": "Getty vs. DJ DiA",
+				"subartist": "BGA:わっふゑ vs. でこちんハンマー / selene.",
+				"md5": "07685c8cfbfa61913ddf6a90fb31fe92",
+				"sha256": "b943a8052243e813d24eeb2672a74ebd1f9f9fad71245a2da229db111d9c6401",
+				"content": 3,
+				"stagefile": "stagefile.jpg",
+				"charthash": "73381220fbf48e84a88c3c9b5741560f464a5870611d8e932d1d766ddbbc8a52"
+			},
+			{
+				"title": "Colorful Dream[虹]",
+				"genre": "クプロ可愛いBMS2",
+				"artist": "yuki.s",
+				"md5": "07993824a3248b87a0bb41a4853df7af",
+				"sha256": "74b9219ab72773eb01a1a4198ccdf06a67f1110e559cad985e19c074f26d8956",
+				"content": 3,
+				"charthash": "726cfe52e3e0954903116d72cc67239d71a3fdbae7966661f6d1f628a2abc1c3"
+			},
+			{
+				"title": "REZIDUAL MiND[CONNECT]",
+				"genre": "Nostalgic J-POP",
+				"artist": "あとぅす feat.つゆり花鈴",
+				"subartist": "BGI:りーふぱいザウルス",
+				"md5": "39451b7b2ef9310b5d9685c07fb2fd42",
+				"sha256": "3ff806be6e29eb11641b2a9ebcaf6051c64eb470dd1c5b62fb111060b88ed29b",
+				"content": 3,
+				"stagefile": "_title.png",
+				"charthash": "467852efe42c36ca5e1c3c9cfd205e18fb09b3d63711fb1c5211b9a6ef253f7b"
+			},
+			{
+				"title": "* Crow Solace * [yumether]",
+				"genre": "EPIC TRANCECORE",
+				"artist": "m108 / obj:夢瑠",
+				"subartist": "BGA : 砂糖天麩羅 / シキイチル",
+				"md5": "7edf5588eb581544a1796dec1580a363",
+				"sha256": "7d72291d457ac1ba2dce23c635f8f72cde0e33c821894f8686e2126b934c1e08",
+				"content": 3,
+				"stagefile": "_title.jpg",
+				"charthash": "6ad65023a1c277dc95aeb031cb00b04e04043235f639f104be12472cf50a94cd"
+			},
+			{
+				"title": "sitosoym -lyra- [Verus amor]",
+				"genre": "Digital-J-Trance",
+				"artist": "Sakamiya feat.mirina",
+				"subartist": "img:hrchem lyrics:girlsaid / obj:ELIGOS",
+				"md5": "e4bd04876d01ea9103f62c8fe5e94bb6",
+				"sha256": "a0ca626977a64a60df271c87d541c8f810c8a4c1008fdcf24533d2b74416824d",
+				"content": 3,
+				"stagefile": "_STAGE_.bmp",
+				"charthash": "0df34443d8816454b5f27b583b49c32278fd75547e92f9a13a0c16807878cb55"
+			},
+			{
+				"title": "Say A Vengeance [HARDEST]",
+				"genre": "J-CORE",
+				"artist": "ETIA. feat.Jenga/ 差分 赤い人",
+				"subartist": "deadblue238 / 篠乃ちよ",
+				"md5": "89e87af0a7df4a284abfbd6860194498",
+				"sha256": "94b5d8cec26bdbb40eef0c80613efc9fd1207601c51b7cb5b348eef52047bcc3",
+				"content": 3,
+				"stagefile": "_title.png",
+				"charthash": "1083b073b7f64436fbfc3ce66059f86fd0b86b28671bc6276c0bb5ac518b1cf3"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl10",
+		"hash": [
+			{
+				"title": "煉情ミスティフィリア",
+				"subtitle": "[Purgatory]",
+				"genre": "Cursed Nocturne",
+				"artist": "Sakamiya feat.一花",
+				"subartist": "mov:tolz img:ttv",
+				"md5": "3769518692a7a8acea1caa9b9aed756b",
+				"sha256": "319db32c2e65a1b1ee98a4180f0b728c141e73263e39a30bbc24cbf2fbe9373d",
+				"content": 3,
+				"stagefile": "_STAGE_.PNG",
+				"backbmp": "_BACK_.png",
+				"charthash": "63b38f28944bee04da1cab7bcbc10f70f88d7093929ccd696910f5ecf1345b38"
+			},
+			{
+				"title": "ぱぴぽ？ -でぃすぺあ-",
+				"genre": "宇宙幼女",
+				"artist": "ねこみりん feat.まるもこ",
+				"subartist": "Movie:むらしん / Illust:なか / obj:七海",
+				"md5": "32384e2ce36d8da907072a4a70f42497",
+				"sha256": "ccaa068a9558c16f3e01b67ceea6dd31a46ea4a5cd7aaa40c3ac7dd9eb523c0b",
+				"content": 3,
+				"stagefile": "title.png",
+				"backbmp": "back.png",
+				"banner": "banner.png",
+				"charthash": "8b45c471e441b25b0b123437d42334b3d2c4e11b646302907d1b8cd169f8db47"
+			},
+			{
+				"title": "A-chasing-Y",
+				"subtitle": "[Pain]",
+				"genre": "Digital-J-Pop",
+				"artist": "Sakamiya feat.mirina",
+				"subartist": "img:十恵",
+				"md5": "74b62e4ae1878268d33c5e328243a1dd",
+				"sha256": "0e4b071193923bff1523b84c7f4d3fb58b7ecea2573b232ce187b99f6f453a97",
+				"content": 3,
+				"stagefile": "_STAGE_.bmp",
+				"charthash": "a7666f9034d533524914274e4e4a6c62edda91d48598a696bb98fdc482cb5d1b"
+			},
+			{
+				"title": "ハートマークとエンドロール [Coeur]",
+				"genre": "MAGICAL TUNE",
+				"artist": "KA-KU feat.春歌ナナ",
+				"md5": "ed2ed05899fc1cddc0f3c45a030da778",
+				"sha256": "bc8942266a70601e87412f026eee676872811292ec1afdc0e8cb09b361f159a9",
+				"content": 3,
+				"stagefile": "back.bmp",
+				"banner": "banner.bmp",
+				"charthash": "7739255a480c7f145363e46fadc26ec82bdc1f497f727225db4fdc5d875bf13d"
+			},
+			{
+				"title": "シレノ [CATACLYSM]",
+				"genre": "Kawaisou Electronica",
+				"artist": "qfeileadh",
+				"subartist": "mov:むらたむうた",
+				"md5": "4c1a2f2f102e89153e73342fd7af1c96",
+				"sha256": "eaf17ffb54c40968a655e4c1a72e9606455dbd2a5d2e0174499cbc4b6ee48851",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_banner.png",
+				"charthash": "473629e4c4b55c95c1d8659b2c2c6a32bf7585d6c8241d44699d6c433a2402e4"
+			},
+			{
+				"title": "ヒュブリスの頂に聳えるのは",
+				"subtitle": "[SP INSANE]",
+				"genre": "Progressive Electro Fusion",
+				"artist": "qfeileadh feat.のあ",
+				"subartist": "Movie:Maeus / Illust:linglvz",
+				"md5": "b22f2eb89fa8924dededeb6d6a4d8c7d",
+				"sha256": "9556f672885db5b987da7d20a071d22fc9e05f574cec45de428bf48be79d40e6",
+				"content": 3,
+				"stagefile": "_title5.png",
+				"banner": "_banner.png",
+				"charthash": "d8d4bb380cdba5f483bc7b4d8e3bd58cbcecdcb4b1f938a6d4a30452d0f8cd43"
+			},
+			{
+				"title": "Grayed Out -Antifront- [Luna]",
+				"genre": "Pumpcore",
+				"artist": "Getty vs. DJ DiA",
+				"subartist": "BGA:わっふゑ vs. でこちんハンマー / selene.",
+				"md5": "07685c8cfbfa61913ddf6a90fb31fe92",
+				"sha256": "b943a8052243e813d24eeb2672a74ebd1f9f9fad71245a2da229db111d9c6401",
+				"content": 3,
+				"stagefile": "stagefile.jpg",
+				"charthash": "73381220fbf48e84a88c3c9b5741560f464a5870611d8e932d1d766ddbbc8a52"
+			},
+			{
+				"title": "Colorful Dream[虹]",
+				"genre": "クプロ可愛いBMS2",
+				"artist": "yuki.s",
+				"md5": "07993824a3248b87a0bb41a4853df7af",
+				"sha256": "74b9219ab72773eb01a1a4198ccdf06a67f1110e559cad985e19c074f26d8956",
+				"content": 3,
+				"charthash": "726cfe52e3e0954903116d72cc67239d71a3fdbae7966661f6d1f628a2abc1c3"
+			},
+			{
+				"title": "REZIDUAL MiND[CONNECT]",
+				"genre": "Nostalgic J-POP",
+				"artist": "あとぅす feat.つゆり花鈴",
+				"subartist": "BGI:りーふぱいザウルス",
+				"md5": "39451b7b2ef9310b5d9685c07fb2fd42",
+				"sha256": "3ff806be6e29eb11641b2a9ebcaf6051c64eb470dd1c5b62fb111060b88ed29b",
+				"content": 3,
+				"stagefile": "_title.png",
+				"charthash": "467852efe42c36ca5e1c3c9cfd205e18fb09b3d63711fb1c5211b9a6ef253f7b"
+			},
+			{
+				"title": "* Crow Solace * [yumether]",
+				"genre": "EPIC TRANCECORE",
+				"artist": "m108 / obj:夢瑠",
+				"subartist": "BGA : 砂糖天麩羅 / シキイチル",
+				"md5": "7edf5588eb581544a1796dec1580a363",
+				"sha256": "7d72291d457ac1ba2dce23c635f8f72cde0e33c821894f8686e2126b934c1e08",
+				"content": 3,
+				"stagefile": "_title.jpg",
+				"charthash": "6ad65023a1c277dc95aeb031cb00b04e04043235f639f104be12472cf50a94cd"
+			},
+			{
+				"title": "sitosoym -lyra- [Verus amor]",
+				"genre": "Digital-J-Trance",
+				"artist": "Sakamiya feat.mirina",
+				"subartist": "img:hrchem lyrics:girlsaid / obj:ELIGOS",
+				"md5": "e4bd04876d01ea9103f62c8fe5e94bb6",
+				"sha256": "a0ca626977a64a60df271c87d541c8f810c8a4c1008fdcf24533d2b74416824d",
+				"content": 3,
+				"stagefile": "_STAGE_.bmp",
+				"charthash": "0df34443d8816454b5f27b583b49c32278fd75547e92f9a13a0c16807878cb55"
+			},
+			{
+				"title": "Say A Vengeance [HARDEST]",
+				"genre": "J-CORE",
+				"artist": "ETIA. feat.Jenga/ 差分 赤い人",
+				"subartist": "deadblue238 / 篠乃ちよ",
+				"md5": "89e87af0a7df4a284abfbd6860194498",
+				"sha256": "94b5d8cec26bdbb40eef0c80613efc9fd1207601c51b7cb5b348eef52047bcc3",
+				"content": 3,
+				"stagefile": "_title.png",
+				"charthash": "1083b073b7f64436fbfc3ce66059f86fd0b86b28671bc6276c0bb5ac518b1cf3"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl11",
+		"hash": [
+			{
+				"title": "LIGHTNING STAIRWAY",
+				"subtitle": "[SPIRAL++]",
+				"genre": "Emotional Story Tellings",
+				"artist": "shimizushi",
+				"subartist": "BGA : karoeya & a.a / obj : monaka",
+				"md5": "c9d0d8001a2ad32ddbc086b793c5af78",
+				"sha256": "03c5127bd5ca8441dc28aaf8f0dd3c9066144db42c964e0732b3c485298f8a8d",
+				"content": 3,
+				"stagefile": "Title_BS_0000.bmp",
+				"banner": "banner_BS.bmp",
+				"charthash": "58ce55e251f006b236a0bdab7be309d4f2743358d6b5337ebfbc5e779baa59aa"
+			},
+			{
+				"title": "endemize[RE:RIZE]",
+				"genre": "Nostalgic J-POP",
+				"artist": "あとぅす feat.つゆり花鈴",
+				"subartist": "BGI:りーふぱいザウルス obj:Lian",
+				"md5": "97ac4aa319e5e38381636889a5438133",
+				"sha256": "044df37a14396121de5ef5ceeb2f53ea7021fbff0ec0c133f0374cbafa56f8db",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_banner.png",
+				"charthash": "e0a915f2070c836d670fd20c184cce4b4d44e76a876e65bcd81c9e6326d35672"
+			},
+			{
+				"title": "架空ユリカゴ　[EX]",
+				"genre": "A-Rock",
+				"artist": "Hate × Ritsu × Salita/さ",
+				"subartist": "Douglas × Mentalstock",
+				"md5": "8841ecde594f990c6731e6a1d6b898e5",
+				"sha256": "0158acb2c9bb2876c08ec86ce1b96115faf2262d789d606e9de5eddc089a60fc",
+				"content": 2,
+				"backbmp": "YRKG.png",
+				"charthash": "5c10e4c931419869243ef8f91ed26c62a4b2ca5ae74d5ca7907f81e6f3302825"
+			},
+			{
+				"title": "After Burner",
+				"subtitle": "[SKY HIGH]",
+				"genre": "BRAVE",
+				"artist": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+				"subartist": "obj:BAECON",
+				"md5": "c6e40998c81fbf3ae79484adc8975280",
+				"sha256": "92c86b4a43ee309fe9249eb88c1ee00b04d43ecebaa55fd949059f05008277c2",
+				"content": 3,
+				"stagefile": "_AB_stage.jpg",
+				"backbmp": "_AB_titlemap.bmp",
+				"banner": "_AB_banner.png",
+				"charthash": "fb9e111080df802d833b5208c0b2c97e0df87ecaba473c90f2f0dd4bdeb6e585"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl11",
+		"hash": [
+			{
+				"title": "PANIC! BOUNCE!! ATTACK!!!",
+				"subtitle": "[SP UNKNOWN]",
+				"genre": "BUNNY! BOUNCE!! KITTY!",
+				"artist": "ptar124",
+				"subartist": "BGA: Yumemochi, OBJ:七海",
+				"md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
+				"sha256": "ca56a3cfe9364c0eccf4988d6cc6aad999bd9958c7235b6c22f2e5c5c65fae51",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"banner": "banner.png",
+				"charthash": "2746e849c64fbbc4e97968d0cd86ea64fd943494d11155c341db1fb1992a0112"
+			},
+			{
+				"title": "Final examination -Luna-",
+				"genre": "School life memories",
+				"artist": "sukuramu42",
+				"subartist": "Illust:恋々 / selene.",
+				"md5": "76d96a034e9f28ef1eab7b5627b22ef4",
+				"sha256": "b0dcc21c98f16dea37e1d04847004fe17e03ea1db350fa71a9c0daf6ce92f5da",
+				"content": 3,
+				"charthash": "b3aa37490d394377179b0240a8a6f3040143565dd30f2184bad5471c0cda1a6a"
+			},
+			{
+				"title": "HAPPY☆LUCKY☆BABY [SP AMETHER-A]",
+				"genre": "Jハッピコ！",
+				"artist": "DJ TAKUAN 及び 白羽美依 / obj:AMERIA",
+				"md5": "3fb0e6356a1fb97f30fdc30f65ffa311",
+				"sha256": "cceb37c089873c6328c88036c06ecb54e0c0467ca5379299994a1fa86dd180f8",
+				"content": 3,
+				"backbmp": "happy_bg.png",
+				"banner": "happy_banner.png",
+				"charthash": "b75ba34a6bdb64f820d83f0b1130bb0a33ce085ee59ca9cb935ed6169e739aeb"
+			},
+			{
+				"title": "More Selfish",
+				"subtitle": "[Social Distancing]",
+				"genre": "24/7 HOUSE",
+				"artist": "mommy",
+				"md5": "cb8de500653a3c8259966d635774827c",
+				"sha256": "2fbd4e17b87c99c645e370e0a9a1b43aac08ac2175a2d226ce7a6691eb6d6c44",
+				"content": 3,
+				"stagefile": "stage.bmp",
+				"charthash": "d58b35cd759c50539be177a8c6d208c1286721cc7b1c092043babe0cf07b3848"
+			},
+			{
+				"title": "LIGHTNING STAIRWAY",
+				"subtitle": "[SPIRAL++]",
+				"genre": "Emotional Story Tellings",
+				"artist": "shimizushi",
+				"subartist": "BGA : karoeya & a.a / obj : monaka",
+				"md5": "c9d0d8001a2ad32ddbc086b793c5af78",
+				"sha256": "03c5127bd5ca8441dc28aaf8f0dd3c9066144db42c964e0732b3c485298f8a8d",
+				"content": 3,
+				"stagefile": "Title_BS_0000.bmp",
+				"banner": "banner_BS.bmp",
+				"charthash": "58ce55e251f006b236a0bdab7be309d4f2743358d6b5337ebfbc5e779baa59aa"
+			},
+			{
+				"title": "endemize[RE:RIZE]",
+				"genre": "Nostalgic J-POP",
+				"artist": "あとぅす feat.つゆり花鈴",
+				"subartist": "BGI:りーふぱいザウルス obj:Lian",
+				"md5": "97ac4aa319e5e38381636889a5438133",
+				"sha256": "044df37a14396121de5ef5ceeb2f53ea7021fbff0ec0c133f0374cbafa56f8db",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_banner.png",
+				"charthash": "e0a915f2070c836d670fd20c184cce4b4d44e76a876e65bcd81c9e6326d35672"
+			},
+			{
+				"title": "架空ユリカゴ　[EX]",
+				"genre": "A-Rock",
+				"artist": "Hate × Ritsu × Salita/さ",
+				"subartist": "Douglas × Mentalstock",
+				"md5": "8841ecde594f990c6731e6a1d6b898e5",
+				"sha256": "0158acb2c9bb2876c08ec86ce1b96115faf2262d789d606e9de5eddc089a60fc",
+				"content": 2,
+				"backbmp": "YRKG.png",
+				"charthash": "5c10e4c931419869243ef8f91ed26c62a4b2ca5ae74d5ca7907f81e6f3302825"
+			},
+			{
+				"title": "After Burner",
+				"subtitle": "[SKY HIGH]",
+				"genre": "BRAVE",
+				"artist": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+				"subartist": "obj:BAECON",
+				"md5": "c6e40998c81fbf3ae79484adc8975280",
+				"sha256": "92c86b4a43ee309fe9249eb88c1ee00b04d43ecebaa55fd949059f05008277c2",
+				"content": 3,
+				"stagefile": "_AB_stage.jpg",
+				"backbmp": "_AB_titlemap.bmp",
+				"banner": "_AB_banner.png",
+				"charthash": "fb9e111080df802d833b5208c0b2c97e0df87ecaba473c90f2f0dd4bdeb6e585"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl11",
+		"hash": [
+			{
+				"title": "It's \"alice\" dream[HARDEST]",
+				"genre": "HARDCORE",
+				"artist": "polysha/ 差分 赤い人",
+				"md5": "7e32af584080fb9965bbf497947de99f",
+				"sha256": "7f0224a6b0022dfc9998f30f22d4065d784b04c9b482219db14a91bf730363f7",
+				"content": 3,
+				"stagefile": "bgi.bmp",
+				"charthash": "aa4f84d9a8e8b88f39253ef78a3bd1a775f2643298c599d43762a5c33c14e2e0"
+			},
+			{
+				"title": "EMOTIONAL POLARIZATION",
+				"subtitle": "[EX]",
+				"genre": "hardCORE [中級者IR（高速乱打）]",
+				"artist": "hard / obj:marquee",
+				"md5": "6d53695f5abc7594d9d705c6da80994f",
+				"sha256": "cdb698774f471807431688cb08f41fea9699366bc5a0bdb33a0737b369419b4b",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"backbmp": "_backbmp.png",
+				"banner": "_banner.png",
+				"charthash": "b6d55743369c1ef8467f7742e220fec3f7a57c5f803932b8ee51b49aeb41bdc7"
+			},
+			{
+				"title": "Valkyrie Revolutia [Blossom]",
+				"genre": "Holy knight core",
+				"artist": "Sakamiya / obj.fuko",
+				"md5": "3306e0ad9a72073aaf2cdfbc054d8b9d",
+				"sha256": "acb4575be8968911ea3c59e7d281fb34225b1bb9226a058e1eff32568a3520a6",
+				"content": 3,
+				"stagefile": "02.png",
+				"backbmp": "03.png",
+				"charthash": "b5385051eef6d7b0cea3d5ef0c11a4d2f457cae39bb12900308d62d79db28c30"
+			},
+			{
+				"title": "Re*incarnacion [MANIAQ]",
+				"genre": "Trancecore",
+				"artist": "lazward",
+				"subartist": "BGA:ましろ / obj.siokaze",
+				"md5": "60369a31c8b59f441cd3a404708bb788",
+				"sha256": "3ebab7719695b031508b1da3114979a065c1009a7ece19bdb094e3d898f62251",
+				"content": 3,
+				"charthash": "4dfb6ac8585b94693beb151807ec8f8ae2542b76495cf25522a05e75ce2c94cf"
+			},
+			{
+				"title": "PANIC! BOUNCE!! ATTACK!!!",
+				"subtitle": "[SP UNKNOWN]",
+				"genre": "BUNNY! BOUNCE!! KITTY!",
+				"artist": "ptar124",
+				"subartist": "BGA: Yumemochi, OBJ:七海",
+				"md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
+				"sha256": "ca56a3cfe9364c0eccf4988d6cc6aad999bd9958c7235b6c22f2e5c5c65fae51",
+				"content": 3,
+				"stagefile": "stagefile.png",
+				"banner": "banner.png",
+				"charthash": "2746e849c64fbbc4e97968d0cd86ea64fd943494d11155c341db1fb1992a0112"
+			},
+			{
+				"title": "Final examination -Luna-",
+				"genre": "School life memories",
+				"artist": "sukuramu42",
+				"subartist": "Illust:恋々 / selene.",
+				"md5": "76d96a034e9f28ef1eab7b5627b22ef4",
+				"sha256": "b0dcc21c98f16dea37e1d04847004fe17e03ea1db350fa71a9c0daf6ce92f5da",
+				"content": 3,
+				"charthash": "b3aa37490d394377179b0240a8a6f3040143565dd30f2184bad5471c0cda1a6a"
+			},
+			{
+				"title": "HAPPY☆LUCKY☆BABY [SP AMETHER-A]",
+				"genre": "Jハッピコ！",
+				"artist": "DJ TAKUAN 及び 白羽美依 / obj:AMERIA",
+				"md5": "3fb0e6356a1fb97f30fdc30f65ffa311",
+				"sha256": "cceb37c089873c6328c88036c06ecb54e0c0467ca5379299994a1fa86dd180f8",
+				"content": 3,
+				"backbmp": "happy_bg.png",
+				"banner": "happy_banner.png",
+				"charthash": "b75ba34a6bdb64f820d83f0b1130bb0a33ce085ee59ca9cb935ed6169e739aeb"
+			},
+			{
+				"title": "More Selfish",
+				"subtitle": "[Social Distancing]",
+				"genre": "24/7 HOUSE",
+				"artist": "mommy",
+				"md5": "cb8de500653a3c8259966d635774827c",
+				"sha256": "2fbd4e17b87c99c645e370e0a9a1b43aac08ac2175a2d226ce7a6691eb6d6c44",
+				"content": 3,
+				"stagefile": "stage.bmp",
+				"charthash": "d58b35cd759c50539be177a8c6d208c1286721cc7b1c092043babe0cf07b3848"
+			},
+			{
+				"title": "LIGHTNING STAIRWAY",
+				"subtitle": "[SPIRAL++]",
+				"genre": "Emotional Story Tellings",
+				"artist": "shimizushi",
+				"subartist": "BGA : karoeya & a.a / obj : monaka",
+				"md5": "c9d0d8001a2ad32ddbc086b793c5af78",
+				"sha256": "03c5127bd5ca8441dc28aaf8f0dd3c9066144db42c964e0732b3c485298f8a8d",
+				"content": 3,
+				"stagefile": "Title_BS_0000.bmp",
+				"banner": "banner_BS.bmp",
+				"charthash": "58ce55e251f006b236a0bdab7be309d4f2743358d6b5337ebfbc5e779baa59aa"
+			},
+			{
+				"title": "endemize[RE:RIZE]",
+				"genre": "Nostalgic J-POP",
+				"artist": "あとぅす feat.つゆり花鈴",
+				"subartist": "BGI:りーふぱいザウルス obj:Lian",
+				"md5": "97ac4aa319e5e38381636889a5438133",
+				"sha256": "044df37a14396121de5ef5ceeb2f53ea7021fbff0ec0c133f0374cbafa56f8db",
+				"content": 3,
+				"stagefile": "_title.png",
+				"banner": "_banner.png",
+				"charthash": "e0a915f2070c836d670fd20c184cce4b4d44e76a876e65bcd81c9e6326d35672"
+			},
+			{
+				"title": "架空ユリカゴ　[EX]",
+				"genre": "A-Rock",
+				"artist": "Hate × Ritsu × Salita/さ",
+				"subartist": "Douglas × Mentalstock",
+				"md5": "8841ecde594f990c6731e6a1d6b898e5",
+				"sha256": "0158acb2c9bb2876c08ec86ce1b96115faf2262d789d606e9de5eddc089a60fc",
+				"content": 2,
+				"backbmp": "YRKG.png",
+				"charthash": "5c10e4c931419869243ef8f91ed26c62a4b2ca5ae74d5ca7907f81e6f3302825"
+			},
+			{
+				"title": "After Burner",
+				"subtitle": "[SKY HIGH]",
+				"genre": "BRAVE",
+				"artist": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+				"subartist": "obj:BAECON",
+				"md5": "c6e40998c81fbf3ae79484adc8975280",
+				"sha256": "92c86b4a43ee309fe9249eb88c1ee00b04d43ecebaa55fd949059f05008277c2",
+				"content": 3,
+				"stagefile": "_AB_stage.jpg",
+				"backbmp": "_AB_titlemap.bmp",
+				"banner": "_AB_banner.png",
+				"charthash": "fb9e111080df802d833b5208c0b2c97e0df87ecaba473c90f2f0dd4bdeb6e585"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Simulator sl12",
+		"hash": [
+			{
+				"title": "Chase Mission[INSANE]",
+				"genre": "HARDCORE",
+				"artist": "あとぅす",
+				"subartist": "BGI:Micelle",
+				"md5": "de6b8516132614b665aa8cdd46c654dc",
+				"sha256": "c5edec72c58202b3322b2c2e0a8ac4aef91c62bad1b3eb946260f6079824f4e0",
+				"content": 3,
+				"charthash": "465f8eab15cf2148563b712f787c4d3b56c187781ff389a5ceabb11ae925252f"
+			},
+			{
+				"title": "Wizdomiot[Kerother]",
+				"genre": "RATIONAL PUNISHMENT",
+				"artist": "ZUN remixed by LeaF / obj:けろささ",
+				"subartist": "Movie:Optie",
+				"md5": "0fdfa48d94bf63953661e8ebb0658dd8",
+				"sha256": "c3a9cf7ee8269614d6af4f0ef9d3da7dc7e9f301a6b878ae5ba714746f463f0a",
+				"content": 3,
+				"stagefile": "_title.jpg",
+				"charthash": "baa037704200d20f005f0c11c0131880d0a6db23f5804cc429a61781994f1996"
+			},
+			{
+				"title": "天海原～あまみはら～【天穹】",
+				"genre": "極浦",
+				"artist": "うまるつふり",
+				"subartist": "obj.sitoras",
+				"md5": "25fa6f793b02c300e1430864903fbb0b",
+				"sha256": "2ff3e617140ce02a332186870403cd788f6ed2f677ececc1e9dc645f08ab1ac2",
+				"content": 3,
+				"charthash": "0a6d89b5fb42cd81aa55e5e04ed1b44edd644e10ad64cef970cd7c8f192683dd"
+			},
+			{
+				"title": "ひつぎとふたご [逝]",
+				"genre": "NU-STYLE GABBA",
+				"artist": "plastic feat.サキト / obj:sarada",
+				"md5": "748b1b7d1244c6b977cdbf7fb3722703",
+				"sha256": "e74c5d6e5520c623e73a9d9fa34012976d6503874073089315f878d26e8ed0cd",
+				"content": 3,
+				"stagefile": "titlefutago.bmp",
+				"charthash": "9dc7ddb094fcccd01a61e2101bf441ce53a66c50181fcc1b9d5e0a32eae24fa4"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Suki Simulator sl12",
+		"hash": [
+			{
+				"title": "シグナルほっぴんぐ[Yakther]",
+				"genre": "Melodic Trance",
+				"artist": "Kuwagata",
+				"md5": "049a283f3e0ae3509a718474a2706c7c",
+				"sha256": "10984f1bb4b3b1af62c64cf6e69aa73899bdcbe552ae4c99e18ec729f8e0ddf0",
+				"content": 3,
+				"stagefile": "jacket.png",
+				"backbmp": "jacket.png",
+				"banner": "jacket.png",
+				"charthash": "3772e7994f9a67485c98cafa7dc5e17a479c485c7daf16dc7527afebc8dfc71e"
+			},
+			{
+				"title": "Sigmoid [Analytic]",
+				"genre": "UK Hardcore",
+				"artist": "Yu^ta feat. みずにんじん",
+				"md5": "1de52296e68de07a51a0fecd09684784",
+				"sha256": "cd3edc72c2904edd68e845dd509fbaa6ab4e509f20ebfda419427d7566ac1a72",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"backbmp": "_logo.png",
+				"banner": "_banner.png",
+				"charthash": "f5a188a08ff85f9f5d1e49cfc0cdadf40d28c1322885836ef425301b4f93dbc9"
+			},
+			{
+				"title": "kkotipari Hangaduk[HARDEST]",
+				"genre": "Sweet Hardcore",
+				"artist": "bbangsami feat.Sugar Reactor / Haping,SMIN/ 差分　赤い人",
+				"md5": "b775902c83b0a0d9c84ada43f94f160b",
+				"sha256": "d25628b8d2f9a131d03d0de85e1c35b230a818fb4398382e559dea0a4cf8ae67",
+				"content": 3,
+				"stagefile": "_anemone.png",
+				"backbmp": "back_anemone.png",
+				"banner": "banner_4.png",
+				"charthash": "ea16f18eeb1765971f445045981db95bfb56d481b26ff10adc88a8a0df69d0c3"
+			},
+			{
+				"title": "Daydreamer [EX]",
+				"genre": "Hardcore",
+				"artist": "Lime / Roaring Flame/さ",
+				"md5": "9b3b8e98a362e86546551d5a16052364",
+				"sha256": "423e9dee0c5859618c7601aff0c0128b4aabe3c68028a015521fb795b9160b6d",
+				"content": 2,
+				"stagefile": "title.bmp",
+				"banner": "banner.bmp",
+				"charthash": "e171975651944bc51d7e74b7abc89cd6070e74a47710c7b7fd986dd271f57f6a"
+			},
+			{
+				"title": "Chase Mission[INSANE]",
+				"genre": "HARDCORE",
+				"artist": "あとぅす",
+				"subartist": "BGI:Micelle",
+				"md5": "de6b8516132614b665aa8cdd46c654dc",
+				"sha256": "c5edec72c58202b3322b2c2e0a8ac4aef91c62bad1b3eb946260f6079824f4e0",
+				"content": 3,
+				"charthash": "465f8eab15cf2148563b712f787c4d3b56c187781ff389a5ceabb11ae925252f"
+			},
+			{
+				"title": "Wizdomiot[Kerother]",
+				"genre": "RATIONAL PUNISHMENT",
+				"artist": "ZUN remixed by LeaF / obj:けろささ",
+				"subartist": "Movie:Optie",
+				"md5": "0fdfa48d94bf63953661e8ebb0658dd8",
+				"sha256": "c3a9cf7ee8269614d6af4f0ef9d3da7dc7e9f301a6b878ae5ba714746f463f0a",
+				"content": 3,
+				"stagefile": "_title.jpg",
+				"charthash": "baa037704200d20f005f0c11c0131880d0a6db23f5804cc429a61781994f1996"
+			},
+			{
+				"title": "天海原～あまみはら～【天穹】",
+				"genre": "極浦",
+				"artist": "うまるつふり",
+				"subartist": "obj.sitoras",
+				"md5": "25fa6f793b02c300e1430864903fbb0b",
+				"sha256": "2ff3e617140ce02a332186870403cd788f6ed2f677ececc1e9dc645f08ab1ac2",
+				"content": 3,
+				"charthash": "0a6d89b5fb42cd81aa55e5e04ed1b44edd644e10ad64cef970cd7c8f192683dd"
+			},
+			{
+				"title": "ひつぎとふたご [逝]",
+				"genre": "NU-STYLE GABBA",
+				"artist": "plastic feat.サキト / obj:sarada",
+				"md5": "748b1b7d1244c6b977cdbf7fb3722703",
+				"sha256": "e74c5d6e5520c623e73a9d9fa34012976d6503874073089315f878d26e8ed0cd",
+				"content": 3,
+				"stagefile": "titlefutago.bmp",
+				"charthash": "9dc7ddb094fcccd01a61e2101bf441ce53a66c50181fcc1b9d5e0a32eae24fa4"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	},
+	{
+		"class": "bms.player.beatoraja.CourseData",
+		"name": "Rhythm Girls Daisuki Simulator sl12",
+		"hash": [
+			{
+				"title": "ハニエルのうた",
+				"subtitle": "[EXTRA]",
+				"genre": "ANGELIC FUTURE POP",
+				"artist": "sak feat.みゅい",
+				"subartist": "BGI:球根",
+				"md5": "b2d0911f389aab92b4f7b0ff5ca345e0",
+				"sha256": "64d660d736f89296a97c7c510412735a153b4d8fc9811392b7cacce10125be1a",
+				"content": 3,
+				"charthash": "39e357f3cc2fc69b86704e3f218b88d64931b35af8c78ad5afd00ef31647cba7"
+			},
+			{
+				"title": "Suffering of screw",
+				"subtitle": "[chaotic world]",
+				"genre": "Digital-J-Pop",
+				"artist": "Sakamiya feat.遊左 未",
+				"subartist": "img:moyura",
+				"md5": "fbd038dac2047b6f277a64c605f0ca57",
+				"sha256": "e30deedba7b4df70b1be16a688f7fad1fdfe7ead6764c96b637e83bb7c108a68",
+				"content": 3,
+				"stagefile": "_STAGE_.png",
+				"charthash": "d2cce9c817ae08e0e2e48873e29200baf4e55138cd3e273af2514a4da124d33e"
+			},
+			{
+				"title": "星少女ステラユニオン -叛逆の物語-",
+				"genre": "SACRIFICE ARTSPEED",
+				"artist": "LiA / obj.swa",
+				"subartist": "BGA:Milk_tya / Illust:hrchem",
+				"md5": "6a631229fb332f69cc97b12c87991f34",
+				"sha256": "fc435a7ef262ae1371d118c8b472ae1394ceed044d1949891bd241e788b8a6b1",
+				"content": 3,
+				"charthash": "e8753791468de969b6ddd88d28dfea08fd68acab8652f8e3444753e7eb17946f"
+			},
+			{
+				"title": "しぇる☆どっきんぐ ～だめ！このままじゃ溢れちゃう！～[HARDEST]",
+				"genre": "LILY POP",
+				"artist": "髭姫 feat.しゆ＆橘花音/ 差分 赤い人",
+				"subartist": "LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO",
+				"md5": "0ef63d0fc1f2c2031ca6fa3bb06e6351",
+				"sha256": "bf4a607e4c6566fcc4b5f100bf51c360b0a9cd7c3f6a2d97f60d857b969ca787",
+				"content": 3,
+				"charthash": "acac378a0c6395ec00db013ad45415e402136e7984106571dc16317dc0ee68eb"
+			},
+			{
+				"title": "シグナルほっぴんぐ[Yakther]",
+				"genre": "Melodic Trance",
+				"artist": "Kuwagata",
+				"md5": "049a283f3e0ae3509a718474a2706c7c",
+				"sha256": "10984f1bb4b3b1af62c64cf6e69aa73899bdcbe552ae4c99e18ec729f8e0ddf0",
+				"content": 3,
+				"stagefile": "jacket.png",
+				"backbmp": "jacket.png",
+				"banner": "jacket.png",
+				"charthash": "3772e7994f9a67485c98cafa7dc5e17a479c485c7daf16dc7527afebc8dfc71e"
+			},
+			{
+				"title": "Sigmoid [Analytic]",
+				"genre": "UK Hardcore",
+				"artist": "Yu^ta feat. みずにんじん",
+				"md5": "1de52296e68de07a51a0fecd09684784",
+				"sha256": "cd3edc72c2904edd68e845dd509fbaa6ab4e509f20ebfda419427d7566ac1a72",
+				"content": 3,
+				"stagefile": "_stagefile.png",
+				"backbmp": "_logo.png",
+				"banner": "_banner.png",
+				"charthash": "f5a188a08ff85f9f5d1e49cfc0cdadf40d28c1322885836ef425301b4f93dbc9"
+			},
+			{
+				"title": "kkotipari Hangaduk[HARDEST]",
+				"genre": "Sweet Hardcore",
+				"artist": "bbangsami feat.Sugar Reactor / Haping,SMIN/ 差分　赤い人",
+				"md5": "b775902c83b0a0d9c84ada43f94f160b",
+				"sha256": "d25628b8d2f9a131d03d0de85e1c35b230a818fb4398382e559dea0a4cf8ae67",
+				"content": 3,
+				"stagefile": "_anemone.png",
+				"backbmp": "back_anemone.png",
+				"banner": "banner_4.png",
+				"charthash": "ea16f18eeb1765971f445045981db95bfb56d481b26ff10adc88a8a0df69d0c3"
+			},
+			{
+				"title": "Daydreamer [EX]",
+				"genre": "Hardcore",
+				"artist": "Lime / Roaring Flame/さ",
+				"md5": "9b3b8e98a362e86546551d5a16052364",
+				"sha256": "423e9dee0c5859618c7601aff0c0128b4aabe3c68028a015521fb795b9160b6d",
+				"content": 2,
+				"stagefile": "title.bmp",
+				"banner": "banner.bmp",
+				"charthash": "e171975651944bc51d7e74b7abc89cd6070e74a47710c7b7fd986dd271f57f6a"
+			},
+			{
+				"title": "Chase Mission[INSANE]",
+				"genre": "HARDCORE",
+				"artist": "あとぅす",
+				"subartist": "BGI:Micelle",
+				"md5": "de6b8516132614b665aa8cdd46c654dc",
+				"sha256": "c5edec72c58202b3322b2c2e0a8ac4aef91c62bad1b3eb946260f6079824f4e0",
+				"content": 3,
+				"charthash": "465f8eab15cf2148563b712f787c4d3b56c187781ff389a5ceabb11ae925252f"
+			},
+			{
+				"title": "Wizdomiot[Kerother]",
+				"genre": "RATIONAL PUNISHMENT",
+				"artist": "ZUN remixed by LeaF / obj:けろささ",
+				"subartist": "Movie:Optie",
+				"md5": "0fdfa48d94bf63953661e8ebb0658dd8",
+				"sha256": "c3a9cf7ee8269614d6af4f0ef9d3da7dc7e9f301a6b878ae5ba714746f463f0a",
+				"content": 3,
+				"stagefile": "_title.jpg",
+				"charthash": "baa037704200d20f005f0c11c0131880d0a6db23f5804cc429a61781994f1996"
+			},
+			{
+				"title": "天海原～あまみはら～【天穹】",
+				"genre": "極浦",
+				"artist": "うまるつふり",
+				"subartist": "obj.sitoras",
+				"md5": "25fa6f793b02c300e1430864903fbb0b",
+				"sha256": "2ff3e617140ce02a332186870403cd788f6ed2f677ececc1e9dc645f08ab1ac2",
+				"content": 3,
+				"charthash": "0a6d89b5fb42cd81aa55e5e04ed1b44edd644e10ad64cef970cd7c8f192683dd"
+			},
+			{
+				"title": "ひつぎとふたご [逝]",
+				"genre": "NU-STYLE GABBA",
+				"artist": "plastic feat.サキト / obj:sarada",
+				"md5": "748b1b7d1244c6b977cdbf7fb3722703",
+				"sha256": "e74c5d6e5520c623e73a9d9fa34012976d6503874073089315f878d26e8ed0cd",
+				"content": 3,
+				"stagefile": "titlefutago.bmp",
+				"charthash": "9dc7ddb094fcccd01a61e2101bf441ce53a66c50181fcc1b9d5e0a32eae24fa4"
+			}
+		],
+		"constraint": [
+			"CLASS",
+			"GAUGE_LR2",
+			"LN"
+		],
+		"trophy": [
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "silvermedal",
+				"missrate": 5,
+				"scorerate": 70
+			},
+			{
+				"class": "bms.player.beatoraja.CourseData$TrophyData",
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85
+			}
+		],
+		"release": true
+	}
+]
+}
