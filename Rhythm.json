@@ -49,7 +49,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -161,7 +161,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -313,7 +313,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -390,7 +390,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -510,7 +510,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -676,7 +676,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -752,7 +752,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -877,7 +877,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1050,7 +1050,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1126,7 +1126,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1249,7 +1249,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1421,7 +1421,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1497,7 +1497,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1617,7 +1617,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1785,7 +1785,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1867,7 +1867,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1890,8 +1890,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -1994,7 +1993,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -2017,8 +2016,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -2165,7 +2163,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -2188,8 +2186,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -2244,7 +2241,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -2267,8 +2264,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -2368,7 +2364,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -2391,8 +2387,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -2539,7 +2534,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -2562,8 +2557,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -2618,7 +2612,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -2641,8 +2635,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -2740,7 +2733,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -2763,8 +2756,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -2903,7 +2895,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -2926,8 +2918,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -2979,7 +2970,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -3002,8 +2993,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -3097,7 +3087,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -3120,8 +3110,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -3254,7 +3243,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -3277,8 +3266,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -3333,7 +3321,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -3356,8 +3344,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -3455,7 +3442,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -3478,8 +3465,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -3622,7 +3608,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -3645,8 +3631,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -3698,7 +3683,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -3721,8 +3706,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -3819,7 +3803,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -3842,8 +3826,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -3989,7 +3972,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -4012,8 +3995,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -4071,7 +4053,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -4094,8 +4076,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -4198,7 +4179,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -4221,8 +4202,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -4369,7 +4349,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -4392,8 +4372,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -4442,7 +4421,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -4465,8 +4444,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -4562,7 +4540,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -4585,8 +4563,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	},
 	{
 		"class": "bms.player.beatoraja.CourseData",
@@ -4725,7 +4702,7 @@
 			}
 		],
 		"constraint": [
-			"CLASS",
+			"MIRROR",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -4748,8 +4725,7 @@
 				"missrate": 2.5,
 				"scorerate": 85
 			}
-		],
-		"release": true
+		]
 	}
 ]
 }
