@@ -1,5 +1,7 @@
 {
-"name": "Rhythm Girls Simulator 1st",
+"name" : "Rhythm Girls Simulator 1st",
+"symbol" : "♬女"
+"data_url" : []
 "course": [
 	{
 		"class": "bms.player.beatoraja.CourseData",
