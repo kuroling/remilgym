@@ -60,19 +60,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -172,19 +172,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -324,19 +324,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -401,19 +401,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -521,19 +521,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -687,19 +687,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -763,19 +763,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -888,19 +888,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -1061,19 +1061,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -1137,19 +1137,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -1260,19 +1260,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -1432,19 +1432,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -1508,19 +1508,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -1628,19 +1628,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -1796,19 +1796,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -1878,19 +1878,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -2004,19 +2004,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -2174,19 +2174,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -2252,19 +2252,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -2375,19 +2375,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -2545,19 +2545,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -2623,19 +2623,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -2744,19 +2744,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -2906,19 +2906,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -2981,19 +2981,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -3098,19 +3098,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -3254,19 +3254,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -3332,19 +3332,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -3453,19 +3453,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -3619,19 +3619,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -3694,19 +3694,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -3814,19 +3814,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -3983,19 +3983,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -4064,19 +4064,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -4190,19 +4190,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -4360,19 +4360,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -4432,19 +4432,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -4551,19 +4551,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	},
@@ -4713,19 +4713,19 @@
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "bronzemedal",
 				"missrate": 7.5,
-				"scorerate": 55
+				"scorerate": 55.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "silvermedal",
-				"missrate": 5,
-				"scorerate": 70
+				"missrate": 5.0,
+				"scorerate": 70.0
 			},
 			{
 				"class": "bms.player.beatoraja.CourseData$TrophyData",
 				"name": "goldmedal",
 				"missrate": 2.5,
-				"scorerate": 85
+				"scorerate": 85.0
 			}
 		]
 	}
