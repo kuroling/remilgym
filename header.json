@@ -1,5 +1,6 @@
 {
 "name" : "Rhythm Girls Simulator 1st",
+"symbol" : "♬",
 "data_url" : "data.json",
 "course": [
 	{
@@ -7,13 +8,13 @@
 		"charts": [
 		{
 			"sha256" : "3754aed494f3d2a49f83d837c02295e91780c5edbf94d2e28df5d4e3ca5cbd96",
-		}
+		},
 		{
 			"sha256" : "c04f1a406edff7288eda16c33770394c60973925750d434121ddb696e25d1dad",
-		}
+		},
 		{		
 			"sha256" : "6c80304f22e16b9927e72a9e1f05381c3072e03100b9d55f35c852e2366cc485",
-		}
+		},
 		{
 			"sha256" : "ca105a6b956cae12a06e78c654bca9e9f2beaf250b790284958ce69af0e1714e"
 		}
