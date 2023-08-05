@@ -20,10 +20,10 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
-			"GAUGE_LR2",
+			"grade_mirror",
+			"gauge_lr2",
 			"LN"
-		],
+			],
 		"trophy": [
 			{
 				"name": "bronzemedal",
@@ -71,7 +71,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -135,7 +135,7 @@
 			}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -174,7 +174,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -225,7 +225,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -288,7 +288,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -327,7 +327,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -378,7 +378,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -441,7 +441,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -481,7 +481,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -533,7 +533,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -596,7 +596,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -635,7 +635,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -686,7 +686,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -749,7 +749,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -788,7 +788,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -839,7 +839,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -902,7 +902,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -941,7 +941,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -992,7 +992,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1055,7 +1055,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1094,7 +1094,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1145,7 +1145,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1208,7 +1208,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1247,7 +1247,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1298,7 +1298,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1361,7 +1361,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1400,7 +1400,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1451,7 +1451,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1514,7 +1514,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1553,7 +1553,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1604,7 +1604,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1667,7 +1667,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1706,7 +1706,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1757,7 +1757,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1820,7 +1820,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1859,7 +1859,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1910,7 +1910,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
@@ -1973,7 +1973,7 @@
 		}
 		],
 		"constraint": [
-			"MIRROR",
+			"grade_mirror",
 			"GAUGE_LR2",
 			"LN"
 		],
