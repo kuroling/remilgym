@@ -22,7 +22,7 @@
 		"constraint": [
 			"grade_mirror",
 			"gauge_lr2",
-			"LN"
+			"ln"
 			],
 		"trophy": [
 			{
@@ -72,8 +72,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -136,8 +136,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -175,8 +175,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -226,8 +226,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -289,8 +289,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -328,8 +328,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -379,8 +379,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -442,8 +442,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -482,8 +482,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -534,8 +534,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -597,8 +597,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -636,8 +636,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -687,8 +687,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -750,8 +750,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -789,8 +789,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -840,8 +840,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -903,8 +903,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -942,8 +942,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -993,8 +993,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1056,8 +1056,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1095,8 +1095,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1146,8 +1146,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1209,8 +1209,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1248,8 +1248,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1299,8 +1299,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1362,8 +1362,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1401,8 +1401,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1452,8 +1452,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1515,8 +1515,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1554,8 +1554,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1605,8 +1605,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1668,8 +1668,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1707,8 +1707,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1758,8 +1758,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1821,8 +1821,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1860,8 +1860,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1911,8 +1911,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -1974,8 +1974,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2013,8 +2013,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2064,8 +2064,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2127,8 +2127,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2166,8 +2166,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2217,8 +2217,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2280,8 +2280,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2319,8 +2319,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2370,8 +2370,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2433,8 +2433,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2472,8 +2472,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2523,8 +2523,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2586,8 +2586,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2625,8 +2625,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2676,8 +2676,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2739,8 +2739,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2778,8 +2778,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2829,8 +2829,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
@@ -2892,8 +2892,8 @@
 		],
 		"constraint": [
 			"grade_mirror",
-			"GAUGE_LR2",
-			"LN"
+			"gauge_lr2",
+			"ln"
 		],
 		"trophy": [
 			{
