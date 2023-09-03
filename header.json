@@ -2912,6 +2912,465 @@
 				"scorerate": 85.0
 			}
 		]
-	}
+	},
+	{
+		"name": "Rhythm Girls Simulator st6",
+		"charts": [
+		{
+			"sha256": "61b19e1077ed7b4f911ef51514100941f5c744a80b3be251cd1b61782c71af5e"
+		},
+		{
+			"sha256": "16d762b327d97efed26fb59b542dd02264ac0240f10d341459ebaf2c6050a337"
+		},
+		{
+			"sha256": "f172399f5b64e66230df2f519eaa129ef5cee19b732bb543671980213a656e60"
+		},
+		{
+			"sha256": "22b27eee1c0abf277c74258a94ee6c848a29c4f315473aff48d49eef1530b66a"
+		}
+		],
+		"constraint": [
+			"grade_mirror",
+			"gauge_lr2",
+			"ln"
+		],
+		"trophy": [
+			{
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55.0
+			},
+			{
+				"name": "silvermedal",
+				"missrate": 5.0,
+				"scorerate": 70.0
+			},
+			{
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85.0
+			}
+		]
+	},
+	{
+		"name": "Rhythm Girls Suki Simulator st6",
+		"charts": [
+		{
+			"sha256": "33129afdc0b04ae8fe1250b8f61f6d9fd47cf1f6918aed4680635379a191638e"
+		},
+		{
+			"sha256": "19510dfee78a7eb477dafcd367a871436f09960271e1cc080b2cf2533a0c6fa1"
+		},
+		{
+			"sha256": "603076aea7c7a53fa0777def9093e387e8d99edc37a7ae31af1e0f69fd55fe15"
+		},
+		{
+			"sha256": "05e825f0c6a3eb113a7a0fa87255e987a610d37b34809e1fded221b843e2ffb0"
+		},
+		{
+			"sha256": "61b19e1077ed7b4f911ef51514100941f5c744a80b3be251cd1b61782c71af5e"
+		},
+		{
+			"sha256": "16d762b327d97efed26fb59b542dd02264ac0240f10d341459ebaf2c6050a337"
+		},
+		{
+			"sha256": "f172399f5b64e66230df2f519eaa129ef5cee19b732bb543671980213a656e60"
+		},
+		{
+			"sha256": "22b27eee1c0abf277c74258a94ee6c848a29c4f315473aff48d49eef1530b66a"
+		}
+		],
+		"constraint": [
+			"grade_mirror",
+			"gauge_lr2",
+			"ln"
+		],
+		"trophy": [
+			{
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55.0
+			},
+			{
+				"name": "silvermedal",
+				"missrate": 5.0,
+				"scorerate": 70.0
+			},
+			{
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85.0
+			}
+		]
+	},
+	{
+		"name": "Rhythm Girls Daisuki Simulator st6",
+		"charts": [
+		{
+			"sha256": "31a5af22166efa8f0638b51cface7507f0d3cef8f47a0c8e73d875dbdc0d6f7a"
+		},
+		{
+			"sha256": "0b8154ed2575ca6c3994bdb2eb960de16b266b8a3ddf6f4cde380522fa3b5221"
+		},
+		{
+			"sha256": "4fd59cf84456881e63ccbccf7845106f4dfc7162722cbc8cbf8722bc31a18342"
+		},
+		{
+			"sha256": "1354b2dfec453ef1dd472f16a67a5a5af51fdb624f3b7d7dd08cec535701ee09"
+		},
+		{
+			"sha256": "33129afdc0b04ae8fe1250b8f61f6d9fd47cf1f6918aed4680635379a191638e"
+		},
+		{
+			"sha256": "19510dfee78a7eb477dafcd367a871436f09960271e1cc080b2cf2533a0c6fa1"
+		},
+		{
+			"sha256": "603076aea7c7a53fa0777def9093e387e8d99edc37a7ae31af1e0f69fd55fe15"
+		},
+		{
+			"sha256": "05e825f0c6a3eb113a7a0fa87255e987a610d37b34809e1fded221b843e2ffb0"
+		},
+		{
+			"sha256": "61b19e1077ed7b4f911ef51514100941f5c744a80b3be251cd1b61782c71af5e"
+		},
+		{
+			"sha256": "16d762b327d97efed26fb59b542dd02264ac0240f10d341459ebaf2c6050a337"
+		},
+		{
+			"sha256": "f172399f5b64e66230df2f519eaa129ef5cee19b732bb543671980213a656e60"
+		},
+		{
+			"sha256": "22b27eee1c0abf277c74258a94ee6c848a29c4f315473aff48d49eef1530b66a"
+		}
+		],
+		"constraint": [
+			"grade_mirror",
+			"gauge_lr2",
+			"ln"
+		],
+		"trophy": [
+			{
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55.0
+			},
+			{
+				"name": "silvermedal",
+				"missrate": 5.0,
+				"scorerate": 70.0
+			},
+			{
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85.0
+			}
+		]
+	},
+	{
+		"name": "Rhythm Girls Simulator st7",
+		"charts": [
+		{
+			"sha256": "09c67636ed514bf156d695876bcee93d06fc39eaddcadd40a0fecfe5040cf6b7"
+		},
+		{
+			"sha256": "27a04271b1b87568c8417b0978ec81ccbe52e58acf13889fec1419a343168a72"
+		},
+		{
+			"sha256": "122375d32b53e4796b442086cfcd207c0862e8594ba880e66a239adb74fe5d11"
+		},
+		{
+			"sha256": "870733045673b2f799a813bbafd9710e7347232f5aaf87be9c25523f1ab32eb7"
+		}
+		],
+		"constraint": [
+			"grade_mirror",
+			"gauge_lr2",
+			"ln"
+		],
+		"trophy": [
+			{
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55.0
+			},
+			{
+				"name": "silvermedal",
+				"missrate": 5.0,
+				"scorerate": 70.0
+			},
+			{
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85.0
+			}
+		]
+	},
+	{
+		"name": "Rhythm Girls Suki Simulator st7",
+		"charts": [
+		{
+			"sha256": "f69e77bded2f89a8bf9cd5b7d61372eab27465dbd3e59abc3b52f3a8e90e4c69"
+		},
+		{
+			"sha256": "e7b0ff3742a1e68ad6c19e8c937ffa419a085f80defc3d6d036486f32b4d8a34"
+		},
+		{
+			"sha256": "401810d639422c30c816280079159f552c076aadf035bc3206cf55abea6b7e0e"
+		},
+		{
+			"sha256": "8ae61fe1f64559d6b05ceefae26a9e8444229eecf00fe24a5299dfddc78aa647"
+		},
+		{
+			"sha256": "09c67636ed514bf156d695876bcee93d06fc39eaddcadd40a0fecfe5040cf6b7"
+		},
+		{
+			"sha256": "27a04271b1b87568c8417b0978ec81ccbe52e58acf13889fec1419a343168a72"
+		},
+		{
+			"sha256": "122375d32b53e4796b442086cfcd207c0862e8594ba880e66a239adb74fe5d11"
+		},
+		{
+			"sha256": "870733045673b2f799a813bbafd9710e7347232f5aaf87be9c25523f1ab32eb7"
+		}
+		],
+		"constraint": [
+			"grade_mirror",
+			"gauge_lr2",
+			"ln"
+		],
+		"trophy": [
+			{
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55.0
+			},
+			{
+				"name": "silvermedal",
+				"missrate": 5.0,
+				"scorerate": 70.0
+			},
+			{
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85.0
+			}
+		]
+	},
+	{
+		"name": "Rhythm Girls Daisuki Simulator st7",
+		"charts": [
+		{
+			"sha256": "4072e7de2c2c30999a86dc5dbf6450077d0bb2415e20989a25f252b89e798987"
+		},
+		{
+			"sha256": "22ef196a281c69bcb67d6f2287876945364ec36e9ae1831050c94a53e015bd41"
+		},
+		{
+			"sha256": "ea1754803481b44d9d4784fdc2b03d130be9224ce11d59c16e71af807e3791c5"
+		},
+		{
+			"sha256": "cebaa5fb8fe8f0a393c0b802e83bd33eb537ab03966c14fce2f515048f981278"
+		},
+		{
+			"sha256": "f69e77bded2f89a8bf9cd5b7d61372eab27465dbd3e59abc3b52f3a8e90e4c69"
+		},
+		{
+			"sha256": "e7b0ff3742a1e68ad6c19e8c937ffa419a085f80defc3d6d036486f32b4d8a34"
+		},
+		{
+			"sha256": "401810d639422c30c816280079159f552c076aadf035bc3206cf55abea6b7e0e"
+		},
+		{
+			"sha256": "8ae61fe1f64559d6b05ceefae26a9e8444229eecf00fe24a5299dfddc78aa647"
+		},
+		{
+			"sha256": "09c67636ed514bf156d695876bcee93d06fc39eaddcadd40a0fecfe5040cf6b7"
+		},
+		{
+			"sha256": "27a04271b1b87568c8417b0978ec81ccbe52e58acf13889fec1419a343168a72"
+		},
+		{
+			"sha256": "122375d32b53e4796b442086cfcd207c0862e8594ba880e66a239adb74fe5d11"
+		},
+		{
+			"sha256": "870733045673b2f799a813bbafd9710e7347232f5aaf87be9c25523f1ab32eb7"
+		}
+		],
+		"constraint": [
+			"grade_mirror",
+			"gauge_lr2",
+			"ln"
+		],
+		"trophy": [
+			{
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55.0
+			},
+			{
+				"name": "silvermedal",
+				"missrate": 5.0,
+				"scorerate": 70.0
+			},
+			{
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85.0
+			}
+		]
+	},
+	{
+		"name": "Rhythm Girls Simulator st8",
+		"charts": [
+		{
+			"sha256": "6d00c418b106f2e3fb2726d02f3323e70be0be8a501395e1e2f9f6568b97729f"
+		},
+		{
+			"sha256": "91f87d4ff209e2e63aa611b11f10b8375075ab556ec04c21710828fe7cc0a34f"
+		},
+		{
+			"sha256": "d82a7ee2a0ca1d8bbeb1c7705d2c298d401fa1eb4f38576bf95914a722de7042"
+		},
+		{
+			"sha256": "486bab83d726b9b3dd05319278ba6c4ffdf2467f9c89afc590e738ab063304dc"
+		}
+		],
+		"constraint": [
+			"grade_mirror",
+			"gauge_lr2",
+			"ln"
+		],
+		"trophy": [
+			{
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55.0
+			},
+			{
+				"name": "silvermedal",
+				"missrate": 5.0,
+				"scorerate": 70.0
+			},
+			{
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85.0
+			}
+		]
+	},
+	{
+		"name": "Rhythm Girls Suki Simulator st8",
+		"charts": [
+		{
+			"sha256": "2e3cbd8365df088038be125d09d8a964aa0c4ab78812360bdda88776342edf36"
+		},
+		{
+			"sha256": "4742a30b3ec43d9ff742198bd0766e25f054847dfc6dd32c33766505b41312be"
+		},
+		{
+			"sha256": "1b212b609edb63f20f8d58f8511692270c13bc34e7f658d0643fd25ae43c7b79"
+		},
+		{
+			"sha256": "9f62765a944d8b6e7926edde57eced9b424351f628a171b46d8725a164fce098"
+		},
+		{
+			"sha256": "6d00c418b106f2e3fb2726d02f3323e70be0be8a501395e1e2f9f6568b97729f"
+		},
+		{
+			"sha256": "91f87d4ff209e2e63aa611b11f10b8375075ab556ec04c21710828fe7cc0a34f"
+		},
+		{
+			"sha256": "d82a7ee2a0ca1d8bbeb1c7705d2c298d401fa1eb4f38576bf95914a722de7042"
+		},
+		{
+			"sha256": "486bab83d726b9b3dd05319278ba6c4ffdf2467f9c89afc590e738ab063304dc"
+		}
+		],
+		"constraint": [
+			"grade_mirror",
+			"gauge_lr2",
+			"ln"
+		],
+		"trophy": [
+			{
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55.0
+			},
+			{
+				"name": "silvermedal",
+				"missrate": 5.0,
+				"scorerate": 70.0
+			},
+			{
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85.0
+			}
+		]
+	},
+	{
+		"name": "Rhythm Girls Daisuki Simulator st8",
+		"charts": [
+		{
+			"sha256": "108df69023dd437fb1dbbdc427230bc10563cb00de5cbe908d386122695f14bf"
+		},
+		{
+			"sha256": "1f83e048ebd341214f235b6609f8ce9c45def2ef774db057fe6b251483204041"
+		},
+		{
+			"sha256": "bc90ad5ffb3884efde40b3c757d557e22d4279c6cc7504ca056f67a5ff4282b0"
+		},
+		{
+			"sha256": "ae6efd4440baac7f286bb91197bb1e4a663b5219c2d81b9190622ba37bb6604a"
+		},
+		{
+			"sha256": "2e3cbd8365df088038be125d09d8a964aa0c4ab78812360bdda88776342edf36"
+		},
+		{
+			"sha256": "4742a30b3ec43d9ff742198bd0766e25f054847dfc6dd32c33766505b41312be"
+		},
+		{
+			"sha256": "1b212b609edb63f20f8d58f8511692270c13bc34e7f658d0643fd25ae43c7b79"
+		},
+		{
+			"sha256": "9f62765a944d8b6e7926edde57eced9b424351f628a171b46d8725a164fce098"
+		},
+		{
+			"sha256": "6d00c418b106f2e3fb2726d02f3323e70be0be8a501395e1e2f9f6568b97729f"
+		},
+		{
+			"sha256": "91f87d4ff209e2e63aa611b11f10b8375075ab556ec04c21710828fe7cc0a34f"
+		},
+		{
+			"sha256": "d82a7ee2a0ca1d8bbeb1c7705d2c298d401fa1eb4f38576bf95914a722de7042"
+		},
+		{
+			"sha256": "486bab83d726b9b3dd05319278ba6c4ffdf2467f9c89afc590e738ab063304dc"
+		}
+		],
+		"constraint": [
+			"grade_mirror",
+			"gauge_lr2",
+			"ln"
+		],
+		"trophy": [
+			{
+				"name": "bronzemedal",
+				"missrate": 7.5,
+				"scorerate": 55.0
+			},
+			{
+				"name": "silvermedal",
+				"missrate": 5.0,
+				"scorerate": 70.0
+			},
+			{
+				"name": "goldmedal",
+				"missrate": 2.5,
+				"scorerate": 85.0
+			}
+		]
+	}	
 	]
 }
